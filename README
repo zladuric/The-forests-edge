@@ -1,8 +1,7 @@
-TFE Classic "final" release 1.0.
-
+#TFE Classic "final" release 1.0.#
+## Test login info ##
 Login: TempImm
 Password: llama
-
 
 The only 3 rooms are those that are needed for the code to run:
 
@@ -10,5 +9,12 @@ The only 3 rooms are those that are needed for the code to run:
 #9: Default
 #33751: Death
 
-
 The only mob is #31, the blank mob, used as a template for new mobs.
+
+## Source and binaries ##
+The source code is obtained from [Seltha](http://seltha.net/tfe/). The TFE Classic Starter kit was modified minimally to get the code to compile on the following machine:
+Linux server 2.6.18-308.8.2.el5.centos.plus #1 SMP Tue Jun 12 15:41:32 EDT 2012 x86_64 x86_64 x86_64 GNU/Linux
+using c++ (GCC) 4.1.2 20080704 (Red Hat 4.1.2-52)
+
+
+
