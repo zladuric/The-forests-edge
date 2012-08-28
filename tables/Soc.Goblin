@@ -1,0 +1,705 @@
+#TABLE
+
+28
+
+"bawl"
+6
+0
+1
+1
+"You bawl incessantly.  Life is hard!"
+"$n bawls incessantly.  What a poor, pathetic goblin."
+"You bawl incessantly at $M.  Life is hard!"
+"$n bawls incessantly at $N.  What a poor, pathetic goblin."
+"$n bawls incessantly at you.  What a poor, pathetic goblin."
+"You hear some loud bawling."
+"You bawl incessantly to yourself, creating a huge puddle of tears."
+"$n bawls incessantly to $mself, creating a huge, icky puddle."
+"You look at $p and begin to bawl incessantly."
+"$n looks at $p and begins to bawl incessantly."
+"You look $tward and begin to bawl incessantly."
+"$n looks $tward and begins to bawl incessantly."
+"You look at $p and begin bawling incessantly at $N."
+"$n looks at $p and begins bawling incessantly at you."
+"$n looks at $p and begins bawling incessantly at $N."
+"You hear some loud bawling noise."
+"You look at $p and begin bawling incessantly at yourself."
+"$n looks at $p and begins bawling incessantly to $mself."
+""
+
+"bellow"
+6
+0
+0
+1
+"You beat your chest and let out a @E@Rgoblin war cry@n!"
+"$n beats $s chest and lets out a@E@R goblin war cry@n!"
+"You turn to $N and let out a@E@R goblin war cry@n!"
+"$n turns to $N and lets out a@E@R goblin war cry@n!"
+"$n turns to you and lets out a@E@R goblin war cry@n!"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"blame"
+6
+0
+0
+0
+"You whistle tunelessly.  Who me?"
+"$n whistles tunelessly, attempting to look innocent."
+"You point an accusing finger at $N.  $>E did it!"
+"Trying to look innocent, $n points $s finger at $N."
+"$n points $s finger accusingly at you.  That dirty, double-crossing scoundrel!"
+""
+"You point to yourself proudly.  I did it!"
+"$n points to $mself proudly.  $>e's to blame for it all."
+"You point to $p.  It's all $p's fault!  Honest."
+"$n points an accusing finger at $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"bob"
+6
+0
+0
+0
+"You bob your head up and down."
+"$n bobs $s little head up and down."
+"You bob your head up and down in response to $N."
+"$n bobs $s little head up and down in response to $N."
+"$n bobs $s little head up and down in response to you."
+""
+"You bob your head up and down violently.  Whooo what a rush!"
+"$n bobs $s little head up and down violently.  Looks painful."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"dance"
+8
+0
+1
+1
+"You twirl around and perform the goblin mating dance."
+"$n twirls around and begins performing some sort of goblin mating dance."
+"You grab $N, twirling and gyrating to the music in your head."
+"$n grabs $N, twirling and gyrating in an obscene manner."
+"$n grabs you, twirling and gyrating in an obscene manner."
+""
+"You wrap your arms around yourself and gyrate to the music in your head."
+"$n wraps $s arms around $mself and gyrates in an obscene manner."
+"You grab $p, twirling and gyrating to the music in your head."
+"$n grabs $p, twirling and gyrating in an obscene manner."
+"You twirl and gyrate and ease on $tward."
+"$n twirls and gyrates and eases on $tward."
+""
+""
+""
+""
+""
+""
+""
+
+"ear"
+6
+0
+0
+0
+"You begin picking something itchy out of your ear."
+"$n begins picking something out of $s ear."
+"You pick something out of your ear and show it to $N."
+"$n picks something out of $s ear and shows it to $N."
+"$n picks something out of $s ear and shows it to you."
+""
+"You pick something out of your ear and taste it."
+"$n picks something out of $s ear and tastes it."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"envy"
+6
+0
+0
+0
+"Your skin turns even@G greener@n with envy."
+"$n's skin turns even@G greener@n with envy."
+"You look at $N, your skin turning even@G greener@n with envy."
+"$n looks at $N, $n's skin turning even@G greener@n with envy."
+"$n looks at you, $s skin turning even@G greener@n with envy."
+""
+""
+""
+"You look at $p, your skin turning @Ggreener@n with envy."
+"$n looks at $p, $s skin turning @Ggreener@n with envy."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"file"
+6
+0
+0
+0
+"Who or what do you want to file?"
+""
+"You take out a rusty file and offer to sharpen $N's teeth."
+"$n takes out a rusty file and offers to sharpen $N's teeth."
+"$n takes out a rusty file and offers to sharpen your teeth."
+""
+"You take out a rusty file and begin sharpening your teeth."
+"$n takes out a rusty file and begins sharpening $s teeth."
+"You get $p and attempt to sharpen your teeth with it."
+"$n gets $p and attempts to sharpen $s teeth with it."
+""
+""
+"You get $p and offer to sharpen $N's teeth with it."
+"$n gets $p and offers to sharpen your teeth with it."
+"$n gets $p and offers to sharpen $N's teeth with it."
+""
+"You get $p and begin sharpening your teeth with it."
+"$n gets $p and begins sharpening $s teeth with it."
+""
+
+"giggle"
+6
+0
+1
+0
+"You begin giggling uncontrollably."
+"$n begins giggling uncontrollably."
+"You giggle uncontrollably at $N's silliness."
+"$n begins giggling uncontrollably at $N's silliness."
+"$n giggles uncontrollably at your silliness."
+""
+"You giggle at your silliness.  Will the silliness ever end?"
+"$n giggles at $s own silliness.  Will the silliness ever end?"
+"You begin giggling uncontrollably at $p."
+"$n begins giggling uncontrollably at $p."
+"You sneak a peek $t and begin giggling uncontrollably."
+"$n sneaks a peek $t and begins giggling uncontrollably."
+""
+""
+""
+""
+""
+""
+""
+
+"gnaw"
+6
+0
+1
+1
+"You bend over and gnaw on the ground."
+"$n bends over and starts to gnaw on the ground."
+"You bend over and begin gnawing on $N's ankles."
+"$n starts to gnaw on $N's ankles."
+"$n begins to gnaw on your ankles.  You can't shake $m loose!"
+"You feel something gnawing at your feet."
+"You start to gnaw on your fingers."
+"$n starts to gnaw on $s fingers."
+"You bend over and begin gnawing on $p."
+"$n bends over and begins gnawing on $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"grin"
+6
+0
+0
+0
+"Your lips widen, forming a sharp-toothed grin."
+"$n's lips widen, forming a sharp-toothed grin."
+"You grin at $N mischievously, @b@Gdrool@n dripping down your teeth."
+"With @b@Gdrool@n dripping down $s teeth, $n grins mischievously at $N."
+"$n grins at you mischievously, @b@Gdrool@n dripping down $s teeth."
+""
+"You grin at yourself.  What mischief do you have planned?"
+"$n grins at $mself.  What's on $s mischievous, little mind?"
+"You grin at $p mischievously."
+"$n grins at $p mischievously."
+"You look $t and grin mischievously."
+"$n looks $t and grins mischievously."
+""
+""
+""
+""
+""
+""
+""
+
+"hifive"
+8
+0
+1
+1
+"Who or what do you want to high five?"
+""
+"You leap up in the air and give $N a high-five."
+"$n leaps up in the air and gives $N a high-five."
+"$n leaps up in the air and gives you a high-five."
+""
+"You give yourself a high-five."
+"$n gives $mself a high-five."
+"You leap up in the air and give $p at high-five."
+"$n leaps up in the air and gives $p a high-five."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"leer"
+6
+0
+0
+1
+"Who or what would you like to leer at?"
+""
+"You leer suggestively at $N."
+"$n leers at $N, $s eyes bulging suggestively."
+"$n leers at you, $s eyes bulging suggestively"
+"Your dreams are invaded by visions of a goblin with questionable virtue."
+"You try and leer at yourself but fail, ending up with crossed eyes and a slight headache."
+"$n crosses $s eyes and contorts $s face."
+"You leer suggestively at $p."
+"$n leers at $p, $s eyes bulging with desire."
+"You leer suggestively $t."
+"$n leers suggestively $t."
+""
+""
+""
+""
+""
+""
+""
+
+"lick"
+0
+0
+0
+0
+"You lick your lips greedily."
+"$n licks his lips, an evil gleam in $s eyes."
+"You lick $N, drenching $M with your lovely saliva."
+"$n licks $N, drenching $M with gooey saliva."
+"$n licks you, drenching you with $s gooey saliva."
+"You feel something lick you, invading your sleep with something @W@Egooey@n."
+"You lick yourself, bathing yourself in gooey saliva."
+"$n licks $mself, bathing $mself in $s gooey saliva."
+"You lick $p.  Yummy."
+"$n licks $p.  Yummy."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"moon"
+8
+0
+1
+1
+"You drop your pants and wiggle your behind in the air."
+"$n drops $s pants and wiggles $s behind in the air."
+"You drop your pants and wiggle your behind at $N."
+"$n drops $s pants and wiggles his behind at $N."
+"$n drops $s pants and wiggles $s behind at you."
+""
+""
+""
+"You perch $p atop your behind, and moon everyone."
+"$n perches $p atop $s behind and moons everyone."
+"You drop your pants and moon at what lies $Tward."
+"$n drops $s pants and moosn at what lies $Tward."
+""
+""
+""
+""
+""
+""
+""
+
+"nose"
+6
+0
+1
+0
+"You pick something out of your nose, and smile at your findings."
+"$n picks something out of $s nose, and smiles at what $e finds."
+"You pick something out of your nose, and flick it at $N."
+"$n picks something out of $s nose, and flicks it at $N."
+"$n picks something out of $s nose, and flicks it at you."
+"You feel something warm and gooey land on your cheek."
+"You pick something out of your nose, examine it, then put it back in."
+"$n picks something out of $s nose, examines it, then puts it back in."
+"You pick your nose, and wipe your finger off on $p."
+"$n picks $s nose, and wipes it off on $p."
+"You pick something out of your nose, and flick it $tward."
+"$n picks something out of $s nose, and flicks it $tward."
+"You blow your nose with $p, and wipe it all over $N."
+"$n blows his nose with $p, and wipes it all over you."
+"$n blows $s nose with $p, and wipes it all over $N."
+""
+""
+""
+""
+
+"rap"
+6
+0
+1
+1
+"Who or what do you want to rap?"
+""
+"You clamber up $N's back and rap $M on the head.  Anyone home?"
+"$n clambers up $N's back and raps $M on the head."
+"$n clambers up your back and raps you on the head.  Ouch!"
+"You feel something rap you on the head."
+"You rap yourself on the head.  Feeling stupid?"
+"$n raps $mself on the head."
+""
+""
+""
+""
+"You clamber up $N's back and rap $M on the head with $p."
+"$n clambers up your back and raps you on the head with $p."
+"$n clambers up $N's back and raps $M on the head with $p."
+"You feel someone rap you on the head with something."
+"You rap yourself on the head with $p."
+"$n raps $mself on the head with $p."
+""
+
+"scamper"
+8
+0
+1
+1
+"You scamper around in reckless abandon."
+"$n scampers around in reckless abandon."
+"You scamper around $N in reckless abandon."
+"$n scampers around $N in reckless abandon."
+"$n scampers around you in reckless abandon."
+""
+"You scamper around yourself, tumbling down to the ground."
+"$n tries to scamper around $mself, but tumbles to the ground."
+"You scamper around $p with reckless abandon."
+"$n scampers around $p with reckless abandon."
+"You scamper $tward."
+"$n scampers $tward."
+""
+""
+""
+""
+""
+""
+""
+
+"scoff"
+6
+0
+0
+0
+"You scoff at the world.  Feeling lonely today?"
+"$n scoffs at the world.  This isn't $s day."
+"You scoff at $N.  Boy, aren't we feeling superior today?"
+"$n scoffs at $N.  Boy, doesn't that make $N feel worthless."
+"$n scoffs at you.  Boy, don't you feel worthless?"
+""
+"You scoff at yourself.  How could you be so stupid?"
+"$n scoffs at $mself.  Must have done something stupid."
+"You scoff at $p."
+"$n scoffs at $p."
+"You look $t and scoff."
+"$n looks $t and scoffs."
+""
+""
+""
+""
+""
+""
+""
+
+"scold"
+6
+0
+0
+1
+"You wave your little finger and shake your head in disapproval."
+"$n waves $s little finger and shakes $s little head in disapproval."
+"You wave your little finger at $N and scold $M for $S foolishness."
+"$n waves $s little finger at $N and scolds $M for $S foolishness."
+"$n waves $s little finger at you and scolds you for your foolishness."
+""
+"You wave your little finger at yourself and scold yourself for such foolishness."
+"$n waves $s little finger at $mself and scolds $mself for being foolish."
+"You wave your little finger at $p and scold it."
+"$n waves $s little finger at $p and scolds it."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"slobber"
+0
+0
+0
+1
+"Who or what do you feel like slobbering all over?"
+""
+"You slobber @Gdrool@n all over $N."
+"$n slobbers @Gdrool@n all over $N."
+"$n slobbers @Gdrool@n all over you.  Gross!"
+"Someone of something slobbers all over you.  It feels suprisingly pleasant."
+"You slobber all over yourself, making a big mess."
+"$n slobbers all over $mself, making a big mess."
+"You slobber @Gdrool@n all over $p."
+"$n slobbers @Gdrool@n all over $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"snicker"
+6
+0
+0
+1
+"You snicker evilly, snot dribbling down your chin."
+"$n snickers evilly, snot dribbling down $s chin."
+"You snicker at $N, spraying $M with some@h@G greenish goo@n."
+"$n snickers at $N, spraying $M with some@h@G greenish goo@n."
+"$n snickers at you, spraying you with some@h@G greenish goo@n."
+""
+"You snicker at yourself, covering yourself with@h@G greenish goo@n."
+"$n snickers at $mself, covering $mself with some@h@G greenish goo@n."
+"You snicker at $p, covering it with some@h@G greenish goo@n."
+"$n snickers at $p, covering it with some@h@G greenish goo@n."
+"You look $t and snicker evilly, covering everyone with@h@G greenish goo@n."
+"$n looks $t and snickers evilly, covering everyone with@h@G greenish goo@n."
+""
+""
+""
+""
+""
+""
+""
+
+"terror"
+6
+0
+1
+1
+"You scream in mortal terror, scrambling for a place to hide."
+"$n screams in terror, scrambling for a place to hide."
+"You scream in terror, trying to make yourself hidden behind $N."
+"$n screams in terror, trying to hide $s small body behind $N."
+"$n screams in terror, trying to hide $s small body behind you."
+""
+""
+""
+"You look at $p and scream in terror!"
+"$n looks at $p and screams in terror."
+"You peek $tward and scream in terror.  Not gonna go there! No way! Nuh uh!"
+"$n peeks $tward and screams in terror."
+""
+""
+""
+""
+""
+""
+""
+
+"think"
+6
+0
+0
+0
+"You place two fingers on your forehead and begin thinking.  Don't hurt yourself."
+"$n places two of $s fingers on $s forehead and begins thinking."
+"You glance suspiciously at $N and begin thinking."
+"$n glances suspiciously at $N and begins thinking."
+"$n glances suspiciously at you and begins thinking."
+""
+"Your forehead crinkles up and you become lost in thought."
+"$n's forehead crinkles up and $e appears lost in thought."
+"You glance suspiciously at $p and begin thinking."
+"$n glances suspiciously at $p and begins thinking."
+"You glance suspicously $tward and begin thinking."
+"$n glances suspiciously $tward and begins thinking."
+""
+""
+""
+""
+""
+""
+""
+
+"tinkle"
+8
+0
+1
+1
+"You release your bladder, a @Ypuddle@n forming at your feet."
+"$n looks relieved as a @Ypuddle@n forms at $s feet."
+"You scamper up to $N and @Ytinkle@n on $S leg."
+"$n scampers up to $N and @Ytinkles@n on $S leg."
+"$n scampers up to you, and @Ytinkles@n on your leg."
+"You feel something @Ywarm@n and watery splash on your legs."
+"You scamper around the room, sporadically @Ymarking@n your territory."
+"$n scampers around the room, sporadically @Ymarking@n $s territory."
+"You @Ytinkle@n on $p, coating it thoroughly."
+"$n @Ytinkles@n on $p, coating it thoroughly."
+"You try to @Ytinkle@n $tward, but end up spraying yourself."
+"$n tries to @Ytinkle@n $tward, but ends up spraying $mself."
+"You @Ytinkle@n all over $p, and shake it off towards $N."
+"$n @Ytinkles@n all over $p, and shakes it off at you."
+"$n @Ytinkles@n all over $p, and shakes it off towards $N."
+"You feel droplets of @Ywarm@n liquid cover your body."
+""
+""
+""
+
+"twiddle"
+6
+0
+1
+1
+"You patiently twiddle your thumbs."
+"$n patiently twiddles $s little thumbs."
+"You leap high in the air and twiddle $N's ears."
+"$n leaps high in the air and twiddles $N's ears."
+"$n leaps high in the air and twiddles your ears."
+"Someone twiddles your ear."
+"You twiddle your own ears."
+"$n twiddles $s own ears.  How odd."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"wag"
+6
+0
+0
+1
+"You stick out your @Mtongue@n and wag it all about."
+"$n sticks out $s @Mtongue@n and wags it all about."
+"You stick out your @Mtongue@n and wag it at $N."
+"$n sticks out $s @Mtongue@n and wags it at $N."
+"$n sticks out $s @Mtongue@n and wags it at you."
+""
+""
+""
+"You stick out your @Mtongue@n and wag it at $p."
+"$n sticks out $s @Mtongue@n and wags it at $p."
+"You stick out your @Mtongue@n and wag it $tward."
+"$n sticks out $s @Mtongue@n and wags it $tward."
+""
+""
+""
+""
+""
+""
+""
+
+"whack"
+6
+0
+1
+1
+"You look around for something to whack."
+"$n looks around for something to whack.  Better watch out!"
+"You whack $N on the head, trying to knock some sense into $M."
+"$n whacks $N on the head, trying to knock some sense into $M."
+"$n whacks you on the head, trying to knock some sense into you."
+"Someone whacks you on the head."
+"You whack yourself on the head, trying to get the wheels turning."
+"$n whacks $mself on the head, apparently trying to concentrate."
+"You whack $p very hard, trying to get it working."
+"$n whacks $p very hard, trying to get it to work right."
+""
+""
+"You whack $N on the head with $p."
+"$n whacks you on the head with $p."
+"$n whacks $N on the head with $p.  That's gotta hurt!"
+"Someone whacks you with something hard."
+"You whack yourself with $p."
+"$n whacks $mself with $p."
+""
+
+

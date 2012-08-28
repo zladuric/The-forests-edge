@@ -1,0 +1,255 @@
+#TABLE
+
+10
+
+"bounce"
+8
+0
+1
+1
+"You bounce your stout dwarven body as best you can."
+"$n bounces $s stout dwarven body as best as $e can."
+"You bounce against $N's knees, almost knocking yourself down."
+"$n bounces against $N's knees, almost knocking $mself down."
+"$n bounces against your knees, almost knocking $mself down."
+"A stout dwarven body tries to bounce on you in your sleep.  That hurt."
+"You strain something trying to bounce your stout body across the room."
+"$n strains something trying to bounce $s stout body across the room."
+"You manage one good bounce, clutching $p in jubilation."
+"$n manages one good bounce, clutching $p in jubilation."
+"Bouncing up and down is difficult enough for you."
+""
+""
+""
+""
+""
+""
+""
+""
+
+"bristle"
+6
+0
+1
+1
+"You @b@Rbristle@n out your beard in agitation."
+"$n @b@Rbristles@n $s beard in agitation."
+"You @b@Rbristle@n out your beard at $N, in obvious agitation."
+"$n @b@Rbristles@n out $s beard at $N, in obvious agitation."
+"$n @b@Rbristles@n out $s beard at you, in obvious agitation."
+""
+"You @b@Rbristle@n out your beard until your face turns red."
+"$n @b@Rbristles@n out $s beard until $s face turns red."
+""
+""
+"You look $t and @b@Rbristle@n out your beard anticipating danger."
+"$n looks $t and @b@Rbristles@n out $s beard anticipating danger."
+""
+""
+""
+""
+""
+""
+""
+
+"dance"
+8
+0
+1
+1
+"You dance a little dwarvish jig."
+"$n dances a little dwarvish jig."
+"You swing $N round and round in a dwarvish reel."
+"$n swings $N round and round in a dwarvish reel."
+"$n swings you round and round in a dwarvish reel."
+""
+"You click up your heels dancing a dwarvish jig."
+"$n clicks up $s heels in a dwarvish jig."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"flex"
+6
+0
+0
+0
+"You flex, showing off your dense dwarven musculature."
+"$n flexes, showing off $s dense dwarven musculature."
+"You pose for $N, showing off your dense dwarven musculature."
+"$n poses for $N, showing off $s dense dwarven musculature."
+"$n poses for you, showing off $s dense dwarven musculature."
+""
+"You ball yourself up into a knot of dwarven muscle."
+"$n balls $mself up into a little knot of dwarven muscle."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"grunt"
+0
+0
+0
+0
+"You let loose a grunt of frustration."
+"$n lets loose a loud @Rgrunt@n of frustration."
+"You grunt in frustration at $N.  Uh oh what did $e do?"
+"$n grunts at $N in frustration.  Uh oh looks like there may be a fight."
+""
+""
+"You grunt in frustration at yourself.  Can't you do anything right?"
+"$n grunts in frustration at $mself.  He can't do anything right can $e?"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"kiss"
+8
+0
+1
+0
+"Who you gonna kiss, you dwarf."
+""
+"You kiss $N, tickling $M with your beard."
+"$n kisses $N, tickling $M with $s beard."
+"$n kisses you, tickling you with $s beard."
+"Someone's bearded kiss tickles you in your sleep."
+"You kiss your clenched fist for good luck."
+"$n kisses $s clenched fist for good luck."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"pace"
+8
+0
+0
+0
+"You pace back and forth, grumbling about everything possible."
+"$n paces back and forth, @Rgrumbling@n about everything possible."
+"You pace around $N, grumbling ancient dwarven curses."
+"$n paces around $N, grumbling ancient dwarven @Ycurses@n."
+"$n paces around you, grumbling ancient dwarven @Ycurses@n."
+""
+"You attempt to pace around yourself but just get very dizzy."
+"$n tries to pace around himself but quickly gets dizzy and begins wobbling."
+""
+""
+"You look $t and begin to pace around the room, grumbling foul words."
+"$n looks $t and begins to pace around the room, grumbling foul"
+""
+""
+""
+""
+""
+""
+""
+
+"sob"
+6
+0
+1
+1
+"You sob uncontrollably down your bearded face."
+"$n sobs uncontrollably down $s bearded face."
+"You sob uncontrollably down your bearded face, looking to $N for pity."
+"$n sobs uncontrollably down $s bearded face, looking to $N for pity."
+"$n sobs uncontrollably down $s bearded face, looking to you for pity."
+"Some bearded face is leaking tears on you.  Must be a dwarf."
+"You sob quietly to yourself until your bearded face is sopping wet."
+"$n sobs quietly to $mself until $s bearded face is sopping wet."
+"You sob uncontrollably down your beard, wetting $p."
+"$n sobs uncontrollably down $s beard, wetting $p."
+"You take one look $t and start sobbing down your bearded face."
+"$n takes one look $t and starts sobbing down $s bearded face."
+""
+""
+""
+""
+""
+""
+""
+
+"tallyho"
+8
+0
+0
+0
+"@b@CYou charge into battle screaming an old dwarvish battle cry!"
+"@b@C$n charges into battle screaming an old dwarvish battle cry."
+"@b@CYou charge at $N swinging your weapon around wildly!"
+"@b@C$n charges at $N swinging $s weapon around wildly!"
+"@b@C$n charges at you swinging $s weapon around wildly!"
+""
+"Charge at yourself? Exactly how?"
+"$n tries to charge at himself but only winds up running around in circles."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"think"
+6
+0
+0
+0
+"You scratch your beard in cogitation."
+"$n scratches $s beard in cogitation."
+"You scratch your beard, contemplating the meaning of $N."
+"$n scratches $s beard, contemplating the meaning of $N."
+"$n scratches $s beard, contemplating the meaning of you."
+""
+"Your bearded face scruntches up as you try to think too hard."
+"$n's bearded face scruntches up as $e tries to think to hard."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+

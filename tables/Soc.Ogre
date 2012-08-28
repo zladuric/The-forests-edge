@@ -1,0 +1,380 @@
+#TABLE
+
+15
+
+"battle"
+6
+0
+0
+1
+"You @BHOLLER@n a victorious battle cry!"
+"$n @BHOLLERS@n a furious battle cry!"
+"You charge toward $N, @BHOLLERING@n a furious battle cry!"
+"$n charges towards $N, @BHOLLERING@n a furious battle cry!"
+"$n charges toward you,@BHOLLERING@n a furious battle cry!"
+""
+"What are you trying to do? Scare yourself?"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"beat"
+6
+0
+1
+0
+"You beat your chest like a mighty @b@Rwar drum@n."
+"$n beats $s chest like a mighty @b@Rwar drum@n."
+"You grab a rock and beat $N silly."
+"$n picks a rock up off the ground and beats $N with it."
+"$n grabs a big rock and starts to beat you with it."
+"Someone just hit you in the head with a rock! OUCH!"
+"You grab a rock and beat yourself over the head with it."
+"$n grabs a rock from the ground and beats $mself with it."
+"You grab $p and begin beating it on the ground."
+"$n grabs $p and begins beating it on the ground."
+""
+""
+"You grab $p and beat $N over the head with it.  Ouch!"
+"$n grabs $p and beats you over the head with it.  Ouch!"
+"$n grabs $p and beats $N over the head with it.  Ouch!"
+""
+""
+""
+""
+
+"burp"
+6
+0
+0
+0
+"You emit a thunderous belch."
+"$n emits a thunderous belch."
+"You belch in $N's face."
+"$n belches in $N's face."
+"$n belches out a breath of fetid air in your face."
+""
+"Good thing you don't have a sensitive nose."
+"$n belches at $mself in satisfaction."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"confuse"
+6
+0
+0
+0
+"You are completely confused."
+"$n looks completely confused about something."
+"You are confused at what $N said."
+"$n looks at $N confused."
+"You think you spoke too fast to $n, $e looks confused."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"crack"
+6
+0
+1
+0
+"You clench your hands in fists, cracking your knuckles."
+"$n clenches $s hands into fists, cracking all $s knuckles."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"flex"
+6
+0
+0
+0
+"You flex your mighty arms revealing @b@YHUGE@n biceps."
+"$n flexes $s arms revealing @b@YHUGE@n biceps."
+"You flex your @b@YHUGE@n arms at $N."
+"$n flexes $s @b@YHUGE@n arms at $N."
+"$n flexes $s @b@YHUGE@n biceps in your face. WOW!"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"jump"
+8
+0
+1
+1
+"You jump up into the air landing with a thud."
+"$n jumps up into the air landing with a thud, $s gelatinous belly jiggling."
+"You jump up into the air landing on $N's big toe."
+"$n lunges towards $N landing on $S big toe. Thats got to hurt!"
+"In a blurr of ogre flesh, $n lunges towards you and you feel a crushing pain in your big toe."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"laugh"
+6
+0
+0
+0
+"You laugh out loud."
+"$n belches out a laugh."
+"You laugh with $N."
+"$n shares a good belly-laugh with $N."
+"$s eyes twinkling, $n laughs at your joke."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"rofl"
+8
+0
+1
+1
+"You drop to the floor, rolling in laughter."
+"$n collapses in a gale of frenzied laughter."
+"You drop to the floor laughting at $N."
+"$n drops to the ground, laughing at $N."
+"While pointing at you, $n drops to the floor, $s belly gyrating with hearty guffaws."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"scratch"
+6
+0
+1
+0
+"You scratch your belly."
+"$n scratches $s big hairy belly."
+"You reach over and scratch $N's belly."
+"$n reaches over and scratches $N's belly."
+"With a big gnarled hand, $n reaches out and scratches your belly."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"shake"
+6
+0
+1
+0
+"You shake your head."
+"$n shakes $s head."
+"With a powerful grip you shake $N's hand."
+"$N seems to wince at $n's powerful handshake."
+"With a powerful grip $n shakes your hand."
+""
+""
+""
+"You pick up $p and give it a good shaking."
+"$n picks up $p and shakes it @Rfiercely@n."
+""
+""
+"You pick up $p and shake it at $N."
+"$n shakes $p at you."
+"$n shakes $p at $N."
+""
+""
+""
+""
+
+"smile"
+6
+0
+0
+0
+"You flash a gapped toothed smile."
+"$n flashes a gapped toothed, ichor filled smile."
+"You flash a gapped toothed smile at $N."
+"$n flashes a gapped toothed smile at $N."
+"$n flashes a gapped tooth, ichor filled smile at you."
+""
+"You flash a smile at yourself."
+"$n flashes a gapped toothed, ichor filled smile at $sself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"spit"
+6
+0
+0
+0
+"You snort in deeply and spit a @b@BHUGE@n glob of saliva on the ground."
+"$n snorts in deeply and spits a @b@BHUGE@n glob of saliva on the ground. EWWWW!"
+"You snort in deeply and spit on $N."
+"$n snorts in deeply and spits a @b@BHUGE@n glob of saliva on $N. You're glad that wasn't you."
+"$n snorts in deeply and launches a @b@BHUGE@n glob of saliva on your chest.  THATS SICK!"
+""
+"Snorting in deeply you go to spit on the ground but somehow manage to spit on yourself."
+"$n snorts in deeply and goes to spit but the winds catch it and blows it right in $s face."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"stupid"
+6
+0
+0
+0
+"Feeling particularly ogrish today are we?"
+"A stupid look appears in $n's eyes."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"thump"
+6
+0
+1
+0
+"You threaten everyone with a thumping."
+"$n looks about ready to thump heads."
+"You @gthump@n $N right on the noggin!"
+"$n @gthumps@n $N on the forehead, sending $M reeling."
+"$n @gthumps@n you right on the forehead, look at the pretty stars!"
+""
+"You thump yourself on the head for being an idiot."
+"$n sighs and thumps $mself on the head."
+""
+""
+""
+""
+"You thump $N on the head with $p."
+"$n thumps you on the head with $p."
+"$n thumps $N on the head with $p."
+""
+""
+""
+""
+
+

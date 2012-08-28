@@ -1,0 +1,22 @@
+#AREA
+"Limbo"
+""
+""
+0 200
+0
+0
+#ROOMS
+
+#2
+"Limbo"
+"This is where players go when they void.
+"
+"No.Recall to prevent summon out
+"
+301465727 0
+18 9 0
+-1
+S
+
+#0
+

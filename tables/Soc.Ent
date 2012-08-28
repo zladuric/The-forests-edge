@@ -1,0 +1,255 @@
+#TABLE
+
+10
+
+"blush"
+6
+0
+0
+0
+"You blush, your rough skin turning a ruddy shade."
+"$n blushes, $s rough skin turning a ruddy shade."
+"You blush a deep ruddy brown at seeing $M."
+"$n's face flushes a ruddy brown when $e sees $N here."
+""
+""
+"You blush deeply at your own folly."
+"$n blushes deeply as $e notices $s mistake."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"bored"
+6
+0
+1
+0
+"Losing interest in your surroundings you listen to the nearby plants."
+"$n's eyes lose focus and $e looks more at peace with nature."
+"You ignore $N and start paying attention to the plants."
+"$n wanders over to a plant and begins to inspect it."
+"$n stops paying attention to you and starts inspecting a plant."
+""
+"Hey, that looks like a really nice plant over there."
+"$n looks a lot like scenery standing amongst plants like $e is."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"bounce"
+8
+0
+1
+0
+"BOIINNNNNNGG!"
+"$n bounces around shaking the ground with $s bounding strides."
+"You bounce onto $N's lap, nearly crushing them!"
+"$n bounces onto $N's lap and nearly crushes $M!"
+"$n bounces onto your lap and nearly crushes you!"
+""
+"You bounce around like a bunny, a very BIG bunny."
+"$n bounces around like a bunny, a very BIG bunny."
+"You bounce around, waving $p in the air."
+"$n bounces around, waving $p in the air."
+"You bounce off in a $terly direction."
+"$n bounces off in a $terly direction."
+"You bounce around, waving $p at $N."
+"$n bounces around, waving $p at you."
+"$n bounces around, waving $p at $N."
+""
+"You bounce all around, waving $p at yourself.  How silly!"
+"$n bounces all around, waving $p at $mself."
+""
+
+"bow"
+7
+0
+1
+0
+"You bow with a slow grace."
+"$n bows with a slow grace."
+"You bow before $N with a slow grace."
+"$n bows before $N with a slow grace."
+"$n bows before you with a slow grace."
+""
+"You bow repeatedly."
+"$n bows repeatedly."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"crack"
+6
+0
+0
+0
+"You crack your knuckles with a sound like breaking branches."
+"$n cracks $s knuckles, causing a sound like breaking branches."
+""
+""
+""
+""
+"You crack your knuckles with a sound like breaking branches."
+"$n cracks $s knuckles, causing a sound like branches breaking."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"knuckle"
+6
+0
+1
+0
+"You angrily close your hands into fists, knuckles popping loudly."
+"$n angrily closes $s hands into fists, knuckles popping loudly."
+"Glaring at $N, you crack your knuckles in an intimidating way."
+"Glaring at $N, $n cracks $s knuckles in an intimidating way."
+"Glaring at you, $n cracks $s knuckles in an intimidating way."
+""
+"You enfold your hands, cracking your knuckles in an intimidating way."
+"$n enfolds $s hands, cracking $s knuckles in an intimidating way."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"laugh"
+6
+0
+0
+0
+"You boom with laughter, a sound that could almost rival thunder."
+"!$n booms with laughter, a sound that could almost rival thunder."
+"You give a thunderous laugh at what $N just did."
+"$n gives a thunderous laugh at what $N just did."
+"!$n gives a thunderous laugh at what you just did."
+""
+"You laughs thunderously at what you just did."
+"$n laughs thunderously at what $mself."
+"You look at $p and laugh thunderously."
+"$n looks at $p and laughs thunderously."
+"You look at $t and begin to laugh thunderously."
+"$n looks at $t and begins to laugh thunderously."
+"You look at $p, look at $N, and laugh thunderously."
+"$n looks at $p, at you, and laugh thunderously."
+"$n looks at $p, at $N, and laugh thunderously."
+""
+""
+""
+""
+
+"loom"
+8
+0
+0
+1
+"You look for someone to loom over intimidatingly."
+"$n stalks around casting an intimidating shadow."
+"You loom over $N trying to appear intimidating."
+"$n looms over $N trying to appear intimidating."
+"$n looms over you trying to look intimidating."
+""
+"And how do you propose to do that?"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"roar"
+6
+0
+0
+1
+"You roar like a wild forest creature."
+"!$n roars like a wild forest creature."
+"You roar in anger at $N."
+"$n roars in anger at $N."
+"$n peers at you and roars like a wild forest creature."
+""
+"Mad at what you just did, you roar like a wild forest creature."
+"$n roars like a wild forest creature at what $e just did."
+"You hold $p up and roar in glorious victory."
+"$n holds $p up in the air and roars in victory."
+"You look $t and roar like a wild forest creature."
+"$n looks $t and roars like a wild forest creature."
+""
+""
+""
+""
+""
+""
+""
+
+"snort"
+6
+1
+0
+0
+"You snort derisively."
+"$n snorts like a wild forest creature."
+"You snort derisively at $N."
+"$n snorts like a wild forest creature at $N."
+"$n snorts at you like a wild forest creature."
+""
+"You rethink this action."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+

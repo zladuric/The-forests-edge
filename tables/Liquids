@@ -1,0 +1,518 @@
+#TABLE
+
+57
+
+"water"
+"a clear liquid"
+0
+10
+0
+15
+1
+"create water"
+
+"beer"
+"an amber liquid"
+2
+5
+3
+0
+1
+""
+
+"wine"
+"a rose liquid"
+1
+5
+4
+40
+1
+""
+
+"ale"
+"a brown liquid"
+2
+5
+2
+12
+1
+""
+
+"dark ale"
+"a dark liquid"
+2
+5
+1
+12
+0
+""
+
+"whiskey"
+"a golden liquid"
+1
+4
+6
+25
+0
+""
+
+"lemonade"
+"a pink liquid"
+1
+8
+0
+8
+1
+""
+
+"firebreather"
+"a clear, bubbling liquid"
+0
+0
+10
+20
+1
+""
+
+"local specialty"
+"a translucent green liquid"
+3
+3
+3
+12
+0
+""
+
+"slime mold juice"
+"a chartreuse liquid with flotsam"
+4
+-8
+0
+5
+0
+""
+
+"milk"
+"a white liquid"
+2
+6
+0
+10
+1
+""
+
+"tea"
+"a tan liquid"
+1
+6
+0
+8
+1
+""
+
+"coffee"
+"a black liquid"
+1
+6
+0
+8
+1
+""
+
+"blood"
+"crimson liquid"
+2
+-1
+0
+0
+0
+""
+
+"salt water"
+"briney liquid"
+0
+-4
+0
+0
+0
+""
+
+"mead"
+"brown liquid"
+4
+7
+5
+20
+0
+""
+
+"soup"
+"soup"
+5
+3
+0
+5
+1
+""
+
+"pale ale"
+"pale brown liquid"
+2
+5
+1
+10
+1
+""
+
+"rum"
+"dark brown liquid"
+0
+2
+5
+15
+0
+""
+
+"sap"
+"golden syrup"
+6
+-2
+0
+5
+0
+""
+
+"oily substance"
+"greasy bluish black liquid"
+1
+3
+0
+1
+0
+""
+
+"honey"
+"a golden syrup"
+6
+-2
+0
+8
+0
+""
+
+"acid"
+"a bubbling green liquid"
+0
+0
+0
+10000
+0
+"acid blast"
+
+"poison"
+"a pale green liquid"
+0
+0
+0
+10
+0
+""
+
+"holy water"
+"a clear liquid"
+0
+10
+0
+10
+0
+""
+
+"brackish liquid"
+"brown liquid"
+1
+-5
+6
+20
+0
+""
+
+"dwarven stout"
+"a dark brown liquid"
+2
+5
+3
+15
+0
+""
+
+"Taengele Wine"
+"an amber liquid with a rose tint"
+1
+5
+3
+25
+0
+"revitalize"
+
+"Springwine"
+"amber liquid fizzing with bubbles"
+1
+5
+4
+15
+0
+""
+
+"starwater"
+"a crystal clear liquid"
+3
+15
+0
+15
+0
+""
+
+"orange juice"
+"an orangish liquid"
+0
+10
+0
+8
+1
+""
+
+"murky water"
+"viscous brown sludge"
+0
+3
+0
+0
+0
+""
+
+"youth potion"
+"a clear liquid"
+0
+0
+0
+0
+0
+"youth"
+
+"vodka"
+"a crystal clear liquid"
+0
+15
+7
+50
+0
+""
+
+"liquid resin"
+"yellow, viscous liquid"
+0
+3
+3
+35
+0
+""
+
+"sugar water"
+"nearly clear liquid"
+1
+8
+0
+5
+0
+""
+
+"pure grain alcohol"
+"a clear liquid"
+0
+5
+20
+0
+0
+""
+
+"sludge"
+"a viscous brown ooze"
+2
+1
+0
+8
+0
+""
+
+"Dragonfyre Wine"
+"a swirling yellow and red liquid"
+0
+5
+6
+30
+0
+""
+
+"eggnog"
+"thick cream-colored liquid"
+1
+5
+10
+5
+0
+""
+
+"flour"
+"white powder"
+0
+0
+0
+0
+0
+""
+
+"cactus juice"
+"a pale green liquid"
+1
+8
+0
+10
+1
+""
+
+"halfling stout"
+"blue-hued liquid"
+2
+7
+5
+20
+0
+""
+
+"fine wine"
+"a burgundy liquid"
+2
+5
+7
+500
+1
+""
+
+"coconut milk"
+"pale milky liquid"
+3
+5
+0
+8
+1
+""
+
+"noxious liquid"
+"bubbling red liquid"
+0
+0
+0
+0
+0
+""
+
+"urine"
+"acrid dark yellow liquid"
+0
+2
+0
+0
+0
+""
+
+"elixir of healing"
+"shimmering crystal clear liquid"
+20
+50
+0
+1000
+0
+"cure critical"
+
+"sulphurous water"
+"cloudy, mineral-choked clear liquid"
+0
+5
+0
+0
+0
+""
+
+"tonic of enchantment"
+"ichorous black ooze"
+-30
+-10
+0
+1000
+0
+"minor enchantment"
+
+"brandy"
+"tawny brown liquid"
+1
+3
+5
+50
+1
+""
+
+"sediment-stained water"
+"cloudy, milky-red liquid"
+0
+9
+0
+1
+1
+""
+
+"firefever slime"
+"fire-orange, pulpy slime"
+1
+-2
+0
+0
+0
+"blind"
+
+"stagnant water"
+"murky, fetid liquid"
+0
+1
+0
+0
+0
+""
+
+"glue"
+"thick, white liquid"
+1
+0
+0
+1
+0
+""
+
+"foul water"
+"murky grey sludge with bits of algae"
+0
+2
+0
+0
+0
+""
+
+"absinthe"
+"rich green"
+0
+1
+5
+100
+0
+"hallucinate"
+
+

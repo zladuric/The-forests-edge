@@ -1,0 +1,585 @@
+#TABLE
+
+29
+
+"Room"
+1
+0
+100
+100
+1024
+"floor"
+"on the floor"
+"onto the floor"
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+
+"Town Street"
+1
+0
+100
+70
+1024
+"street"
+"in the street"
+"onto the street"
+3515 1
+1856 1
+1596 1
+210 1
+127 1
+12 1
+0 0
+0 0
+0 0
+0 0
+
+"Field"
+2
+26
+100
+100
+1472
+"ground"
+"on the ground"
+"to the ground"
+3448 1
+1619 1
+3763 1
+1471 1
+3862 1
+3864 1
+1136 1
+755 1
+415 1
+4522 1
+
+"Forest"
+3
+27
+80
+70
+1984
+"ground"
+"on the ground"
+"to the ground"
+2307 1
+288 1
+2324 1
+3610 1
+3850 1
+3849 1
+3851 1
+1136 1
+4522 1
+135 1
+
+"Hills"
+3
+32
+100
+80
+1472
+"ground"
+"on the ground"
+"to the ground"
+3610 1
+2578 1
+2311 1
+1299 1
+243 1
+3862 1
+3864 1
+4522 1
+258 1
+2690 1
+
+"Mountain"
+4
+33
+100
+100
+1472
+"ground"
+"on the ground"
+"to the ground"
+885 1
+663 1
+2311 1
+243 1
+4522 1
+2745 1
+78 1
+1974 1
+474 1
+1999 1
+
+"Water"
+3
+30
+100
+100
+3
+"water"
+"in the water"
+"into the water"
+3763 1
+117 1
+4540 1
+4544 1
+14 1
+0 0
+0 0
+0 0
+0 0
+0 0
+
+"Underwater"
+5
+31
+50
+100
+9
+"water"
+"in the water"
+"into the water"
+2809 1
+117 1
+3763 1
+3375 1
+189 1
+4540 1
+0 0
+0 0
+0 0
+0 0
+
+"River"
+5
+35
+100
+100
+7
+"water"
+"in the water"
+"into the water"
+117 1
+3865 1
+78 1
+189 1
+2153 1
+1333 1
+4544 1
+4547 1
+0 0
+0 0
+
+"Air"
+6
+35
+100
+100
+32
+"air"
+"in the air"
+"into the air"
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+
+"Desert"
+4
+29
+100
+100
+1424
+"sand"
+"in the sand"
+"into the sand"
+2099 1
+3770 1
+1410 1
+115 1
+4522 1
+4546 1
+2837 1
+0 1
+0 0
+0 0
+
+"Cave"
+4
+0
+100
+40
+1408
+"ground"
+"on the ground"
+"to the ground"
+1300 1
+885 1
+3187 1
+3189 1
+3190 1
+81 1
+1974 1
+1113 1
+3192 1
+3193 1
+
+"Road"
+2
+0
+100
+100
+1216
+"road"
+"on the road"
+"onto the road"
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+
+"Shallows"
+4
+34
+100
+100
+1
+"water"
+"in the water"
+"into the water"
+117 1
+78 1
+189 1
+4540 1
+4547 1
+3865 1
+0 0
+0 0
+0 0
+0 0
+
+"Beach"
+3
+29
+100
+100
+1424
+"sand"
+"in the sand"
+"into the sand"
+1333 1
+3763 1
+189 1
+1410 1
+4544 1
+78 1
+113 1
+112 1
+720 1
+4541 1
+
+"Jungle"
+4
+24
+60
+50
+1472
+"ground"
+"on the ground"
+"to the ground"
+51 1
+4555 1
+3881 1
+4522 1
+588 1
+1460 1
+52 1
+2376 1
+0 0
+0 0
+
+"Swamp"
+4
+28
+60
+80
+1408
+"muck"
+"in the muck"
+"into the muck"
+3669 1
+885 1
+3865 1
+3849 1
+189 1
+4522 1
+0 0
+0 0
+0 0
+0 0
+
+"Tundra"
+3
+37
+100
+100
+1280
+"frozen ground"
+"on the frozen ground"
+"to the frozen ground"
+3368 1
+1602 1
+4522 1
+4542 1
+4543 1
+4545 1
+2840 1
+0 0
+0 0
+0 0
+
+"Void"
+0
+0
+100
+100
+1024
+"void"
+"in the void"
+"into the void"
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+
+"Tree Limb"
+4
+27
+80
+80
+1280
+"limb"
+"on the tree limb"
+"onto the tree limb"
+2307 1
+4522 1
+2324 1
+288 1
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+
+"Nondescript"
+2
+0
+100
+100
+1024
+""
+""
+""
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+
+"Path"
+2
+0
+100
+100
+1216
+"path"
+"on the path"
+"onto the path"
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+
+"Trail"
+2
+0
+100
+100
+1216
+"trail"
+"on the trail"
+"onto the trail"
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+
+"Bridge"
+1
+0
+100
+100
+1024
+"bridge"
+"on the bridge"
+"onto the bridge"
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+
+"Forest Path"
+2
+26
+90
+75
+1728
+"path"
+"on the path"
+"onto the path"
+2307 1
+288 1
+2324 1
+3610 1
+3850 1
+3849 1
+3851 1
+1136 1
+4522 1
+135 1
+
+"Dark Bamboo"
+3
+21
+0
+50
+1984
+"fungus-choked ground"
+"on the fungus-choked ground"
+"to the fungus-choked ground"
+885 1
+3849 1
+280 1
+4633 1
+2314 1
+189 1
+1113 1
+1522 1
+2312 1
+4635 1
+
+"Bamboo Forest"
+3
+29
+80
+70
+1984
+"leaf-littered ground"
+"on the leaf-littered ground"
+"to the leaf-littered ground"
+885 1
+3849 1
+3862 1
+280 1
+3850 1
+4633 1
+189 1
+2307 1
+81 1
+4634 1
+
+"Pudding"
+6
+0
+100
+100
+257
+"pudding"
+"in the sticky pudding"
+"into the sticky pudding"
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+
+"Dry Riverbed"
+3
+28
+100
+90
+1216
+"dusty ground"
+"on the dusty ground"
+"to the dusty ground"
+1410 1
+4522 1
+3770 1
+288 1
+2031 1
+2311 1
+2324 1
+189 1
+3610 1
+78 1
+
+

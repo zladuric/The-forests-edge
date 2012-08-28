@@ -1,0 +1,505 @@
+#TABLE
+
+20
+
+"battle"
+7
+0
+0
+0
+"You scream a gnomish battle cry."
+"$n holds $s weapon in the air and screams, \"Thorstag!\""
+"You scream a @Ygnomish@n battle cry at $N."
+"$n screams a @Ygnomish@n battle cry at $N."
+"$n screams a @Ygnomish@n battle cry at you."
+""
+"You are at war with yourself?"
+"$n inexplicably screams a gnomish battle cry at $mself and begins beating $s own head."
+"You wave $p in the air and let loose a gnomish battle cry."
+"$n waves $p in the air and lets loose a gnomish battle cry."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"boo"
+6
+0
+0
+0
+"You start booing."
+"$n boos."
+"You boo at $N."
+"$n boos at $N, what did he do?"
+"You notice that $n is booing at you, what did you do?"
+""
+"You boo lustily at your own inadequacies."
+"$n boos lustily at $s own inadequacies."
+"You boo lustily at $p for no apparent reason."
+"$n looks at $p and begins to boo."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"boogie"
+8
+1
+0
+1
+"You love the night life, you love to boogie."
+"$n boogies until $e just can't boogie no more."
+"You grab $N and boogie down."
+"$n grabs $N and starts to boogie down."
+"$n grabs you and starts to boogie down."
+"You hear the faint throb of a disco beat."
+"You love the night life, you love to boogie.  You boogie until you just can't boogie no more."
+"$n boogies until $e just can't boogie no more."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"cower"
+6
+0
+0
+0
+"You @Ycower@n to the ground."
+"$n @Ycowers@n to the ground."
+"You grab on to $N's leg and @Ycower@n behind it."
+"$n grabs onto $N's leg and @Ycowers@n behind it."
+"$n @Ycowers@n behind your leg."
+""
+"You can not cower behind yourself."
+""
+"You @Ycower@n behind $p."
+"$n @Ycowers@n behind $p."
+"You look $t and @Ycower.@n"
+"$n looks $t and @Ycowers.@n"
+""
+""
+""
+""
+""
+""
+""
+
+"dive"
+8
+0
+0
+0
+"@CYou dive for cover.@n"
+"@C$n dives for cover.@n"
+"@CYou dive for cover behind $N.@n"
+"@C$n dives for cover behind $N.@n"
+"@CYou see $n dive for cover behind you.@n"
+""
+"How can you dive for cover behind yourself?"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"ear"
+8
+0
+0
+0
+"You bite at thin @Bair.@n"
+"$n bites at thin @Bair.@n"
+"You jump up and bite @R$N@n on the ear."
+"$n jumps up and bites @R$N@n on the ear."
+"Your ear was just bit by @R$n.@n"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"jump"
+8
+0
+0
+0
+"You jump about excitedly."
+"$n jumps about on $s little gnomish legs."
+"You jump about excitedly, landing on the toes of $N."
+"$n jumps about excitedly, and lands on the toes of $N."
+"$n jumps about in excitement, and lands on your toes."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"kpat"
+6
+0
+0
+0
+"Pat whom??"
+""
+"You reach up and pat $M on the knee."
+"$n reaches up and pats $N on the knee."
+"$n reaches up and pats you on the knee."
+""
+"You lovingly pat your own knee."
+"$n lovingly pats $s knee."
+"You lovingly pat $p."
+"$n lovingly pats $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"latch"
+6
+0
+0
+0
+"Whom do you want to latch onto?"
+""
+"You @Blatch@n onto $N's leg."
+"$n seems to @Blatch@n onto $N's leg and will not let go."
+"$n seems to @Blatch@n onto your leg and will not let go."
+""
+"You try to grab your own leg."
+"$n trys to grab $s leg but @Rtrips@n and @Yfalls@n."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"leap"
+8
+1
+0
+1
+"You leap into the air uselessly. "
+"$n leaps into the air, and lands in a heap."
+"You leap into $N's arms."
+"$n surprises $N by leaping into $S arms."
+"$n leaps into your arms."
+"You feel someone land on top of you!"
+"You try to leap into your own arms, but get tangled up and crash to the ground."
+"$n tries to leap into his own arms, and crashes to the ground."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"leapd"
+8
+0
+0
+0
+"Holding yourself again?"
+""
+"You leap out of $N's arms."
+"$n leaps out of $N's arms and back to the ground."
+"$n leaps out of your arms and back to the ground."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"lick"
+0
+0
+0
+0
+"You lick your @Rlips@n."
+"$n licks $s @Rlips@n."
+"You jump up and @Glick@n $N on the face."
+"$n jumps up and @Glicks@n $N on the face."
+"$n jumps up and @GLICKS@n you on the face."
+""
+"You give yourself a tongue bath."
+"$n gives $mself a tongue bath."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"nose"
+0
+0
+0
+0
+"Rub whom?"
+""
+"You grab $N by the cheeks and give $M a gnomish nose rub."
+"$n grabs $N by the cheeks and gives $M a gnomish nose rub."
+"$n grabs your cheeks and gives you a gnomish nose rub."
+""
+"You rub your nose."
+"$n rubs $s nose."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"pace"
+8
+0
+0
+0
+"You pace around impatiently."
+"$n paces around the room."
+"You pace circles around $N."
+"$n paces circles around $N."
+"You look down and see $n pacing around you."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"seduce"
+6
+0
+1
+1
+"You practice the art of seduction on yourself."
+"$n seems to be falling in love with $mself."
+"You attempt to seduce $N with your gnomish charms."
+"$n attempts to seduce $N with $s gnomish charms."
+"$n attempts to seduce you with $s gnomish charms."
+""
+"You practice the art of seduction on yourself."
+"$n is successfully seducing $mself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"sing"
+6
+0
+0
+0
+"You sing an old @Cgnomish@n folk song."
+"$n sings an old @Cgnomish@n folk song."
+"@CYou sing a gnomish @Rlove@C song to $N.@n"
+"@C$n sings a gnomish @Rlove@C song to $N.@n"
+"@C$n sings a gnomish @Rlove@C song to you.@n"
+""
+"@CYou sing a gnomish @Rlove@C song to yourself.@n"
+"@C$n is singing a gnomish @Rlove@c song to $mself.@n"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"stomp"
+8
+0
+0
+0
+"You @Rstomp@n around the room in a rage."
+"$n @Rstomps@n around the room in a rage."
+"You run up and @Rstomp@n $N on the foot."
+"$n runs up and @Rstomps@n $N on the foot."
+"$n runs up and @RSTOMPS@n you on the foot."
+""
+"You @RSTOMP@n yourself on the foot. Boy did that hurt."
+"$n @Rstomps@n $mself on the foot."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"thumb"
+6
+0
+1
+0
+"You give everyone in the vicinity an enthusiastic \"thumb's up\"."
+"$n gives everyone an enthusiastic \"thumb's up\"."
+"You give an approving \"thumb's up\" to $N."
+"$n gives an approving \"thumb's up\" to $N."
+"$n gives you an approving \"thumb's up\" sign."
+"Your dreams are haunted by the sounds of someone making motions near your sleeping body."
+"You ridiculously give a \"thumb's up\" to yourself."
+"$n gives $mself a big \"thumb's up\" for no apparent reason."
+"You hold up $p, and give an approving \"thumb's up\" sign."
+"$n holds up $p, and gives an approving \"thumb's up\" sign."
+"You point your thumb $tward."
+"$n points $s thumb $tward."
+""
+""
+""
+""
+""
+""
+""
+
+"tinker"
+6
+0
+1
+0
+"You look around for something to tinker with."
+"$n looks around for something to tinker with."
+"You examine $N, trying to figure out $E works."
+"$n examines $N, trying to figure out how $E works."
+"$n looks at you in a most unnerving, scientific way."
+""
+"You start trying to figure out how you work."
+"$n starts examining $mself very closely."
+"You tinker with $p, trying to divine its inner workings."
+"$n tinkers with $p, trying to divine its inner workings."
+""
+""
+"You try to interest $N in tinkering with $p."
+"$n tries to interest you in tinkering with $p."
+"$n tries to interest $N in tinkering with $p."
+""
+""
+""
+""
+
+"whee"
+8
+1
+1
+1
+"You run around screaming:  wheeeeeeeeeee!"
+"$n runs around screaming:  wheeeeeeeeeee!"
+"You run around $N screaming:  wheeeeeeeeeee!"
+"$n runs around $N screaming:  wheeeeeeeeeee!"
+"$n runs around you screaming:  wheeeeeeeeeee!"
+""
+"You run around screaming:  wheeeeeeeeeee!"
+"$n runs around screaming:  wheeeeeeeeeee!"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+

@@ -1,0 +1,5080 @@
+#TABLE
+
+203
+
+"admire"
+6
+0
+0
+0
+"You admire the scenery around you."
+"$n gazes around, a look of admiration on $s face."
+"You gaze at $N, your eyes shining with admiration."
+"$n gazes at $N, $s eyes shining with admiration."
+"$n gazes at you, $s eyes shining with sincere admiration."
+""
+"You admire yourself.  How vain!"
+"$n vainly admires $mself."
+"You gaze at $p, your eyes shining with admiration."
+"$n gazes at $p, $s eyes shining with admiration."
+""
+""
+"You invite $N to admire $p.  Lovely, isnt it?"
+"$n invites you to admire $p.  Lovely, isnt it?"
+"$N obligingly admires $p belonging to $n."
+""
+"You admire $p, gazing fondly at it."
+"$n admires $p, gazing at it fondly."
+""
+
+"agree"
+6
+0
+1
+1
+"You nod in agreement."
+"$n nods in agreement."
+"You nod in agreement with $N."
+"$n nods in agreement with $N."
+"$n nods in agreement with you."
+""
+"You nod happily in agreement with yourself."
+"$n nods happily in agreement with $mself.  What a strange person!"
+""
+""
+"Looking $t, you nod in agreement."
+"$n looks $t and nods in agreement."
+""
+""
+""
+""
+""
+""
+""
+
+"apologize"
+6
+0
+0
+0
+"You mutter a soft apology."
+"$n mutters a soft apology."
+"You apologize profusely to $N."
+"$n apologizes profusely to $N... What did $e do?"
+"$n apologizes profusely to you.  How nice!"
+""
+"You talk to yourself too much!"
+""
+"You apologize to $p for treating it so badly."
+"$n apologizes to $p for treating it so badly."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"applaud"
+6
+0
+1
+1
+"Clap, clap, clap."
+"$n gives a round of applause."
+"You clap at $N's actions."
+"$n claps at $N's actions."
+"$n gives you a round of applause.  You MUST'VE done something good!"
+""
+"You applaud at yourself.  Boy, are we conceited!"
+"$n applauds at $mself.  Boy, are we conceited!"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"bark"
+6
+0
+1
+1
+"You bark like a dog.  Woof!  Woof!"
+"!$n barks like a dog.  Woof!  Woof!"
+"You bark at $N."
+"$n barks at $N."
+"!$n barks at you."
+""
+"You bark at yourself.  Woof!  Woof!"
+"$n barks at $mself.  Woof!  Woof!"
+"You bark at $p. Woof! Woof!"
+"$n barks at $p. Woof! Woof!"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"beckon"
+6
+0
+1
+1
+"You beckon to everyone nearby."
+"$n beckons to you."
+"You beckon $N to follow you."
+"$n beckons $N to follow $m."
+"$n beckons you to follow $m."
+""
+"That doesn't make sense."
+""
+"You beckon to $p."
+"$n indicates $p."
+"You beckon to what lies $tward."
+"$n beckons to what lies $tward."
+""
+""
+""
+""
+""
+""
+""
+
+"beg"
+6
+0
+0
+0
+"You beg the gods for mercy."
+"The gods fall down laughing at $n's request for mercy."
+"You desperately beg $N for mercy."
+"$n begs $N for a small amount of mercy."
+"$n begs you for mercy out of the kindness of your heart!"
+""
+"You sure look strange, begging yourself for mercy."
+"$n begs $mself for mercy.  Boy is that pitiful."
+"You beg pitifully for $p."
+"$n begs pitifully for $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"beuseful"
+7
+1
+1
+0
+"Whom do you wish to order to be useful?"
+"$n looks around a bit disgruntled."
+"You order $N to BE USEFUL!"
+"$n orders $N to BE USEFUL!"
+"$n orders you to BE USEFUL!"
+""
+"Why do that?  You are so useless."
+"$n orders $mself to be useful.  That's not happening soon."
+"You order $p to start working properly.  BE USEFUL!"
+"$n orders $p to BE USEFUL!"
+"You point $t and order everyone to BE USEFUL!"
+"$n points $t and orders everyone to BE USEFUL!"
+"You point $p at $N and order $M to BE USEFUL!"
+"$n points $p at you and demands that you BE USEFUL!"
+"$n points $p at $N and orders $M to BE USEFUL!"
+""
+"You hit yourself with $p for not being useful.  Shame!"
+"$n hits $mself with $p for not being useful."
+""
+
+"bkiss"
+6
+0
+0
+0
+"You blow a kiss off into the wind."
+"$n blows a kiss off into the wind."
+"You blow a kiss at $N."
+"$n blows a kiss at $N."
+"$n blows a kiss at you."
+""
+"You blow a kiss at yourself."
+"$n blows a kiss at $mself."
+""
+""
+"You blow a kiss $t."
+"$n blows a kiss $t."
+""
+""
+""
+""
+""
+""
+""
+
+"blink"
+6
+0
+0
+0
+"You blink rapidly."
+"$n blinks rapidly."
+"You blink in astonishment at $N."
+"$n blinks in astonishment at $N."
+"$n blinks at you in astonishment."
+""
+"You blink in astonishment at what you just did."
+"$n blinks in astonishment at what $e just did."
+"You rub your eyes and blink at $p."
+"$n rubs $s eyes and blinks at $p."
+"You peek $t, rub your eyes and blink."
+"$n peeks $t, rubs $s eyes and blinks."
+""
+""
+""
+""
+""
+""
+""
+
+"blush"
+4
+0
+0
+0
+"Your cheeks are burning."
+"$n blushes."
+"You get all flustered seeing $N."
+"$n blushes as $e sees $N here."
+"$n blushes as $e sees you here.  Such an effect on people!"
+""
+"You blush at your own folly."
+"$n blushes as $e noticed $s mistake."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"boggle"
+6
+0
+0
+0
+"You boggle at the concept."
+"$n boggles at the concept."
+"You boggle at $N's idea."
+"$n boggles at $N's idea."
+"$n boggles at you."
+""
+"You boggle at the very idea!"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"bonk"
+6
+0
+0
+0
+"You bonk everyone in the room on the head."
+"!$n bonks everyone in the room on the head."
+"You bonk $N on the head."
+"$n bonks $N on the head."
+"!$n bonks you on the head."
+""
+"You bonk yourself on the head."
+"$n bonks $mself on the head - daft."
+"You bonk yourself on the head with $p."
+"$n bonks $mself on the head with $p."
+""
+""
+"You bonk $N over the head with $p."
+"$n bonks you over the head with $p."
+"$n bonks $N over the head with $p."
+""
+"You bonk yourself over the head with $p."
+"$n bonks $mself over the head with $p."
+""
+
+"bounce"
+8
+0
+1
+0
+"BOIINNNNNNGG!"
+"$n bounces around."
+"You bounce onto $N's lap."
+"$n bounces onto $N's lap."
+"$n bounces onto your lap."
+""
+"You bounce around like a bunny."
+"$n bounces around like a bunny."
+"You bounce around, waving $p in the air."
+"$n bounces around, waving $p in the air."
+"You bounce off in a $terly direction."
+"$n bounces off in a $terly direction."
+"You bounce around, waving $p at $N."
+"$n bounces around, waving $p at you."
+"$n bounces around, waving $p at $N."
+""
+"You bounce all around, waving $p at yourself.  How silly!"
+"$n bounces all around, waving $p at $mself."
+""
+
+"bow"
+7
+0
+1
+1
+"You bow deeply."
+"$n bows deeply."
+"You bow before $N."
+"$n bows before $N."
+"$n bows before you."
+""
+"You bow repeatedly."
+"$n bows repeatedly."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"brag"
+6
+0
+1
+0
+"You brag."
+"$n brags incessantly."
+"You brag to $N."
+"$n brags to $N."
+"$n brags to you."
+""
+"You brag of your heroic actions."
+"$n brags to everyone of $s heroic deeds."
+"You brag about $p."
+"$n brags about $p."
+""
+""
+"You brag about $p to $N."
+"$n brags to you incessantly about $p."
+"$n brags incessantly about $p to $N."
+"You hear someone droning on and on about the merits of $p."
+"You brag to yourself about $p, since no one else cares."
+"$n brags to $mself about $p's many superior qualities."
+""
+
+"brandish"
+6
+0
+1
+0
+"You @Cb@cr@Ca@cn@Cd@ci@Cs@ch@n your fist angrily at the sky, cursing your bad luck."
+"$n @Cb@cr@Ca@cn@Cd@ci@Cs@ch@Ce@cs@n $s fist angrily at the sky, cursing $s bad luck."
+"You @Cb@cr@Ca@cn@Cd@ci@Cs@ch@n your fist menacingly at $N in an attempt to provoke $M."
+"$n @Cb@cr@Ca@cn@Cd@ci@Cs@ch@Ce@cs@n $s fist menacingly at $N, attempting to provoke $M."
+"$n @Cb@cr@Ca@cn@Cd@ci@Cs@ch@Ce@cs@n $s fist menacingly at you, attempting to provoke you."
+"You feel a slight breeze waft by your head."
+"@CB@cr@Ca@cn@Cd@ci@Cs@ch@Ci@cn@Cg@n things at yourself can only lead to your own pain and suffering."
+"$n looks like $e is trying to punch $mself. What a funny display!"
+"You @Cb@cr@Ca@cn@Cd@ci@Cs@ch@n your $y angrily at the sky, cursing your bad luck."
+"$n @Cb@cr@Ca@cn@Cd@ci@Cs@ch@Ce@cs@n $p angrily at the sky, cursing $s bad luck."
+"You @Cb@cr@Ca@cn@Cd@ci@Cs@ch@n your fist angrily at what lies $t."
+"$n @Cb@cr@Ca@cn@Cd@ci@Cs@ch@Ce@cs@n $s fist angrily at what lies $t."
+"You @Cb@cr@Ca@cn@Cd@ci@Cs@ch@n your $y menacingly at $N in an attempt to provoke $M."
+"$n @Cb@cr@Ca@cn@Cd@ci@Cs@ch@Ce@cs@n $p menacingly at you in an attempt to provoke you."
+"$n @Cb@cr@Ca@cn@Cd@ci@Cs@ch@Ce@cs@n $y at $n. You might want to step back!"
+"You feel a slight breeze waft by your head."
+"You @Cb@cr@Ca@cn@Cd@ci@Cs@ch@n your $y around your head. What are you trying to accomplish?"
+"$n @Cb@cr@Ca@cn@Cd@ci@Cs@ch@Ce@cs@n $p at $mself. This could get ugly!"
+""
+
+"bstare"
+6
+0
+0
+0
+"You stare blankly off into the distance."
+"$n stares blankly off into the distance."
+"You stare blankly at $N."
+"$n stares blankly at $N."
+"$n stares blankly at you."
+""
+"You stare blankly at your toes."
+"$n stares blankly at $s own toes."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"burp"
+6
+0
+0
+0
+"You burp loudly."
+"$n burps loudly."
+"You burp loudly to $N in response."
+"$n burps loudly in response to $N's remark."
+"$n burps loudly in response to your remark."
+""
+"You burp to yourself.  Ooops."
+"$n burps to $mself.  Ewwwww."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"bwhap"
+8
+1
+1
+1
+"You swing a brick around."
+"$n swings a brick around."
+"You grab a brick and whap $N upside the head with it."
+"$n grabs a brick and whaps $N upside the head."
+"$n grabs a brick and whaps you upside the head."
+"*OUCH!*  What the heck was that?"
+"You grab a brick and hit yourself with it."
+"A brick viciously attacks $n."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"cackle"
+4
+0
+0
+1
+"You throw back your head and cackle with insane glee!"
+"$n throws back $s head and cackles with insane glee!"
+"You cackle gleefully at $N."
+"$n cackles gleefully at $N."
+"$n cackles gleefully at you.  Better keep your distance from $m."
+""
+"You cackle at yourself.  Now, THAT'S strange!"
+"$n is really crazy now!  $>e cackles at $mself."
+"You cackle gleefully, waving $p in the air."
+"!$n cackles gleefully, waving $p in the air."
+""
+""
+"You cackle at $N, waving $p in $S face."
+"$n cackles at you, waving $p in your face."
+"$n cackles at $N, waving $p in $S face."
+""
+"You cackle gleefully to yourself as you wave $p in the air."
+"$n cackles gleefully to $mself as $s waves $p in the air."
+""
+
+"caress"
+6
+0
+0
+0
+"Caress who?"
+""
+"You lovingly caress $N's cheek."
+"$n lovingly caresses $N's cheek."
+"$n lovingly caresses your cheek."
+"You feel a soft, loving touch on your cheek."
+"Don't get out much, do ya?"
+"$n softly caresses $s own cheek.  Must be a lonely life."
+"You lovingly caress $p."
+"$n lovingly caresses $p."
+"What do you want to caress over there?"
+""
+"You can't caress $M with that!"
+""
+""
+""
+"Don't get out much, do ya?"
+""
+""
+
+"challenge"
+6
+0
+1
+1
+"You look around for someone to challenge to a duel."
+"$n looks around for someone to challenge to a duel."
+"You challenge $N to a duel."
+"$n challenges $N to a duel."
+"$n challenges you to a duel."
+""
+"Now why on earth would you do that?"
+""
+"You shake your finger at $p in a challenging manner."
+"$n shakes $s finger at $p in a challenging manner."
+""
+""
+"You challenge $N to a duel over $p."
+"$n challenges you to a duel over $p."
+"$n challenges $N to a duel over $p."
+""
+""
+""
+""
+
+"cheer"
+6
+0
+1
+1
+"You cheer loudly."
+"$n cheers wildly."
+"You cheer wildly for $N."
+"$n cheers wildly for $N."
+"$n cheers wildly for you."
+""
+"You cheer loudly for yourself."
+"$n cheers loudly."
+"You cheer loudly, holding $p in the air where everyone can see it."
+"$n cheers loudly, holding $p in the air where everyone can see it."
+""
+""
+"You cheer wildly, waving $p at $N."
+"$n cheers wildly, waving $p at you."
+"$n cheers wildly, waving $p at $N."
+""
+"You cheer loudly for yourself, holding $p in the air."
+"$n cheers loudly for $mself, holding $p in the air."
+""
+
+"chirp"
+6
+0
+0
+0
+"You chirp gleefully."
+"$n chirps gleefully."
+"You chirp at $N."
+"$n chirps at $N."
+"$n chirps at you!"
+""
+"You chirp at yourself."
+"$n chirps at $mself in obvious bliss."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"chomp"
+4
+0
+0
+0
+"You look around for something to sink your teeth into!"
+"$n looks around for something to sink $s teeth into."
+"You take a chomp out of $N's leg!  Ouch!"
+"$n takes a chomp out of $N's leg!  Ouch!"
+"$n takes a chomp out of your leg!  Ouch!"
+"You feel someone sink their teeth into you!  Ouch!"
+"You take a chomp out of your own leg!  Ouch!"
+"$n takes a chomp out of $s own leg!  Ouch!"
+"You take a chomp out of $p!  Hungry?"
+"$n takes a chomp out of $p!"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"chortle"
+4
+0
+0
+0
+"You chortle heartily."
+"$n chortles heartily."
+"You chortle at $N's behavior."
+"$n chortles at $N's behavior."
+"$n chortles at you."
+""
+"You chortle heartily at your mistake."
+"$n chortles at $s mistake."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"chuckle"
+4
+0
+1
+1
+"You chuckle."
+"!$n chuckles."
+"You chuckle at $N's joke."
+"$n chuckles at $N's joke."
+"$n chuckles at your joke."
+""
+"You chuckle at your own joke, since no one else would."
+"$n chuckles at $s own joke, since none of you would."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"ckiss"
+6
+0
+0
+1
+"You pucker up to kiss someone."
+"$n puckers up, looking for someone to kiss."
+"You kiss $N affectionately on the cheek."
+"$n kisses $N affectionately on the cheek."
+"$n kisses you affectionately on the cheek."
+"You feel someone plant a feathery kiss on your cheek."
+"Since no one is kissing you, you try to kiss yourself.  Pathetic!"
+""
+"You pucker up, getting ready to smooch $p."
+"$n puckers $s lips, getting ready to smooch $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"clap"
+6
+0
+0
+1
+"You clap your hands together."
+"!$n shows $s approval by clapping $s hands together."
+"You clap at $N's performance."
+"$n claps at $N's performance."
+"$n claps at your performance."
+""
+"You clap in delight."
+"$n claps in delight."
+"You clap with approval when you see $p."
+"$n claps with approval when $e sees $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"clasp"
+6
+0
+0
+0
+"Whose hand do you with to clasp in friendship?"
+""
+"You clasp $N's hand firmly, greeting $M as a friend."
+"$n clasps $N's hand firmly, greeting $M as a friend."
+"$n clasps your hand firmly, greeting you as a friend."
+""
+"That is a quite interesting maneuver, to say the least."
+""
+"You clasp $p to your chest."
+"$n clasps $p to $s chest."
+""
+""
+"You clasp $p to your chest, glaring suspiciously at $N."
+"$n clasps $p to $s chest, glaring at you suspiciously."
+"$n clasps $p to $s chest, glaring suspiciously at $N."
+""
+"You clasp $p to your chest, glaring around the room suspiciously."
+"$n clasps $p to $s chest, glaring around the room suspiciously."
+""
+
+"cluck"
+6
+0
+0
+0
+"You cluck like a chicken."
+"!$n clucks like a chicken."
+"You cluck loudly at $N."
+"$n clucks loudly at $N.  Chicken!"
+"!$n clucks at you loudly.  Chicken!"
+""
+"You cluck like a chicken and flap your arms frantically."
+"$n clucks like a chicken and frantically flaps $s arms."
+""
+""
+"You cluck like a chicken $tward."
+"$n clucks like a chicken $twards."
+""
+""
+""
+""
+""
+""
+""
+
+"comb"
+6
+0
+0
+0
+"You comb your hair - perfect."
+"$n combs $s hair, how dashing!"
+"You patiently untangle $N's hair - what a mess!"
+"$n tries patiently to untangle $N's hair. "
+"!$n pulls your hair in an attempt to comb it."
+"You feel someone combing your hair."
+"You pull your hair, but it will not be combed."
+"$n tries to comb $s tangled hair."
+"You try to comb your hair with $p."
+"$n tries to comb $s hair with $p."
+""
+""
+"You try to comb $N's hair with $p."
+"!$n tries to comb your hair with $p."
+"$n tries to comb $N's hair with $p."
+""
+"You try to comb your hair with $p."
+"$n tries to comb $s hair with $p."
+""
+
+"comfort"
+6
+0
+0
+0
+"Do you feel uncomfortable?"
+""
+"You comfort $N."
+"$n comforts $N."
+"$n comforts you."
+""
+"You make a vain attempt to comfort yourself."
+"$n has no one to comfort $m but $mself."
+"You try to comfort yourself with $p."
+"$n tries to comfort $mself with $p."
+""
+""
+"You try to comfort $N with $p."
+"$n tries to comfort you with $p."
+"$n tries to comfort $N with $p."
+""
+"You try to comfort yourself with $p."
+"$n tries to comfort $mself with $p."
+""
+
+"cough"
+6
+0
+0
+1
+"You cough loudly."
+"!$n coughs loudly."
+"You cough loudly in $N's face."
+"$n coughs loudly right in $N's face."
+"!$n coughs right in your face!"
+""
+"You cough quietly to yourself."
+"!$n coughs quietly to $mself."
+"You cough all over $p."
+"$n coughs all over $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"cower"
+4
+0
+1
+0
+"You cower in terror!"
+"$n cowers in terror!"
+"You cower in mortal terror before $N!"
+"$n cowers in mortal terror before $N!"
+"$n cowers in terror before you."
+""
+"You cower back, afraid of yourself."
+"$n cowers back, seemingly afraid of $mself."
+"You cower in abject terror at the sight of $p!"
+"$n cowers in terror at the sight of $p."
+"You cower in terror at what lies $tward."
+"$n cowers in terror at what lies $tward."
+"You cower in terror before $N, trying to hide behind $p."
+"$n cowers in terror before you, trying to hide behind $p."
+"$n cowers in terror before $N, trying to hide behind $p."
+""
+"You cower back, holding $p in front of you to ward off danger."
+"$n cowers back, holding $p in front of $m to ward off danger."
+""
+
+"crack"
+6
+0
+0
+0
+"You crack your knuckles."
+"$n cracks $s knuckles."
+"You look at $N and crack your knuckles."
+"$n looks at $N and cracks $s knuckles."
+"$n looks at you and cracks $s knuckles."
+""
+""
+""
+"You look at $p and crack your knuckles."
+"$n looks at $p and cracks $s knuckles."
+""
+""
+"You crack $p at $N!"
+"$n cracks $p at you!  What's $e up to?"
+"$n cracks $p at $N."
+""
+""
+""
+""
+
+"cringe"
+4
+0
+0
+0
+"You cringe in terror."
+"$n cringes in terror!"
+"You cringe away from $N."
+"$n cringes away from $N in mortal terror."
+"$n cringes away from you."
+""
+"I beg your pardon?"
+""
+"You cringe away from $p."
+"$n cringes away from $p."
+"You look $t and cringe in terror."
+"$n looks $t and cringes in terror."
+"You cringe away from $N, desperately clutching $p."
+"$n cringes away from you, desperately clutching $p."
+"$n cringes away from $N, desperately clutching $p."
+""
+"You cringe away from your shadow, desperately clutching $p."
+""
+""
+
+"cross"
+6
+1
+0
+0
+"You cross your fingers."
+"$n crosses $s fingers."
+"You cross your fingers at $N."
+"$n crosses $s fingers at $N."
+"$n crosses $s fingers at you."
+""
+"You cross your fingers, your toes, and your eyes, hoping for good luck."
+"$n crosses $s fingers, $s toes, and $s eyes, hoping for good luck."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"cry"
+4
+1
+0
+1
+"Waaaaah ..."
+"$n bursts into tears."
+"You cry on $N's shoulder."
+"$n cries on $N's shoulder."
+"$n cries on your shoulder."
+""
+"You cry to yourself."
+"$n sobs quietly to $mself."
+"You burst into tears at the sight of $p."
+"$n bursts into tears at the sight of $p."
+"You look $t and burst into tears."
+"$n looks $t and bursts into tears."
+"Crying on $N's shoulder, you point tearfully to $p."
+"Crying on your shoulder, $n points tearfully at $p."
+"Crying on $N's shoulder, $n points tearfully at $p."
+"You feel someone lay against you and begin to cry softly."
+"You cry to yourself, pointing tearfully at $p."
+"$n sobs quietly to $mself, pointing tearfully at $p."
+""
+
+"cuddle"
+6
+0
+1
+1
+"You look around for someone to cuddle."
+"$n looks around for someone to cuddle."
+"You cuddle $N."
+"$n cuddles $N."
+"$n cuddles you."
+"You feel someone cuddle against you as you sleep."
+"You cuddle with yourself.  Lonely?"
+"$n cuddles with $mself.  Poor thing."
+"You cuddle up with $p."
+"$n cuddles up with $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"curse"
+6
+0
+0
+0
+"You swear loudly for a long time."
+"$n swears: @*&^%@*&!"
+"You swear at $N."
+"$n swears at $N."
+"$n swears at you!  Where are $s manners?"
+""
+"You swear at your mistake."
+"$n starts swearing at $s mistake."
+"You swear loudly at $p."
+"$n swears loudly at $p."
+"You look $t and begin to swear."
+"$n looks $t and begins to swear."
+"You swear loudly at $N, waving $p angrily."
+"$n swears loudly at you, waving $p angrily."
+"$n swears loudly at $N, waving $p angrily."
+""
+"You swear at your mistake, waving $p angrily."
+"$n starts swearing at $s mistake, waving $p angrily."
+""
+
+"curtsey"
+7
+0
+1
+0
+"You curtsey to your audience."
+"$n curtseys gracefully."
+"You curtsey to $N."
+"$n curtseys gracefully to $N."
+"$n curtseys gracefully for you."
+""
+"You curtsey, wobbling a bit on unsteady legs."
+"$n curtsies, wobbling a bit on unsteady legs."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"cwhap"
+8
+0
+0
+0
+"You swing a baby seal around."
+"$n swings a baby seal around."
+"You club $N on the head with a baby seal."
+"$n clubs $N on the head with a baby seal."
+"$n clubs you on the head with a baby seal."
+"You feel something bonk you on the head."
+"You club yourself on the head with a baby seal."
+"$n clubs $mself on the head with a baby seal."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"dance"
+8
+1
+1
+0
+"You put a rose between your teeth and look for someone to tango with."
+"$n puts a rose between $s teeth and looks for someone to tango with."
+"You sweep $N into a romantic waltz."
+"$n sweeps $N into a romantic waltz."
+"$n sweeps you into a romantic waltz."
+""
+"You dance around in a circle."
+"$n dances around in a circle."
+"You dance excitedly, waving $p in the air."
+"$n dances excitedly, waving $p in the air."
+"You dance around, pointing $t."
+"$n dances around, pointing $t."
+"You dance around $N, waving $p madly."
+"$n dances around you, waving $p madly."
+"$n dances around $N, waving $p madly."
+""
+"You dance around in a circle, waving $p in the air."
+"$n dances around in a circle, waving $p madly."
+""
+
+"disagree"
+6
+0
+0
+0
+"You shake your head in disagreement."
+"$n shakes $s head in disagreement."
+"You shake your head in disagreement with $N."
+"$n shakes $s head in disagreement with $N."
+"$n shakes $s head in disagreement with you."
+""
+"You realize what you did was completely wrong.  Better not do that again!"
+"$n realizes what $e did was completely wrong.  How quaint that they realize their own deeds!"
+""
+""
+"Looking $t, you shake your head in disagreement."
+"$n looks $t and shakes $s head in disagreement."
+""
+""
+""
+""
+""
+""
+""
+
+"doze"
+6
+0
+0
+0
+"You start to doze off but shake yourself awake again."
+"$n starts to doze off but shakes $mself awake again."
+"You start to doze off on $N's shoulder but $E won't have any of that."
+"$n starts to doze off on $N's shoulder but $E won't have any of that."
+"$n starts to doze off on your shoulder but you shake $m off."
+""
+""
+""
+"You start to doze off, hugging $p closely."
+"$n starts to doze off, hugging $p closely."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"drool"
+4
+0
+0
+0
+"You begin to drool."
+"$n begins to drool."
+"You drool all over $N."
+"$n drools all over $N."
+"$n drools all over you."
+""
+"You drool on yourself."
+"$n drools on $mself."
+"You drool all over $p."
+"$n drools all over $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"dwhap"
+8
+1
+1
+1
+"A surprised duck quacks wildly as you swing it about."
+"A surprised duck swung around by $n quacks wildly."
+"You grab a surprised duck and whap $N upside the head."
+"!$n grabs a surprised duck and whaps $N upside the head."
+"!$n grabs a surprised duck and whaps you upside the head."
+"Something feathery bonks you on the head."
+"You beat yourself with a surprised duck."
+"!$n beats $mself with a surprised duck."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"embrace"
+6
+0
+0
+0
+"You look around for someone to embrace."
+"$n looks around for someone to embrace."
+"You take $N into your arms in a warm, loving embrace."
+"$n takes $N into $s arms in a warm, loving embrace."
+"!$n takes you into $s arms in a warm, loving embrace."
+"You feel someone's arms gently encircling you."
+"You wrap your arms around yourself in a warm embrace."
+"$n wraps $s arms about $mself, obviously hoping for a hug."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"face"
+8
+0
+1
+0
+"Who or what do you want to face?"
+""
+"You turn and face $N."
+"$n turns and faces $N."
+"$n turns and faces you."
+""
+"You cannot turn and face yourself, silly."
+""
+"You turn and face $p."
+"$n turns and faces $p."
+"You turn and face $t."
+"$n turns and faces $t."
+""
+""
+""
+""
+""
+""
+""
+
+"faint"
+6
+0
+1
+1
+"You fall flat on your back, out cold."
+"$n faints dead away."
+"You faint on $N's shoulder."
+"$n faints on $N's shoulder."
+"$n faints right over your shoulder!"
+""
+"You try to faint on yourself and fall in a giant heap on the floor."
+"$n faints, falling in a giant heap on the floor."
+"You take one look at $p and faint dead away."
+"$n takes one look at $p and faints dead away."
+"You glance $t and faint dead away."
+"$n glances $t and faints dead away."
+"You take one look at $p and faint on $N's shoulder."
+"$n takes one look at $p and faints right over your shoulder!"
+"$n takes one look at $p and faints on $N's shoulder."
+""
+"You faint dead away at the sight of $p, crumpling in a heap."
+"$n faints dead away at the sight of $p, crumpling in a heap."
+""
+
+"flail"
+6
+0
+1
+1
+"You flail your arms."
+"$n flails $s arms and looks agitated."
+"You flail your arms at $N."
+"$n flails $s arms agitatedly at $N."
+"$n flails $s arms at you in an agitated fashion."
+""
+"You flail your arms about agitatedly because of what you did."
+"$n flails $s arms, looking upset about something."
+"You grab $p and begin to flail your arms in an agitated fashion."
+"$n grabs $p and begins to flail $s arms in an agitated fashion."
+"You flail your arms and point $t."
+"$n flails $s arms and points $t."
+"You grab $p and begin flailing it at $N in an agitated fashion."
+"$n grabs $p and begins flailing it at you in an agitated fashion."
+"$n grabs $p and begins flailing it at $N in an agitated fashion."
+""
+"You grab $p and begin to flail your arms in an agitated fashion."
+"$n grabs $p and begins to flail $s arms in an agitated fashion."
+""
+
+"flash"
+6
+0
+0
+0
+"Your eyes flash in anger."
+"$n's eyes flash in anger."
+"Your eyes flash in anger at $N."
+"$n's eyes flash in anger at $N."
+"$n's eyes flash in anger at you. "
+""
+""
+""
+"Your eyes flash in anger at the sight of $p."
+"$n's eyes flash in anger at the sight of $p."
+"You glance $t, your eyes flashing in anger."
+"As $n glances $t, $s eyes flash with a hint of anger."
+"Holding $p possesively, you flash an angry glance at $N."
+"Holding $p possesively, $n flashes an angry glance at you."
+"Holding $p possesively, $n flashes an angry glance at $N."
+""
+"Holding $p possesively, your eyes flash in anger."
+"Holding $p possesively, $n's eyes flash in anger."
+""
+
+"flex"
+6
+0
+0
+0
+"You flex your arm muscles and pose for your audience."
+"$n flexes $s muscles and poses for you."
+"You flex your muscles so $N can admire them."
+"$n flexes $s muscles so $N can admire them."
+"$n flexes $s muscles at you."
+""
+"You flex your muscles, admiring them.  Narcissist."
+"$n flexes $s muscles and stares down at them.  Narcissist."
+"You flex your muscles, posing with $p."
+"$n flexes $s muscles, posing with $p."
+""
+""
+"You flex your muscles at $N, brandishing $p."
+"$n flexes $s muscles at you, brandishing $p proudly."
+"$n flexes $s muscles at $N, brandishing $p proudly."
+""
+"You flex your muscles, admiring how $p compliments your own prowess."
+"$n flexes $s muscles, admiring how $p compliments $s prowess."
+""
+
+"flip"
+7
+0
+1
+1
+"You flip head over heels."
+"$n flips head over heels."
+"You flip $N over your shoulder."
+"$n flips $N over $s shoulder."
+"$n flips you over $s shoulder.  Hmmmm."
+""
+"You tumble all over the room."
+"$n does some nice tumbling and gymnastics."
+"You flip $p over and over in your hands."
+"$n flips $p over and over in $s hands."
+""
+""
+"You want to flip $N with that?!"
+""
+""
+""
+""
+""
+""
+
+"flirt"
+6
+0
+1
+0
+"You flutter your eyelashes flirtatiously."
+"$n flutters $s eyelashes flirtatiously."
+"You flutter your eyelashes at $N flirtatiously."
+"$n flutters $s eyelashes flirtatiously at $N."
+"$n flutters $s eyelashes at you flirtatiously."
+""
+"You flirt with Death."
+"$n flirts with Death."
+"You flutter your lashes flirtatiously at $p.  It doesn't seem to notice."
+"$n flutters $s lashes at $p.  How odd."
+"You face $t and flutter your lashes flirtatiously."
+"$n faces $t and flutters $s lashes flirtatiously."
+"You flutter your lashes flirtatiously at $N, hoping to entice $M with $p."
+"$n flutters $s lashes flirtatiously at you, hoping to entice you with $p."
+"$n fluters $s lashes at $N, shaking $p in a teasing manner."
+""
+"You flirt with Death, hoping to entice him with $p."
+"$n flirts with Death, hoping to entice him with $p."
+""
+
+"fondle"
+6
+0
+0
+1
+"What delectable little object or creature would you like to fondle?"
+""
+"You fondle $N in a frenzy of tactile pleasure."
+"$n excitedly fondles $N."
+"$n fondles you, obviously relishing the feeling of your body under $s hands."
+"You feel someone's hands sensually fondling you."
+"You fondle yourself, very pleased with how your body feels under your touch."
+"$n fondles $mself, looking quite pleased with how it feels."
+"You fondle $p, relishing how it feels."
+"$n fondles $p, relishing its feeling in $s hands."
+"You look $t, moving your hands wistfully as if touching something in that direction."
+"$n looks $t, moving $s hands wistfully as if touching something in that direction."
+"You fondle $N with $p, running it all over $S body."
+"$n fondles you with $p, running it all over your body."
+"$n fondles $N with $p, running it all over $S body."
+"You feel something being rubbed all over your body."
+"You fondle yourself with $p, relishing how it feels."
+"$n fondles $mself with $p, relishing how it feels."
+""
+
+"french"
+6
+0
+1
+1
+"Kiss whom?"
+""
+"You give $N a long and passionate kiss...It seems to take forever."
+"$n kisses $N passionately...Should you be watching this?"
+"$n gives you a long and passionate kiss...It seems to take forever."
+"You feel someone kissing you as you sleep."
+"Has anyone ever mentioned you are strange?"
+""
+"You give $p a long and passionate kiss...How very odd."
+"$n kisses $p passionately...How very odd."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"frolic"
+8
+0
+1
+1
+"You frolic about in happy abandon."
+"$n frolics about in happy abandon."
+"You frolic before $N in happy abandon."
+"$n frolics before $N in happy abandon."
+"$n frolics before you in happy abandon."
+""
+"You frolic gleefully through the area."
+"$n frolics gleefully through the area."
+"You frolic about brandishing $p."
+"$n frolics about brandishing $p."
+"You scamper off $tward, frolicking all the way."
+"$n scampers off $tward, frolicking all the way."
+"You frolic before $N, gleefully waving $p."
+"$n frolics before you, gleefully waving $p."
+"$n frolics before $N, gleefully waving $p."
+""
+"You frolic gleefully through the area, waving $p."
+"$n frolics gleefully through the area, waving $p."
+""
+
+"frown"
+4
+0
+0
+0
+"What's bothering you?"
+"$n frowns."
+"You frown at what $N did."
+"$n frowns at what $N did."
+"$n frowns at what you did."
+""
+"You frown at yourself.  Poor baby."
+"$n frowns at $mself.  Poor baby."
+"You frown at $p."
+"$n frowns at $p."
+"You look $t and frown."
+"$n looks $t and frowns."
+"You frown at $p, then focus your displeasure on $N."
+"$n frowns at $p, then focuses $s displeasure on you.  What did you do?"
+"$n frowns at $p, then focuses $s displeasure on $N.  What did $S do?"
+""
+"You frown at $p, then focus your displeasure at yourself."
+"$n frowns at $p, then focuses $s displeasure at $mself."
+""
+
+"fume"
+6
+0
+0
+0
+"You grit your teeth and fume with rage."
+"$n grits $s teeth and fumes with rage."
+"You stare at $N, fuming."
+"$n stares at $N, fuming with rage."
+"$n stares at you, fuming with rage!"
+""
+"You clench your fists and stomp your feet, fuming with anger."
+"$n clenches $s fists and stomps $s feet, fuming with anger."
+"You stare at $p, fuming with rage."
+"$n stares at $p, fuming with rage."
+"You stare $tward, fuming with rage."
+"$n stares $tward, fuming with rage."
+"You clench your fists around $p, fuming in anger at $N."
+"$n clenches $s fists around $p, fuming in anger at you!  What did you do?"
+"$n clenches $s fists around $p, fuming in rage at $N."
+""
+"You clench your fists, and stomp your feet, fuming at $p."
+"$n clenches $s fists and stomps $s feet, fuming at $p."
+""
+
+"fwhap"
+8
+0
+1
+1
+"You swing a fish around."
+"!$n swings a fish around."
+"You grab a cold slimey fish and whap $N upside the head with it."
+"$n grabs a cold slimey fish and whaps $N upside the head."
+"!$n grabs a cold slimey fish and whaps you upside the head."
+"Something slimy *SLAMS* into the side of your face."
+"You grab a cold slimey fish and hit yourself with it."
+"A fish viciously attacks $n."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"gasp"
+6
+0
+0
+0
+"You gasp in astonishment."
+"$n gasps in astonishment."
+"You gasp as you realize what $N did."
+"$n gasps as $e realizes what $N did."
+"$n gasps as $e realizes what you did."
+""
+"You look at yourself and gasp!"
+"$n takes one look at $mself and gasps in astonisment!"
+"You look at $p and gasp in astonishment."
+"$n looks at $p and gasps in astonishment."
+"You look $t and gasp in astonishment."
+"$n looks $t and gasps in astonishment."
+"You look from $p to $N and breathe a gasp of astonishment."
+"$n looks from $p to you, gasping in astonishment."
+"$n looks from $p to $N, gasping in astonishment."
+""
+"You look at $p and gasp at your own boldness."
+"$n looks at $p and gasps at $s own boldness."
+""
+
+"gaze"
+6
+1
+0
+0
+"You gaze up at the sky."
+"$n gazes up at the sky."
+"You gaze dreamily at $N, completely lost in $S eyes."
+"$n gazes dreamily at $N."
+"$n gazes dreamily at you, completely lost in your eyes."
+""
+"You gaze dreamily at yourself - enough narcissism for now."
+"$n gazes dreamily at $mself - NARCISSIST!"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"giggle"
+4
+0
+0
+1
+"You giggle."
+"$n giggles."
+"You giggle at $N's silliness."
+"$n giggles at $N's silliness."
+"$n giggles at your silliness."
+""
+"You giggle at yourself."
+"$n giggles at $mself."
+"You take one look at $p and begin to giggle."
+"$n takes one look at $p and begins to giggle."
+"Looking $tward, you start to giggle."
+"Looking $tward, $n starts giggling."
+"You glance at $p, then giggle at $N."
+"$n glances at $p, then giggles at you."
+"$n glances at $p, then giggles at $N."
+""
+"You glance at $p, then giggle at your silliness."
+"$n glances at $p, then giggles at $mself."
+""
+
+"glare"
+6
+0
+0
+0
+"You glare at nothing in particular."
+"$n glares around $m."
+"You glare icily at $N."
+"$n glares at $N."
+"$n glares icily at you, you feel cold to your bones."
+""
+"You glare icily at your feet, they are suddenly very cold."
+"$n glares at $s feet, what is bothering $m?"
+"You glare at $p in anger."
+"$n glares at $p in anger."
+"You direct an icy glare at whatever lies $tward."
+"$n directs an icy glare at whatever lies $tward."
+"You glare at $N, waving $p angrily."
+"$n glares at you, waving $p angrily."
+"$n glares at $N, waving $p angrily."
+""
+"You glare icily at your feet, waving $p around."
+"$n glares at $s feet, waving $p around."
+""
+
+"gloat"
+6
+0
+0
+0
+"You gloat gleefully over your recent victory."
+"$n grins and gloats over $s recent victory."
+"You gloat over your superiority to $N."
+"$n gloats over $s superiority over $N."
+"$n gloats at you."
+""
+"You gloat at yourself.  Most peculiar."
+"$n gloats at $mself.  Now that is quite peculiar."
+"You gloat over $p."
+"$n gloats over $p."
+"You havent even gotten there yet, greedy!"
+""
+"You gloat over $p, grinning smugly at $N."
+"$n gloats over $p, grinning at you smugly."
+"$n gloats over $p, grinning smugly at $N."
+""
+"You gloat over your fortune at finding $p."
+"$n gloats over $s luck at finding $p."
+""
+
+"goodbye"
+6
+1
+0
+0
+"You wave goodbye."
+"$n waves goodbye."
+"You wave goodbye to $N."
+"$n waves goodbye to $N."
+"$n waves goodbye to you."
+""
+"You wave goodbye to yourself."
+"$n waves goodbye to $mself."
+"You wave goodbye to $p."
+"$n waves goodbye to $p."
+"You head $t, waving goodbye."
+"$n heads $t, waving goodbye."
+"You wave goodbye to $N with $p."
+"$n waves goodbye to you with $p."
+"$n waves goodbye to $N with $p."
+""
+"You wave goodbye to yourself with $p."
+"$n waves goodbye to $mself with $p."
+""
+
+"greet"
+6
+0
+0
+1
+"Whom do you wish to greet?"
+"$n seems to be in the mood for greetings."
+"You greet $N warmly."
+"$n greets $N warmly."
+"$n greets you warmly."
+""
+"You prepare to greet @rdeath@n."
+"$n prepares to greet @rdeath@n."
+"You greet $p warmly."
+"$n greets $p warmly."
+"Whom do you wish to greet over there?"
+""
+"You greet $N warmly, inviting $M to admire $p."
+"$n greets you warmly, inviting you to admire $p."
+"$n greets $N warmly, inviting $M to admire $p."
+""
+"You prepare to greet Death, holding $p as futile protection."
+"$n prepares to greet Death, holding $p as futile protection."
+""
+
+"grimace"
+6
+0
+0
+0
+"You grimace in pain."
+"$n grimaces in pain."
+"You grimace at the sight of $N."
+"$n grimaces at the sight of $N."
+"$n grimaces at the sight of you."
+""
+"You really have a bad self image, don't you?"
+"$n grimaces at the sight of $mself."
+"You grimace at the sight of $p."
+"$n grimaces at the sight of $p."
+"You glance $t and grimace."
+"$n glances $t and grimaces."
+"You glance at $p, then grimace at $N."
+"$n glances at $p, then grimaces at you."
+"$n glances at $p, then grimaces at $N."
+""
+"You glance at $p, then grimace at yourself."
+"$n glances at $p, then grimaces at $mself."
+""
+
+"grin"
+4
+0
+0
+0
+"You grin."
+"$n grins."
+"You grin at $N."
+"$n grins at $N."
+"$n grins at you. "
+""
+"You grin at yourself.  You must be getting very bad thoughts."
+"$n grins at $mself.  You must wonder what's in $s mind."
+"You look at $p and grin."
+"$n looks at $p and grins."
+"You look $t and grin."
+"$n looks $t and grins."
+"You grin at $N, waving $p madly."
+"$n grins at you, waving $p madly."
+"$n grins at $N, waving $p madly."
+""
+"You grin at yourself, thinking of $p."
+"$n grins as $s looks at $p."
+""
+
+"groan"
+4
+0
+1
+0
+"You groan loudly."
+"$n groans loudly."
+"You groan at the sight of $N."
+"$n groans at the sight of $N."
+"$n groans at the sight of you."
+""
+"You groan as you realize what you have done."
+"$n groans as $e realizes what $e has done."
+"You groan at the sight of $p."
+"$n groans at the sight of $p."
+"You look $t and give a miserable groan."
+"$n looks $t and gives a miserable groan."
+"You groan at $N as you notice $p."
+"$n groans at you as $e notices $p."
+"$n groans at $N as $e notices $p."
+""
+"You groan quietly to yourself, contemplating $p."
+"$n groans quietly to $mself, contemplating $p."
+""
+
+"grovel"
+6
+0
+1
+0
+"You grovel in the dirt."
+"$n grovels in the dirt."
+"You grovel before $N."
+"$n grovels in the dirt before $N."
+"$n grovels in the dirt before you."
+""
+"That seems a little silly to me."
+""
+"You grovel before $p."
+"$n grovels before $p."
+""
+""
+"You grovel before $N, offering up $p."
+"$n grovels before you, offering up $p."
+"$n grovels before $N, offering up $p."
+""
+"You grovel in the dirt, offering up $p to your god."
+"$n grovels in the dirt, offering up $p to $s god."
+""
+
+"growl"
+4
+0
+0
+0
+"Grrrrrrrrrr ..."
+"!$n growls."
+"Grrrrrrrrrr ... Take that, $N!"
+"$n growls at $N.  Better leave the room before the fighting starts."
+"!$n growls at you.  Hey, two can play it that way!"
+""
+"You growl at yourself.  Boy, do you feel bitter!"
+"$n growls at $mself.  This could get interesting..."
+"You growl at $p."
+"$n growls at $p."
+"You growl at something $tward."
+"$n growls at something $tward."
+"You growl at $N, holding $p possesively."
+"$n growls at you, holding $p possesively."
+"$n growls at $N, holding $p possesively."
+""
+"You growl, clutching $p possesively."
+"$n growls, clutching $p possesively."
+""
+
+"grumble"
+4
+0
+0
+0
+"You grumble."
+"!$n grumbles."
+"You grumble to $N."
+"$n grumbles to $N."
+"!$n grumbles to you."
+""
+"You grumble under your breath."
+"$n grumbles under $s breath."
+"You grumble under your breath about $p."
+"$n grumbles under $s breath about $p."
+"You head $t, grumbling under your breath."
+"$n heads $t, grumbling under $s breath."
+"You grumble to $N about $p."
+"!$n grumbles to you about $p."
+"$n grumbles to $N about $p."
+""
+"You grumble to yourself about $p."
+"$n grumbles to $mself about $p."
+""
+
+"grunt"
+4
+0
+0
+0
+"GRNNNHTTTT."
+"$n grunts like a pig."
+"GRNNNHTTTT."
+"$n grunts to $N.  What a pig!"
+"$n grunts to you.  What a pig!"
+""
+"GRNNNHTTTT."
+"$n grunts to nobody in particular.  What a pig!"
+"You take one look at $p and grunt."
+"$n takes one look at $p and grunts."
+"You look $t and grunt."
+"$n looks $t and grunts."
+"You grunt at $p, then shrug at $N."
+"$n grunts at $p, then shrugs at you."
+"$n grunts at $p, then shrugs at $N."
+""
+"You grunt at $p, looking around at nobody in particular."
+"$n grunts at $p, looking around at nobody in particular."
+""
+
+"gulp"
+4
+0
+0
+0
+"You gulp loudly."
+"$n gulps loudly."
+"You gulp at $N nervously."
+"$n gulps at $N nervously."
+"$n gulps at you nervously."
+""
+"You gulp loudly at yourself.  A bit nervous are we?"
+"$n gulps loudly at $mself.  A bit nervous isn't $e?"
+"You look at $p and gulp loudly."
+"$n looks at $p and gulps loudly."
+"You look $t and gulp loudly."
+"$n looks $t and gulps loudly."
+"You look from $p to $N and gulp loudly."
+"$n looks from $p to you and gulps loudly."
+"$n looks from $p to $N and gulps loudly."
+""
+"You gulp loudly at the sight of $p.  Bit nervous, are we?"
+"$n gulps loudly at the sight of $p.  Bit nervous, isnt $e?"
+""
+
+"hail"
+6
+0
+0
+1
+"You signal for everyone to hail you."
+"$n signals for you to hail $m."
+"You hail $N with deep respect."
+"$n hails $N with deep respect."
+"$n hails you, showing $s respect."
+""
+"How do you propose to do that?"
+""
+"You could, but it probably wouldn't notice."
+""
+"You hail someone or something $tward."
+"$n hails someone or something $tward."
+""
+""
+""
+""
+""
+""
+""
+
+"halo"
+6
+0
+0
+0
+"A halo forms over your head, and you become the picture of angelic innocence."
+"A halo forms over $n's head, and $e becomes the picture of angelic innocence."
+"You give $N a perfectly innocent look.  Who me?"
+"$n gives $N a perfectly innocent look."
+"$n gives you a perfectly innocent look."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"hkiss"
+6
+0
+0
+0
+"Kiss whose hand?"
+""
+"You kiss $N's hand."
+"$n kisses $N's hand.  How continental!"
+"$n kisses your hand.  How continental!"
+""
+"You kiss your own hand."
+"$n kisses $s own hand."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"hop"
+7
+0
+0
+0
+"You hop around like a little kid."
+"$n hops around like a little kid."
+"You leap frog over $N."
+"$n leap frogs over $N."
+"$n leap frogs over you."
+""
+"You hop high into the air, trying to amuse yourself."
+"$n hops high into the air, trying to amuse $mself."
+"You hop around, waving $p in the air."
+"$n hops around, waving $p in the air."
+"You hop $t."
+"$n hops $t."
+"You leap frog over $N, waving $p."
+"$n leap frogs over you, waving $p."
+"$n leap frogs over $N, waving $p."
+""
+"You hop around in a little circle, waving $p."
+"$n hops around like a bunny, waving $p."
+""
+
+"howl"
+6
+0
+1
+0
+"You howl at the moon."
+"$n howls at the moon."
+"You howl at $N in anger."
+"$n howls at $N in anger."
+"$n howls at you in anger."
+""
+"You howl in pain."
+"$n howls in pain."
+"You howl in anger at $p."
+"$n howls in anger at $p."
+"You face $t and howl in anger."
+"$n faces $t and howls in anger."
+"You howl in anger at $N, shaking $p at $M."
+"$n howls in anger at you, shaking $p at you."
+"$n howls in anger at $N, shaking $p at $N."
+""
+"You howl in pain, glancing reproachfully at $p."
+"$n howls in pain, glancing reproachfully at $p."
+""
+
+"hpat"
+8
+0
+1
+0
+"Who do you wish to pat on the head?"
+""
+"You pat $N on the head."
+"$n pats $N on the head."
+"Someone pats you on the head."
+""
+"You pat yourself on the head."
+"$n pats $mself on the head."
+""
+""
+""
+""
+"You pat $N on the head with $p."
+"$n pats you on the head with $p."
+"$n pats $N on the head with $p."
+"Someone pats you on the head with something."
+"You pat yourself on the head with $p."
+"$n pats $mself on the head with $p."
+""
+
+"hraise"
+6
+0
+1
+0
+"You raise your hand."
+"$n raises $s hand."
+"You raise your hand, supporting $N's idea."
+"$n raises $s hand, supporting $N's idea."
+"$n raises $s hand, supporting your idea."
+""
+"You raise your hand and peer around the room, hoping to gather supporters for your idea."
+"$n raises $s hand and peers around the room, hoping to gather supports for $s idea."
+"You raise your hand and shake $p around for all to see."
+"$n raises $s hand and shakes $p around for all to see."
+""
+""
+"You raise your hand and shake $p around, ensuring $N sees it."
+"$n raises $s hand and shakes $p around, ensuring you see it."
+"$n raises $s hand and shakes $p around, ensuring $N sees it."
+""
+""
+""
+""
+
+"hug"
+6
+0
+0
+0
+"Hug whom?"
+""
+"You hug $N."
+"$n hugs $N."
+"$n hugs you."
+"You feel someone hugging you as you sleep."
+"You hug yourself."
+"$n hugs $mself in a vain attempt to get friendship."
+"You hug $p tightly."
+"$n hugs $p tightly."
+"Whom do you want to hug over there?"
+""
+"You hug $N tightly, clasping $p between the two of you."
+"$n hugs you tightly, clasping $p between the two of you."
+"$n hugs $N tightly, clasping $p between the two of them."
+""
+"You hug $p tightly, since no one else will hug you."
+"$n hugs $p tightly, since no one else will hug $m."
+""
+
+"jump"
+8
+0
+1
+1
+"You jump up and down."
+"$n jumps up and down.  Boy does that look silly."
+"You jump up and down on $M.  OUCH!"
+"$n jumps up and down on $N.  Be glad it's not you!!"
+"!$n jumps up and down on you.  OUCH!!"
+"Someone jumps up and down on you.  OUCH!!"
+"Your vain attempts at jumping on yourself are quite comical."
+"$n looks quite stupid trying to jump on $mself."
+"You jump up and down on $p."
+"$n jumps up and down on $p."
+"You jump up and down, pointing $tward."
+"$n jumps up and down, pointing $tward."
+"You jump up and down on $N, waving $p in the air."
+"!$n jumps up and down on you, waving $p in the air."
+"$n jumps up and down on $N, waving $p in the air."
+"Someone jumps up and down on you.  OUCH!!"
+"You jump all around the room, waving $p."
+"$n jumps all around the room, waving $p."
+""
+
+"keel"
+6
+0
+1
+1
+"You keel over."
+"$n keels over."
+"You keel over and land at the feet of $N."
+"$n keels over and lands at the feet of $N."
+"$n keels over and lands at your feet."
+""
+""
+""
+"You look at $p and keel over."
+"$n looks at $p and keels over."
+"You look $t and keel over."
+"$n looks $t and keels over."
+"You take one look at $p and keel over at $N's feet."
+"$n takes one look at $p and keels over at your feet."
+"$n takes one look at $p and keels over at $N's feet."
+""
+"You keel over at the sight of $p, crumpling in a heap."
+"$n keels over at the sight of $p, crumpling in a heap."
+""
+
+"kiss"
+6
+0
+0
+1
+"Isn't there someone you want to kiss?"
+""
+"You kiss $M."
+"$n kisses $N."
+"!$n kisses you."
+"You feel someone brush their lips against yours."
+"All the lonely people."
+"$n puckers $s lips and tries to kiss $mself.  Pathetic."
+"You kiss $p."
+"$n kisses $p."
+"Whom do you want to kiss over there?"
+""
+"Who, or what, do you want to kiss?"
+""
+""
+""
+""
+""
+""
+
+"kneel"
+8
+1
+1
+0
+"You kneel upon the ground."
+"$n kneels upon the ground."
+"You kneel before $N."
+"$n kneels before $N."
+"$n kneels before you."
+""
+"You kneel in quiet reflection."
+"$n kneels in quiet reflection."
+"You kneel on the ground, holding $p aloft."
+"$n kneels on the ground, holding $p aloft."
+"Shouldn't you go over there before you kneel?"
+""
+"You kneel before $N, holding $p aloft."
+"$n kneels before you, holding $p aloft."
+"$n kneels before $N, holding $p aloft."
+""
+"You kneel on the ground, quietly contemplating $p."
+"$n kneels on the ground, quietly contemplating $p."
+""
+
+"laugh"
+4
+0
+0
+0
+"You laugh."
+"!$n laughs."
+"You laugh at what $N just did."
+"$n laughs at what $N just did."
+"!$n laughs at what you just did."
+""
+"You laugh at what you just did."
+"$n laughs at $mself."
+"You look at $p and laugh."
+"$n looks at $p and laughs."
+"You look $t and begin to laugh."
+"$n looks $t and begins to laugh."
+"You look at $p, look at $N, and laugh."
+"$n looks at $p, at you, and laughs."
+"$n looks at $p, at $N, and laughs."
+""
+""
+""
+""
+
+"ldown"
+6
+0
+0
+0
+"You look down."
+"$n looks down."
+"You look down at $N."
+"$n looks down at $N."
+"$n looks down at you."
+""
+"It's rather difficult to look down at yourself."
+""
+"You look down at $p."
+"$n looks down at $p."
+"You look down toward the $t."
+"$n looks down toward the $t."
+"You look down, glancing from $N to $p."
+"$n looks down, glancing from you to $p."
+"$n looks down, glancing from $N to $p."
+""
+"You look down at your hands, then glance at $p."
+"$n looks down at $s hands, then glances at $p."
+""
+
+"lick"
+6
+0
+0
+1
+"Whom do you want to lick?"
+""
+"You lick $N."
+"$n licks $N."
+"!$n licks you."
+"You feel someone lick you."
+"You lick your lips happily."
+"$n licks $s lips happily."
+"You lick $p."
+"$n licks $p."
+"Is there someone over there you want to lick?"
+""
+"Who, or what, do you want to lick?  Make up your mind!"
+""
+""
+""
+""
+""
+""
+
+"love"
+6
+0
+0
+0
+"You look around the area lovingly."
+"$n looks around the area lovingly."
+"You declare your undying love to $N."
+"$n declares $s undying love for $N."
+"$n declares $s undying love for you."
+""
+"You love yourself, since no one else does. *sniff*"
+""
+"You declare your undying love for $p."
+"$n declares $s undying love for $p."
+"You look $tward, looking for someone to love."
+"$n looks $tward, looking for someone to love."
+"You offer $p to $N, declaring your undying love for $M."
+"Declaring $s undying love for you, $n offers $p to you."
+"Declaring $s undying love for $N, $n offers $p to $M."
+""
+"You vainly try to squeeze a little love out of $p."
+"$n vainly tries to squeeze a little love out of $p.  How pathetic!"
+""
+
+"lsing"
+6
+0
+0
+0
+"You sing a soft, poignant love song."
+"$n begins to sing a soft, poignant love song."
+"You softly sing a loving melody in $N's ear."
+"$n draws close to $N singing softly in $S ear."
+"$n draws close to you, singing a soft melody in your ear."
+"You hear a soft voice singing to you."
+"You sing your own praises."
+"$n sings softly to $mself."
+"You sing a soft love song to $p."
+"$n sings softly to $p."
+"Is there someone you want to sing to over there?"
+""
+""
+""
+""
+""
+""
+""
+""
+
+"lup"
+6
+0
+0
+0
+"You look up."
+"$n looks up."
+"You look up at $N."
+"$n looks up at $N."
+"$n looks up at you."
+""
+"It's rather difficult to look up at yourself."
+""
+"You look up at $p."
+"$n looks up at $p."
+"You look up toward the $t."
+"$n looks up toward the $t."
+""
+""
+""
+""
+""
+""
+""
+
+"massage"
+6
+0
+1
+1
+"Massage what?  Thin air?"
+""
+"You gently massage $N's shoulders."
+"$n massages $N's shoulders."
+"$n gently massages your shoulders.  Ahhhhhhhhhh ..."
+""
+"You practice yoga as you try to massage yourself."
+"$n gives a show on yoga positions, trying to massage $mself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"moan"
+4
+0
+1
+0
+"You start to moan."
+"$n starts moaning."
+"You begin to moan at $N."
+"$n begins to moan at $N."
+"$n begins to moan at you.  Hmmm."
+""
+"You moan at yourself."
+"$n moans at $mself."
+"You begin to moan at $p."
+"$n begins to moan at $p."
+"You look $t and let out a moan."
+"$n looks $t and starts to moan."
+""
+""
+""
+""
+""
+""
+""
+
+"mumble"
+4
+0
+0
+0
+"You start to mumble."
+"!$n starts mumbling."
+"You mumble so that $N can hear it."
+"$n mumbles so that $N can hear it."
+"!$n begins to mumble something about you."
+""
+"You mumble to yourself. No one else will listen."
+"$n mumbles to $mself.  No one else wants to listen."
+"You begin to mumble something about $p."
+"$n begins to mumble something about $p."
+"You look $t and begin to mumble."
+"$n looks $t and begins to mumble."
+""
+""
+""
+""
+""
+""
+""
+
+"mutter"
+4
+0
+0
+0
+"You mutter under your breath."
+"$n mutters under $s breath."
+"You mutter something under your breath about $N."
+"$n mutters something under $s breath about $N."
+"$n mutters something under $s breath about you."
+""
+"You mutter softly to yourself."
+"$n mutters softly to $mself."
+"You mutter something under your breath about $p."
+"$n mutters something under $s breath about $p."
+"You head $tward, muttering irritably."
+"$n heads $tward, muttering irritably."
+"Glancing at $N, you mutter something under your breath about $p."
+"Glancing at you, $n mutters something under $s breath about $p."
+"Glancing at $N, $n mutters something under $s breath about $p."
+""
+"You mutter softly to yourself while fiddling absently with $p."
+"$n mutters softly to $mself while $e fiddles with $p."
+""
+
+"nibble"
+6
+0
+1
+1
+"Nibble on whom?"
+""
+"You nibble on $N's ear."
+"$n nibbles on $N's ear."
+"$n nibbles on your ear."
+"You feel someone nibbling on you as you sleep."
+"You begin to nibble at your nails."
+"$n begins to nibble on $s nails."
+"You start to nibble on the corner of $p."
+"$n starts to nibble on the corner of $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"nod"
+6
+1
+0
+0
+"You nod."
+"$n nods."
+"You nod in recognition to $N."
+"$n nods in recognition to $N."
+"$n nods in recognition to you."
+""
+"You nod at yourself.  Are you getting senile?"
+"$n nods at $mself.  $>e must be getting senile."
+"You nod at $p."
+"$n nods at $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"noogie"
+6
+1
+0
+0
+"Whom do you wish to noogie?"
+""
+"You noogie $N."
+"$n noogies $N."
+"$n grabs you in a headlock and noogies you."
+""
+"You noogie yourself."
+"$n noogies $mself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"nudge"
+6
+1
+0
+0
+"Nudge whom?"
+""
+"You nudge $N."
+"$n nudges $N."
+"!$n nudges you."
+"You feel something nudge you."
+"You nudge yourself, for some strange reason."
+"$n nudges $mself, to keep $mself awake."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"nuzzle"
+6
+1
+0
+0
+"Nuzzle whom?"
+""
+"You nuzzle $N's neck softly."
+"$n softly nuzzles $N's neck."
+"$n softly nuzzles your neck."
+"$n softly nuzzles your neck."
+"I'm sorry, friend, but that's impossible."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"odie"
+7
+1
+0
+0
+"Whom do you wish to order to die?"
+"$n looks around, wrath in $s eyes."
+"You order $N to DIE!"
+"$n orders $N to DIE!"
+"$n orders you to DIE!"
+""
+"Oh really?  Then do it all ready!"
+"$n looks very cross with $mself."
+"You kiss your mother with that mouth?"
+"$n orders $p to DIE!  Ridiculous things!"
+"You point $t and order everything there to DIE!"
+"$n points $t and orders everything there to DIE!"
+"You point $p at $N and order $M to DIE!"
+"$n points $p at you and orders you to DIE!"
+"$n points $p at $N and order $M to DIE!"
+""
+"You threaten to kill yourself with $p.  Psycho."
+"$n threatens to kill $mself with $p.  Definitely insane."
+""
+
+"offer"
+6
+0
+0
+1
+"Offer who what?"
+""
+"Offer what to $N?"
+""
+""
+""
+"Offer what to yourself?"
+""
+"Offer $p to whom?"
+""
+""
+""
+"You offer $N $p."
+"$n offers you $p."
+"$n offers $N $p."
+""
+"You dangle $p temptingly in front of your nose."
+"$n dangles $p in front of their nose."
+""
+
+"oink"
+4
+0
+0
+0
+"You oink like a pig. Oink! Oink!"
+"!$n oinks like a pig. Oink! Oink!"
+"You oink at $N. Oink! Oink!"
+"$n oinks at $N. Oink! Oink!"
+"!$n oinks at you. Oink! Oink!"
+"Dreams of pigs invade your slumber."
+"You oink at yourself. Oink! Oink!"
+"$n oinks at $mself. Oink! Oink!"
+"You oink at $p. Oink! Oink!"
+"$n oinks at $p. Oink! Oink!"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"pace"
+8
+0
+1
+1
+"You pace back and forth impatiently."
+"$n paces back and forth impatiently."
+"You pace around $N impatiently."
+"$n paces around $N impatiently."
+"$n paces around you impatiently."
+""
+"You pace around in circles."
+"$n paces around in circles."
+"You pace around $p impatiently."
+"$n paces around $p impatiently."
+""
+""
+"Shaking $p in the air, you pace around $N impatiently."
+"Shaking $p in the air, $n paces around you impatiently."
+"Shaking $p in the air, $n paces around $N impatiently."
+""
+""
+""
+""
+
+"pant"
+6
+0
+0
+0
+"You pant heavily."
+"$n pants heavily."
+"You begin to pant loudly at $N."
+"$n begins to pant heavily at $N."
+"$n begins to pant heavily at you."
+""
+"Your tongue lolls out of your mouth as you pant like a dog."
+"$n's tongue lolls out of $s mouth as $e pants like a dog."
+"You look at $p and begin to pant."
+"$n looks at $p and begins to pant."
+"You look $t and start to pant."
+"$n looks $t and starts to pant."
+""
+""
+""
+""
+""
+""
+""
+
+"pat"
+6
+1
+0
+0
+"Pat whom on the back?"
+""
+"You pat $N on $S back."
+"$n pats $N on $S back."
+"$n pats you on your back."
+"You feel something brushing you on the back."
+"You pat yourself on the back - well done!"
+"$n pats $mself on the back."
+"You pat $p affectionately."
+"$n pats $p affectionately."
+""
+""
+"You pat $N on $S back with $p."
+"$n pats you on your back with $p."
+"$n pats $N on $S back with $p."
+""
+""
+""
+""
+
+"peer"
+6
+1
+0
+0
+"You peer around the room relentlessly."
+"$n peers around the room."
+"You peer warily at $N...what did $E do?"
+"$n peers warily at $N...what did $E do?"
+"$n peers warily at you...what did you do?"
+""
+"You peer at yourself...strange."
+"$n peers at $mself...strange."
+"You peer warily at $p...what did it do?"
+"$n peers warily at $p...what did it do?"
+"You peer warily at whatever lies $t from you."
+"$n peers warily at whatever lies $t from $m."
+""
+""
+""
+""
+""
+""
+""
+
+"pinch"
+6
+0
+1
+0
+"You threaten to pinch someone with an extended hand."
+"$n waves $s hand, threatening to pinch someone with it."
+"You pinch $N on the cheek."
+"$n pinches $N on the cheek."
+"$n pinches you on the cheek."
+"You feel someone pinch you."
+"You pinch yourself to make sure that this isn't a dream."
+"$n pinches $mself to make sure $e's awake."
+""
+""
+""
+""
+"You pinch $N with $p."
+"$n pinches you with $p."
+"$n pinches $N with $p."
+"You feel something pinch you."
+"You pinch yourself with $p to make sure that this isn't a dream."
+"$n pinches $mself with $p to make sure $e's awake."
+""
+
+"point"
+6
+1
+0
+0
+"You point excitedly in random directions."
+"$n points excitedly in random directions."
+"You point at $N."
+"$n points at $N."
+"$n points at you."
+""
+"You point proudly at yourself."
+"$n points proudly at $mself."
+"You point at $p."
+"$n points at $p."
+"You point $tward."
+"$n points $tward."
+""
+""
+""
+""
+""
+""
+""
+
+"poke"
+6
+1
+0
+0
+"You look around for someone to poke."
+"$n, finger extended, looks around for someone to poke."
+"You poke $N."
+"$n pokes $N."
+"!$n pokes you."
+"You feel something poke you in your sleep."
+"You poke yourself."
+"$n pokes $mself."
+"You poke at $p to see what it is."
+"$n pokes at $p to see what it is."
+""
+""
+"You poke at $N with $p."
+"!$n pokes at you with $p."
+"$n pokes at $N with $p."
+"You feel something poke at you."
+"You poke yourself with $p."
+"$n pokes at $mself with $p."
+""
+
+"ponder"
+6
+1
+0
+0
+"You ponder the situation."
+"$n sits down and thinks deeply."
+"You ponder the existence of $N."
+"$n sits down and ponders whether $N should exist."
+"$n sits down and ponders whether you should exist."
+""
+"You sit down and ponder the meaning of life."
+"$n sits down and ponders the meaning of life."
+"You ponder $p questioningly."
+"$n ponders $p questioningly."
+"You ponder what lies $tward."
+"$n ponders what lies $tward."
+""
+""
+""
+""
+""
+""
+""
+
+"pounce"
+8
+0
+0
+0
+"Without warning, you pounce!  You think you got it."
+"$n suddenly pounces on something visible only to $m."
+"You crouch down, waiting for the perfect moment, then pounce on $N!"
+"$n crouches down for a long moment, then, without warning, pounces at $N!"
+"$n crouches down for a long moment, then, without warning, pounces at you!"
+""
+"You spin around and try to catch your tail!"
+"$n spins around, trying to pounce on $s tail!"
+"Without giving it any warning, you pounce on $p!"
+"$n pounces on $p, playing with it roughly."
+"You peer suspiciously $tward and prepare to pounce."
+"$n peers suspiciously $tward and prepares to pounce."
+""
+""
+""
+""
+""
+""
+""
+
+"pout"
+6
+1
+0
+0
+"You pout."
+"$n sits in a corner and pouts."
+"You pout since $N is ignoring you."
+"$n pouts since $N is ignoring $m."
+"$n pouts since you are ignoring $m."
+""
+"You pout because you are unhappy."
+"$n pouts that life isn't fair."
+"You pout at $p.  Will it never work right?"
+"$n pouts at $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"prod"
+6
+0
+0
+0
+"Who do you want to prod?"
+""
+"You prod $N in an attempt to get $M moving."
+"$n prods $N, trying to get $M moving."
+"!$n prods you mercilessly."
+"You feel someone prod you."
+"You prod yourself.  Get moving!"
+"$n prods $mself and starts hopping around."
+"You prod $p to see if it moves."
+""
+""
+""
+"You prod $p into $N.  Looks like it hurts!"
+"!$n prods you with $p!  Ouch!"
+"$n prods $p into $N.  Looks painful!"
+"You feel something prod you."
+"You prod yourself with $p.  Ouch!"
+"You see $n prod $mself with $p."
+""
+
+"propose"
+6
+0
+1
+1
+"Whom would you like to propose to?"
+""
+"You kneel before $N, asking $M to marry you."
+"$n kneels before $N, asking for $S hand in marriage."
+"$n kneels before you, asking you to marry $m."
+""
+"You kneel and pronounce your desire to marry everyone in the room."
+"$n kneels and pronounces $s desire to marry everyone in the room."
+"You kneel and hold $p aloft, looking for someone to propose to."
+"$n kneels and holds $p aloft, looking for someone to propose to."
+""
+""
+"You kneel and propose to $N, presenting $p to $M."
+"$n kneels and proposes to you, presenting $p."
+"$n kneels and proposes to $N, presenting $p to $M."
+""
+""
+""
+""
+
+"purr"
+4
+1
+0
+0
+"You purr."
+"$n purrs."
+"You purr contentedly in $N's lap."
+"$n purrs contentedly in $N's lap."
+"$n purrs contentedly in your lap."
+""
+"You purr at yourself."
+"$n purrs at $mself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"raise"
+6
+1
+0
+0
+"You raise an eyebrow."
+"$n raises an eyebrow."
+"You raise an eyebrow at $N."
+"$n raises an eyebrow at $N."
+"$n raises an eyebrow at you."
+""
+"You raise an eyebrow."
+"$n raises an eyebrow."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"raspberry"
+6
+1
+0
+1
+"You stick out your tongue.  Pbbbbllltt!"
+"$n sticks out $s tongue.  Pbbbbllltt!"
+"You stick your tongue out at $N.  Pbbbbllltt!"
+"$n sticks $s tongue out at $N.  Pbbbbllltt!"
+"$n sticks $s tongue out at you.  Pbbbbllltt!"
+""
+"You stick out your tongue and drool down your chin.  Pbbbbllltt!"
+"$n sticks out $s tongue, drooling down $s chin.  Pbbbbllltt!"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"roar"
+6
+0
+1
+1
+"You roar loudly like a lion."
+"!$n belts out a roar reminiscent of a lion."
+"You roar in anger at $N."
+"$n roars in anger at $N."
+"$n peers at you and roars ferociously."
+""
+"Mad at what you just did, you roar like a lion."
+"$n roars loudly at what $e just did."
+"You hold $p up and roar in glorious victory."
+"$n holds $p up in the air and roars in victory."
+"You look $t and roar in a fit of anger."
+"$n looks $t and roars in a fit of anger."
+""
+""
+""
+""
+""
+""
+""
+
+"rofl"
+6
+1
+0
+0
+"You roll on the floor laughing."
+"!$n rolls on the floor laughing."
+"You roll on the floor and laugh at $N."
+"$n rolls on the floor laughing at $N."
+"!$n rolls on the floor laughing at you."
+""
+"You roll on the floor laughing at your own joke."
+"$n rolls on the floor laughing at $s own joke."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"roll"
+6
+0
+0
+0
+"You roll your eyes."
+"$n rolls $s eyes."
+"You roll your eyes at $N."
+"$n rolls $s eyes at $N."
+"$n rolls $s eyes at you."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"rub"
+6
+1
+0
+0
+"You rub your stomach in hunger."
+"$n rubs $s stomach in hunger."
+"You rub $N's stomach, looking for signs of hunger."
+"$n rubs $N's stomach, looking for signs of hunger."
+"$n rubs your stomach...are you hungry?"
+""
+"You rub your hands together, relishing the wealth that is to be yours."
+"$n rubs $s hands together, relishing the wealth that is to come."
+"You rub $p, murmuring sweet things to it."
+"$n rubs $p, murmuring sweet things to it."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"ruffle"
+6
+1
+0
+0
+"Whose hair do you want to ruffle?"
+""
+"You ruffle $N's hair fondly."
+"$n ruffles $N's hair fondly."
+"!$n ruffles your hair fondly."
+"You feel someone ruffle your hair."
+"You ruffle your hair until it's a tangled mess."
+"$n ruffles $s hair until it's a tangled mess."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"ruler"
+6
+0
+0
+0
+"Whom do you wish to smack with a ruler?"
+""
+"You bring your ruler of smacking down on $N."
+"$n brings $s ruler of smacking down on $N."
+"$n brings $s ruler of smacking down on you."
+""
+"Interesting."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"salute"
+6
+0
+0
+0
+"You bring your right hand up in a smart salute."
+"$n brings $s right hand up in a smart salute."
+"You salute $N.  Yes, sir!"
+"$n salutes $N."
+"$n flashes you a quick salute."
+""
+"You indicate that you will obey your own orders."
+"$n salutes $mself."
+"You salute $p, becoming its willing slave."
+"$n salutes $p, becoming its willing slave."
+""
+""
+"You salute $N with $p."
+"$n salutes you with $p."
+"$n salutes $N with $p."
+""
+""
+""
+""
+
+"scold"
+6
+0
+1
+1
+"You angrily look around for someone to scold."
+"$n angrily looks around for someone to scold."
+"You angrily scold $N."
+"$n angrily scolds $N."
+"$n scolds you angrily.  What have you done *now*?"
+"You hear the incessant chattering of someone scolding you as you sleep."
+"You scold yourself quietly for being foolish."
+"$n scolds $mself quietly for being foolish."
+"You tell it!"
+"$n angrily scolds $p."
+""
+""
+"You angrily scold $N with $p."
+"$n angrily scolds you with $p."
+"$n scolds $N angrily with $p."
+""
+""
+""
+""
+
+"scowl"
+6
+0
+0
+0
+"You scowl furiously."
+"$n scowls furiously."
+"You scowl furiously at $N."
+"$n scowls furiously at $N."
+"$n scowls furiously at you.  *NOW* what have you done?"
+""
+"You scowl at the ridiculous thing you did."
+"$n scowls at the ridiulous thing $e did."
+"You scowl furiously at $p, demanding it work properly."
+"$n scowls furiously at $p, demanding it work properly."
+"You look $t and scowl furiously."
+"$n looks $t and scowls furiously."
+"You swing $p at $N, scowling at $M."
+"You duck a bit as $n scowls furiously at you, swinging $p."
+"$n swings $p at $N scowling $M furiously."
+""
+""
+""
+""
+
+"scratch"
+6
+1
+0
+0
+"You scratch your head."
+"$n scratches $s head."
+"You scratch $N's back."
+"$n scratches $N's back."
+"$n scratches your back."
+""
+"You scratch your head."
+"$n scratches $s hair."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"scream"
+4
+1
+0
+0
+"You scream."
+"!$n screams."
+"You scream at $M."
+"$n screams at $N."
+"!$n screams at you!"
+""
+"You scream at yourself."
+"$n screams at $mself."
+"You look at $p and scream!"
+"$n looks at $p and screams."
+"You look $t and scream!"
+"$n looks $t and screams!"
+""
+""
+""
+""
+""
+""
+""
+
+"shake"
+6
+1
+0
+0
+"You shake your head."
+"$n shakes $s head."
+"You shake $N's hand."
+"$n shakes $N's hand."
+"$n shakes your hand."
+""
+"You are shaken by yourself."
+"$n shakes $mself."
+"You shake $p all around."
+"$n shakes $p all around."
+"You shake your head in disapproval of what lies $tward."
+"$n shakes $s head in disapproval of what lies $tward."
+"You shake $p at $N."
+"$n shakes $p at you!"
+"$n shakes $p at $N."
+""
+""
+""
+""
+
+"shiver"
+4
+1
+0
+0
+"You shiver."
+"$n shivers uncomfortably."
+"You shiver at the thought of fighting $N."
+"$n shivers at the thought of fighting $N."
+"$n shivers at the suicidal thought of fighting you."
+""
+"You scare yourself to shivers."
+"$n scares $mself to shivers."
+""
+""
+"You look $t and shiver."
+"$n looks $t and shivers."
+""
+""
+""
+""
+""
+""
+""
+
+"shriek"
+4
+0
+0
+0
+"You shriek in terror!"
+"!$n shrieks in terror!"
+"You shriek in terror at the sight of $N!"
+"$n takes one look at $N and shrieks in terror!"
+"$n takes one look at you and shrieks in terror!"
+"You hear a blood-curdling shriek!"
+"You shriek at yourself... Scary!"
+"$n shrieks at $mself... Scary!"
+"You shriek in terror at the sight of $p!"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"shrug"
+6
+1
+1
+0
+"You shrug."
+"$n shrugs helplessly."
+"You shrug in response to $N's question."
+"$n shrugs in response to $N's question."
+"$n shrugs in response to your question."
+""
+"You shrug to yourself."
+"$n shrugs at $mself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"shudder"
+4
+1
+0
+0
+"You shudder in fear."
+"$n shudders in fear."
+"You shudder at $N."
+"$n shudders at $N."
+"$n shudders at you."
+""
+"You shudder at yourself."
+"$n shudders at $mself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"shuffle"
+6
+1
+0
+0
+"You shuffle your feet in the dirt."
+"$n shuffles $s feet in the dirt."
+"You shuffle your feet in response to $N's question."
+"$n shuffles $s feet at $S question."
+"$n shuffles $s feet at your question."
+""
+"You shuffle your feet to avoid answering the question."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"shush"
+6
+0
+0
+0
+"You shush everyone."
+"$n shushes you.  You'd best quiet down now."
+"You shush $N."
+"$n shushes $N."
+"$n shushes you.  You'd best quiet down now."
+""
+"You compose yourself and quiet down."
+"$n composes $mself and quiets down."
+"You urgently shush $p."
+"$n urgently shushes $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"sigh"
+4
+1
+0
+0
+"You sigh."
+"!$n sighs loudly."
+"You sigh as you think of $N."
+"$n sighs at the sight of $N."
+"$n sighs as $e thinks of you.  Touching, huh?"
+""
+"You sigh at yourself.  You MUST be lonely."
+"$n sighs at $mself.  What a sorry sight."
+"You sigh as you think of $p."
+"$n sighs as $e thinks of $p."
+"You look $t and sigh."
+"$n looks $t and sighs."
+""
+""
+""
+""
+""
+""
+""
+
+"sing"
+6
+1
+0
+0
+"You raise your clear voice towards the sky."
+"!$n has begun to sing."
+"You sing a ballad to $N."
+"$n sings a ballad to $N."
+"!$n sings a ballad to you!  How sweet!"
+""
+"You sing a little ditty to yourself."
+"$n sings a little ditty to $mself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"skip"
+8
+0
+1
+1
+"You gleefully skip in a circle."
+"$n gleefully skips in a circle."
+"You gleefully skip in a circle around $N."
+"$n gleefully skips in a circle around $N."
+"$n gleefully skips in a circle around you."
+""
+"You happily skip and hop."
+"$n happily skips and hops."
+"You gleefully skip in a circle around $p."
+"$n gleefully skips in a circle around $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"slap"
+6
+1
+0
+0
+"Whom do you want to slap?"
+""
+"You slap $N."
+"$n slaps $N."
+"!$n slaps you."
+"You feel someone slap you."
+"You slap yourself on the forehead."
+"$n slaps $mself on the forehead."
+"You slap $p."
+"$n slaps $p."
+""
+""
+"You slap $N with $p."
+"!$n slaps you with $p."
+"$n slaps $N with $p."
+"You feel something slapping you."
+"You slap yourself with $p."
+"$n slaps $mself with $p."
+""
+
+"smack"
+6
+0
+0
+1
+"Who do you wish to smack?"
+""
+"You smack $N on the head."
+"$n smacks $N on the head."
+"$n smacks you on the head."
+"Someone smacks you on the head."
+"You smack yourself on the head.  Dunce!"
+"$n smacks $mself on the head."
+""
+""
+""
+""
+"You smack $N on the head with $p."
+"$n smacks you on the head with $p."
+"$n smacks $N on the head with $p."
+"Someone smacks you on the head."
+""
+""
+""
+
+"smile"
+4
+1
+0
+1
+"You smile happily."
+"$n smiles happily."
+"You smile at $N."
+"$n beams a smile at $N."
+"$n smiles at you."
+""
+"You smile at yourself."
+"$n smiles at $mself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"smirk"
+4
+1
+0
+0
+"You smirk."
+"$n smirks."
+"You smirk at $N."
+"$n smirks at $N."
+"$n smirks at you."
+""
+"You smirk at yourself."
+"$n smirks at $mself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"snap"
+6
+1
+0
+0
+"You snap your fingers."
+"$n snaps $s fingers."
+"You snap at $N."
+"$n snaps at $N."
+"$n snaps at you."
+""
+"You snap at yourself."
+"$n snaps at $mself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"snarl"
+4
+1
+0
+0
+"You snarl."
+"$n snarls angrily."
+"You snarl at $N."
+"$n snarls at $N."
+"$n snarls at you."
+""
+"You snarl at yourself."
+"$n snarls at $mself."
+"You snarl angrily at $p."
+"$n snarls angrily at $p."
+"Sic it!"
+"$n looks $t and gives a throaty snarl."
+""
+""
+""
+""
+""
+""
+""
+
+"sneeze"
+6
+0
+1
+1
+"You sneeze."
+"$n sneezes."
+"That wouldn't be very nice."
+""
+""
+""
+"That doesn't make much sense."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"snicker"
+4
+1
+0
+0
+"You snicker softly."
+"$n snickers softly."
+"You snicker at $N."
+"$n snickers at $N."
+"$n snickers at you."
+""
+"You snicker at yourself."
+"$n snickers at $mself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"sniff"
+6
+1
+0
+0
+"You sniff."
+"$n sniffs."
+"You sniff at $N."
+"$n sniffs at $N."
+"$n sniffs at you."
+"You have an uneasy feeling that someone is too close to you."
+"You sniff yourself.  You smell like yourself."
+"$n sniffs $mself."
+"You sniff $p.  It smells like $p."
+"$n sniffs $p carefully, noting its scent."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"snore"
+4
+1
+0
+0
+"You snore."
+"$n snores."
+"You rethink this action."
+""
+""
+""
+"You rethink this action."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"snort"
+4
+1
+0
+0
+"You snort derisively."
+"$n snorts derisively."
+"You snort derisively at $N."
+"$n snorts derisively at $N."
+"$n snorts derisively at you."
+""
+"You snort derisively at your own actions."
+"$n snorts derisively at $s own actions."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"snuggle"
+6
+0
+0
+0
+"Whom do you want to snuggle with?"
+""
+"You snuggle up to $N."
+"$n snuggles up to $N."
+"$n snuggles up to you."
+""
+"You snuggle up, getting ready to sleep."
+"$n snuggles up, getting ready to sleep."
+"You snuggle up to $p."
+"$n snuggles up to $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"sob"
+4
+0
+1
+1
+"You sob uncontrollably."
+"$n sobs uncontrollably."
+"You sob pitifully at $N."
+"$n sobs pitifully at $N."
+"$n sobs pitifully at you."
+""
+"You sob quietly to yourself."
+"$n sobs quietly to $mself."
+"You sob uncontrollably at the sight of $p."
+"$n sobs uncontrollably at the sight of $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"spank"
+6
+1
+1
+1
+"You look around for someone to spank."
+"$n looks around for someone to spank.  Hrm."
+"You turn $N over your knee and spank $M."
+"$n turns $N over $s knee and starts spanking $M."
+"!$n turns you over $s knee and spanks you hard!"
+"You feel a slap on your rump."
+"You spank yourself."
+"$n spanks $mself."
+"You turn $p over your knee and spank it."
+"$n turns $p over $s knee and spanks it."
+""
+""
+"You spank $N with $p."
+"!$n spanks you with $p!"
+"$n spanks $N with $p!"
+"You feel a sharp slap on the rump!"
+"You spank yourself with $p."
+"$n spanks $mself with $p."
+""
+
+"spit"
+6
+0
+0
+1
+"You release a heavy glob of spit toward the ground."
+"$n spits at the ground."
+"You let loose a wad of spit at $N."
+"$n lets loose a wad of spit at $N!"
+"$n lets loose a wad of spit at you!"
+"You dream of a warm, heavy rain."
+"You spit on your foot."
+"$n spits on $s foot."
+"You spit angrily at $p."
+"$n spits angrily at $p."
+"You angrily spit $tward."
+"$n angrily spits $tward."
+"You look at $p and spit angrily at $N."
+"$n looks at $p and spits angrily at you!"
+"$n looks at $p and spits angrily at $N!"
+"You dream of a warm, heavy rain."
+"You look yourself over and spit angrily at $p."
+"$n looks $mself over and spits angrily at $p."
+""
+
+"sputter"
+6
+0
+0
+1
+"You sputter and cough."
+"$n sputters and coughs."
+"You sputter and cough at $N."
+"$n sputters and coughs at $N."
+"$n sputters and coughs at you."
+""
+"You sputter and cough in surprise at yourself."
+"$n sputters and coughs in surprise at $mself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"squeeze"
+6
+1
+0
+0
+"Where, what, how, whom?"
+""
+"You squeeze $N fondly."
+"$n squeezes $N fondly."
+"$n squeezes you fondly."
+""
+"You squeeze yourself - try to relax a little!"
+"$n squeezes $mself."
+"You squeeze $p fondly."
+"$n squeezes $p fondly."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"squint"
+6
+0
+0
+0
+"You squint your eyes, trying to get a better look."
+"$n squints, trying to get a better look."
+"You squint at $N, trying to get a better look at $M."
+"$n squints at $N, trying to get a better look at what $E is doing."
+"$n squints at you, trying to get a better look at what you are doing."
+""
+"You squint, trying to focus on what you are doing."
+"$n squints, trying to focus on what $e is doing."
+"You squint at $p."
+"$n squints at $p."
+"You look $t and squint your eyes."
+"$n looks $t and squints $s eyes."
+""
+""
+""
+""
+""
+""
+""
+
+"squirm"
+4
+0
+0
+0
+"You squirm about excitedly."
+"$n squirms about excitedly."
+"One look at $N and you begin to squirm about."
+"$n looks at $N and begins to squirm about."
+"Upon seeing you, $n begins to squirm about excitedly."
+""
+"Thinking about things makes you squirm excitedly."
+"$n squirms about, lost in thought."
+"You look at $p and begin to squirm about."
+"$n looks at $p and begins to squirm about."
+"You squirm about excitedly looking $t."
+"$n looks $t and begins to squirm about excitedly."
+""
+""
+""
+""
+""
+""
+""
+
+"stamp"
+8
+0
+0
+1
+"You angrily stamp your foot upon the ground!"
+"$n angrily stamps $s foot upon the ground!"
+"Scowling at $N, you stamp your foot angrily!"
+"Scowling at $N, $n stamps $s foot angrily!"
+"Scowling at you, $n stamps $s foot angrily!"
+""
+"Angry at yourself, you stamp your foot upon the ground!"
+"Muttering to $mself, $n angrily stamps $s foot upon the ground!"
+"You angrily throw $p on the ground and stamp your foot on it!"
+"$n angrily throws $p on the ground and stamps $s foot on it!"
+"You angrily stamp your foot $tward!"
+"$n angrily stamps $s foot $tward!"
+"Scowling at $N, you angrily throw $p to the ground and stamp your foot on it!"
+"Scowling at you, $n angrily throws $p to the ground and stamps $s foot on it!"
+"Scowling at $N, $n angrily throws $p to the ground and stamps $s foot on it!"
+""
+"Muttering to yourself, you angrily throw $p to the ground and stamp your foot on it!"
+"Muttering to $mself, $n angrily throws $p to the ground and stamps $s foot on it!"
+""
+
+"stare"
+6
+1
+0
+0
+"You stare at nothing in particular."
+"$n stares at nothing in particular."
+"You stare at $N.  What IS that?"
+"$n stares at $N intently."
+"$n intently stares at you.  What did you do?"
+""
+"You stare at youself, trying to figure out what's wrong."
+"$n stares at $mself - how odd."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"stifle"
+6
+0
+0
+0
+"You stifle a giggle."
+"$n stifles a giggle."
+"You stifle a giggle at $N."
+"$n stifles a giggle at $N."
+"$n stifles a giggle at you."
+""
+"You try to keep from giggling at what you just did."
+"$n tries to keep from giggling at what $e just did."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"stomp"
+8
+0
+1
+1
+"You stomp about the place loudly."
+"$n stomps about the place loudly."
+"You stomp on $N's foot.  Ouch!"
+"$n stomps on $N's foot.  Ouch!"
+"$n stomps on your foot!  Ouch!"
+""
+"You lift one foot and stomp hard on the other.  Ouch!"
+"$n lifts a foot and stomps down hard on the other.  Ouch!"
+"You stomp up and down on $p."
+"$n stomps up and down on $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"stretch"
+6
+1
+0
+0
+"You stretch after your long rest.  That sure felt good."
+"$n sits up and stretches after a long rest."
+"$N really isn't very stretchable."
+""
+""
+""
+""
+""
+"You try to stretch yourself with $p.  It just won't work."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"strut"
+8
+1
+0
+0
+"Strut your stuff."
+"$n struts proudly."
+"You strut to get $N's attention."
+"$n struts, hoping to get $N's attention."
+"$n struts, hoping to get your attention."
+""
+"You strut to yourself, lost in your own world."
+"$n struts to $mself, lost in $s own world."
+"You strut proudly, brandishing $p."
+"$n struts proudly, brandishing $p."
+"Strutting proudly, you head $t."
+"Strutting proudly, $n heads $t."
+""
+""
+""
+""
+""
+""
+""
+
+"sulk"
+4
+1
+0
+0
+"You sulk."
+"$n sulks in the corner."
+"You sulk because $N is ignoring you."
+"$n sulks because $N is ignoring $m."
+"$n sulks because you are ignoring $m."
+""
+"You sulk, wishing everyone would just leave you alone."
+"$n sulks, wishing everyone would just leave $m alone."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"swear"
+6
+1
+0
+0
+"You swear in frustration: @#%#*!!!"
+"$n swears in frustration: @#%#*!!!"
+"You swear at $N!!!"
+"$n swears at $N: @#%*#!!!"
+"$n swears at you: @#%*!!!"
+""
+"You swear at yourself: @#%*!!!"
+"$n swears at $mself: @#%*!!!"
+""
+""
+"You look $t and swear in fustration: @#%#*!!!"
+"$n looks $t and swears in fustration: @#%#*!!!"
+""
+""
+""
+""
+""
+""
+""
+
+"sweat"
+4
+0
+0
+0
+"Beads of sweat begin to roll down your face."
+"Beads of sweat begin to roll down $n's face."
+"You begin to sweat as you consider $N."
+"$n begins to sweat as $e considers $N."
+"$n begins to sweat as $e considers you."
+""
+"You fan yourself as sweat rolls down your face."
+"$n fans $mself as sweat rolls down $s face."
+"Sweat beads form on your head as you think about wearing $p."
+"Sweat beads form on $n's head as $e looks at $p."
+"Sweat beads on your forehead as you look $t."
+"Sweat beads on $n's forehead as $e looks $t."
+""
+""
+""
+""
+""
+""
+""
+
+"swhap"
+8
+0
+0
+0
+"You push a surprised sheep around, ready to whap someone."
+"$n pushes a surprised sheep around, ready to whap someone."
+"You grab ahold of a surpised sheep and whap $N."
+"$n grabs ahold of a surprised sheep and whaps $N."
+"$n grabs ahold of a surprised sheep and whaps you with it."
+"Something wooly and bleating whaps you over the head."
+"You whap yourself with a surprised sheep - that was baaaaaaaad."
+"$n whaps $mself with a surprised sheep - how baaaaaaaad."
+"You whap $p with a surprised sheep - baaaaaaad."
+"$n whaps $p with a surprised sheep - baaaaaaad."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"swoon"
+6
+0
+0
+0
+"You swoon gracefully."
+"$n swoons gracefully."
+"You swoon gracefully at $N's feet."
+"$n swoons gracefully at $N's feet."
+"$n swoons gracefully at your feet.  How charming!"
+""
+"You swoon gracefully, overwhelmed by events."
+"$n swoons gracefully, crumpling to the ground."
+"You swoon at the overwhelming sight of $p."
+"$n swoons at the overwhelming sight of $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"tackle"
+8
+1
+0
+0
+"Tackle whom?"
+""
+"You tackle $N to the ground."
+"$n tackles $N to the ground."
+"$n tackles you to the ground."
+""
+"Nice try."
+"$n tries to tackle $mself, really strange."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"tantrum"
+6
+1
+0
+0
+"You throw a temper tantrum."
+"$n throws a temper tantrum."
+"You throw a temper tantrum at $N."
+"$n throws a tantrum at $N."
+"$n throws a temper tantrum at you."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"tap"
+6
+1
+0
+0
+"You tap your foot impatiently."
+"$n taps $s foot impatiently."
+"You tap $N on the shoulder."
+"$n taps $N on the shoulder."
+"$n taps you on the shoulder."
+"Someone taps you on the shoulder."
+"You tap your forehead."
+"$n taps $s forehead."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"taunt"
+6
+1
+0
+0
+"You get in the mood for a good @b@Gt@Ya@Gu@Yn@Gt@Yi@Gn@Yg@n."
+"@b@G$n@n is preparing to @b@Gt@Ya@Gu@Yn@Gt@n someone, so look out."
+"You @b@Gt@Ya@Gu@Yn@Gt @b@G$N@n.  Uh-oh, boy that looks like it made $M mad."
+"$n @b@Gt@Ya@Gu@Yn@Gt@Ys@n $N.  Boy does $N look mad!"
+"$n @Gt@Ya@Gu@Yn@Gt@Ys@n you.  Are you just going to take that?"
+""
+"Really?  Why would you do that?"
+"$n @Gt@Ya@Gu@Yn@Gt@Ys@n $mself.  $e must really be bored."
+"You brandish $p, preparing to @Gt@Ya@Gu@Yn@Gt@n someone!"
+"$n brandishes $p, preparing to @Gt@Ya@Gu@Yn@Gt@n someone!"
+"You yell angry @Gt@Ya@Gu@Yn@Gt@Ys@n $tward."
+"$n yells angry @Gt@Ya@Gu@Yn@Gt@Ys@n $tward."
+"You @Gt@Ya@Gu@Yn@Gt@n $N, brandishing $p triumphantly.  Boy, does $E look mad!"
+"$n @Gt@Ya@Gu@Yn@Gt@Ys@n you, brandishing $p triumphantly.  Are you just going to take that?"
+"$n @Gt@Ya@Gu@Yn@Gt@Ys@n $N, brandishing $p triumphantly.  Boy, does $E look mad!"
+""
+"You @Gt@Ya@Gu@Yn@Gt@n yourself.  Desperate for attention, aren't you?"
+""
+""
+
+"tease"
+6
+0
+0
+0
+"You look around for someone to tease."
+"$n looks around for someone to tease."
+"You tease $N playfully."
+"$n teases $N playfully."
+"$n teases you playfully."
+""
+"You tease yourself, giggling at your silliness."
+"$n looks quite silly, teasing $mself."
+"You tease $p playfully."
+"$n teases $p playfully."
+""
+""
+"You tease $N, showing $M $p but not giving it up."
+"$n teases you, showing you $p but not letting you have it."
+"$n teases $N by showing $M $p but not letting $M have it."
+""
+""
+""
+""
+
+"thank"
+6
+1
+0
+0
+"Thank you too."
+""
+"You thank $N heartily."
+"$n thanks $N heartily."
+"$n thanks you heartily."
+""
+"You thank yourself since nobody else wants to!"
+"$n thanks $mself since you won't."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"think"
+6
+1
+0
+0
+"You think really hard."
+"$n thinks really hard."
+"You think really hard about $N."
+"$n is deep in thought about something."
+"$n is deep in thought about something."
+""
+"You think about yourself really hard."
+"$n thinks about $mself really hard."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"thump"
+6
+0
+0
+0
+"Thump who?"
+""
+"You thump $N on the forehead!"
+"$n thumps $N on the forehead.  That's gonna leave a mark."
+"$n thumps you on the forehead!  That's gonna leave a mark."
+"You feel someone thump you."
+"You thump yourself on the forehead and hear your brain rattle around."
+"$n thumps $mself on the forehead.  Odd isn't $e?"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"tickle"
+6
+1
+0
+0
+"You look around for someone who needs tickling."
+"$n looks around for someone who needs tickling."
+"You tickle $N."
+"$n tickles $N."
+"$n tickles you - hee hee hee."
+"Someone tickles you in your sleep."
+"You tickle yourself, how funny!"
+"$n tickles $mself."
+"You tickle yourself with $p, giggling helplessly."
+"$n tickles $mself with $p."
+"Is there someone over there you want to tickle?"
+""
+"You tickle $N with $p."
+"$n tickles you with $p."
+"$n tickles $N with $p."
+"You feel someone tickling you in your sleep."
+"You tickle yourself with $p.  How peculiar!"
+"$n tickles $mself with $p.  How peculiar!"
+""
+
+"tilt"
+6
+0
+0
+0
+"You tilt your head to one side, considering."
+"$n tilts $s head slightly to one side."
+"You tilt your head to one side, considering $N."
+"$n tilts $s head to one side, considering $N."
+"$n tilts $s head to one side, considering you."
+""
+"You tilt your head to one side, considering your actions carefully."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"toast"
+6
+0
+0
+1
+"You let everyone know that you would like to propose a toast."
+"$n waves $s hands to let you know $e wants to propose a toast."
+"You propose a toast to $N."
+"$n proposes a toast to $N."
+"$n proposes a toast to you."
+""
+"You propose a toast to yourself."
+"$n proposes a toast to $mself."
+"You raise $p in salute for a toast."
+"$n raises $p in salute for a toast."
+""
+""
+"You raise $p and salute $N with a toast."
+"$n raises $p and salutes you with a toast."
+"$n raises $p and salutes $N with a toast."
+""
+"You raise $p and salute yourself with a toast."
+"$n raises $p and salutes $mself with a toast."
+""
+
+"tongue"
+6
+1
+0
+0
+"You stick out your tongue and try to look at it."
+"$n sticks out $s tongue and looks at it.  Yes, that is strange."
+"You stick your tongue out at $N."
+"$n sticks $s tongue out at $N."
+"$n sticks $s tongue out at you."
+""
+"You attempt to touch your nose with your tongue."
+"$n comically attempts to touch $s nose with $s tongue."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"touch"
+6
+1
+0
+0
+"You feel as if you are all here."
+"$n feels $s body and finds it all intact."
+"You touch $N and find that $E is intact."
+"$n touches $N."
+"$n touches you."
+""
+"You feel as if you are all here."
+"$n feels $s body and finds it all intact."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"truffle"
+8
+0
+1
+1
+"Whose truffle do you want to shuffle?"
+""
+"You grab a couple handfuls of $N's belly and shake it all around!"
+"$n grabs a couple handfuls of $N's belly and shakes it all around!"
+"$n grabs a couple handfuls of your belly and shakes it all around!"
+"You feel someone violently shake your love handles!"
+"You grab a couple handfuls of your belly and shake it all around!"
+"$n grabs a couple handfuls of $s belly and shakes it all around!"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"twiddle"
+6
+1
+0
+0
+"You patiently twiddle your thumbs."
+"$n patiently twiddles $s thumbs."
+"You twiddle $N's ears."
+"$n twiddles $N's ears."
+"!$n twiddles your ears."
+"Someone twiddles your ears."
+"You twiddle your ears like Dumbo."
+"$n twiddles $s own ears like Dumbo."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"twitch"
+4
+0
+1
+0
+"You twitch nervously."
+"$n twitches nervously."
+"You twitch nervously from watching $N."
+"$n twitches nervously from watching $N."
+"$n twitches nervously while watching you."
+""
+"You twitch nervously at what you just did."
+"$n twitches nervously at what $e just did."
+""
+""
+"You twitch nervously at what lies $t."
+"$n twitches nervously at what lies $t."
+""
+""
+""
+""
+""
+""
+""
+
+"waggle"
+6
+0
+0
+0
+"Ooo-la-la!"
+"$n waggles $s eyebrows."
+"You waggle your eyebrows at $N."
+"$n waggles $s eyebrows at $N."
+"$n waggles $s eyebrows at you. "
+""
+"Sicko."
+"$n waggles $s eyebrows obscenely."
+"You look at $p and waggle your eyebrows."
+"$n looks at $p and waggles $s eyebrows."
+"You look $t and waggle your eyebrows."
+"$n looks $t and waggles $s eyebrows."
+""
+""
+""
+""
+""
+""
+""
+
+"wave"
+6
+0
+0
+1
+"You wave."
+"$n waves."
+"You wave to $N."
+"$n waves to $N."
+"$n waves to you."
+"A cool breeze washes over you as something waves over your head."
+"You wave to yourself."
+"$n waves to $mself."
+"You wave $p in the air."
+"$n waves $p in the air."
+"You wave $tward."
+"$n waves $tward."
+""
+""
+""
+""
+""
+""
+""
+
+"weep"
+4
+0
+0
+0
+"You weep pitifully."
+"$n begins to weep pitifully."
+"You look at $N and weep at the hopelessness of it all."
+"$n looks at $N and begins to weep."
+"$n takes one look at you and begins to weep."
+""
+"Wallowing in depression, you weep pitifully."
+"Without warning, $n weeps pitifully."
+"You take one look at $p and weep at the hopelessness of it."
+"$n looks at $p and begins to weep."
+"You take one look $tward and begin to weep."
+"$n takes one look $tward and begins to weep."
+"You look at $N and you look at $p and you can't help but weep."
+"$n looks at you and $p and weeps."
+"$n looks between $N and $p and weeps."
+""
+""
+""
+""
+
+"whap"
+8
+1
+0
+0
+"You swing a pillow around."
+"$n swings a pillow around."
+"You grab a pillow and whap $N upside the head with it."
+"$n grabs a pillow and whaps $N upside the head."
+"$n grabs a pillow and whaps you upside the head."
+"Something fluffy begins to pummel you as you sleep."
+"You grab a pillow and hit yourself with it."
+"A pillow viciously attacks $n."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"whimper"
+4
+1
+0
+0
+"You whimper quietly."
+"$n whimpers quietly."
+"You whimper quietly at $N."
+"$n whimpers at $N."
+"$n whimpers at you."
+""
+"You whimper quietly to youself."
+"$n whimpers quietly to $mself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"whine"
+4
+0
+0
+0
+"You start to whine pathetically."
+"$n starts to whine pathetically."
+"You whine to $N.  Life is oh so hard isn't it?"
+"$n whines to $N.  "
+"$n whines to you.  Annoying isn't it?"
+""
+"You whine to yourself.  Nobody loves you I guess."
+"$n whines to $mself.  Pathetic isn't it?"
+"You look at $p and whine like crazy."
+"$n looks at $p and whines like crazy."
+"You look $t and begin to whine like a baby."
+"$n looks $t and begins to whine like a baby."
+"Pointing at $p, you whine like crazy to $N."
+"Pointing at $p, $n whines like crazy to you."
+"Pointing to $p, $n whines like crazy at you.  How annoying!"
+""
+"You whine to yourself about $p, since no one else cares."
+"$n whines quietly to $mself about $p."
+""
+
+"wiggle"
+4
+0
+0
+0
+"You wiggle your bottom."
+"$n wiggles $s bottom."
+"You wiggle your bottom toward $N."
+"$n wiggles $s bottom toward $N."
+"$n wiggles $s bottom toward you."
+""
+"You wiggle about like a fish."
+"$n wiggles about like a fish."
+"You wiggle your bottom toward $p."
+"$n wiggles $s bottom toward $p."
+"You wiggle $tward."
+"$n wiggles $tward."
+""
+""
+""
+""
+""
+""
+""
+
+"wince"
+4
+1
+0
+0
+"You wince.  Ouch!"
+"$n winces.  Ouch!"
+"You wince at $N."
+"$n winces at $N."
+"$n winces at you."
+""
+"You wince at yourself.  Ouch!"
+"$n winces at $mself.  Ouch!"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"wink"
+6
+1
+0
+0
+"You wink."
+"$n winks."
+"You wink at $N."
+"$n winks at $N."
+"$n winks at you."
+""
+"You wink at yourself."
+"$n winks at $mself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"worship"
+6
+0
+0
+0
+"You fall to your knees in awe."
+"$n falls to $s knees in awe."
+"You kneel before $N, bending low in holy awe."
+"$n kneels before $N, bending low in holy awe."
+"$n bows low before you in worship."
+""
+"You worship yourself."
+"$n begins to worship $mself."
+"You think $p must be a deity of some sort, you are overwhelmed by its presence."
+"$n looks foolish standing there, a look of awe on $s face as $e holds $p."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"wrinkle"
+4
+0
+0
+0
+"You wrinkle your nose."
+"$n wrinkles $s nose."
+"You wrinkle your nose at $N."
+"$n wrinkles $s nose at $N."
+"$n wrinkles $s nose at you."
+""
+"You wrinkle your nose in disgust."
+"$n wrinkles $s nose in disgust."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"yawn"
+6
+1
+0
+0
+"You must be tired."
+"!$n yawns."
+"You yawn in $N's face.  How rude!"
+"$n yawns in $N's face."
+"$n yawns in your face.  How rude!"
+""
+"You yawn quietly to yourself."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+"yodel"
+6
+0
+1
+1
+"You spontaneously burst into an exuberant yodel."
+"$n spontaneously bursts into an exuberant yodel."
+"You break into a wild yodel in an attempt to get $N's attention."
+"$n breaks into a wild yodel in an attempt to get $N's attention."
+"$n breaks into a wild yodel in an attempt to get your attention."
+"You could swear you hear someone yodelling at you while you sleep."
+"You throw your head back and cut loose with a loud, boisterous yodel."
+"$n throws $s head back and cuts loose with a loud, boisterous yodel."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+
+

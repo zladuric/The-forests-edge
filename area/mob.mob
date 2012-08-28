@@ -1,0 +1,60 @@
+#MOBILES
+
+#133
+""
+""
+"blank mob"
+""
+""
+"is here."
+"blank mobs"
+""
+""
+"are here."
+"No description.
+"
+"Greyclaw"
+"This is the blank mob, used as a prototype for other mobs.  Do not alter it.
+"
+"Severus"
+"attack_weapon( mob, victim, 2d4, \"right hand\" );
+attack_weapon( mob, victim, 2d4, \"left hand\" );
+"
+!
+0 0 30 0 0 0 0 10
+0 0 0 4000 1082745070 0 0 -1
+230176 0
+0 0 0
+4 5
+12 12 12 12 12
+0 0 0 0 0 0 0
+10 "dodge"
+6 "guard"
+6 "parry"
+7 "shield block"
+10 "unarmed"
+10 "dagger"
+10 "sword"
+10 "club"
+10 "staff"
+10 "polearm"
+10 "mace"
+10 "whip"
+10 "axe"
+10 "bow"
+10 "spear"
+-1
+1000 0 ""
+0 1000 ""
+0 1000 ""
+0 1000 ""
+0 1000 ""
+0
+13107850 26214464
+0 1 0 0 0
+M 0 4 0
+-1
+-1
+#0
+
+#$

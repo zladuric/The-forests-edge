@@ -1,0 +1,4555 @@
+#TABLE
+
+379
+
+"#"
+"the channel for talking to those of the same religion"
+"chant"
+0 0
+0
+0
+5
+0
+0
+0
+""
+
+"'"
+"used to say something to all in the room."
+"say"
+0 0
+1
+6
+5
+0
+0
+0
+""
+
+"-"
+"avatar channel"
+"-"
+0 1
+1
+0
+5
+0
+0
+0
+""
+
+":"
+"builder channel"
+":"
+32 0
+1
+0
+5
+0
+0
+0
+""
+
+"="
+"admin channel"
+"="
+0 32
+1
+0
+5
+0
+0
+0
+""
+
+"\\"
+"god channel"
+"god"
+256 0
+1
+0
+5
+0
+0
+0
+""
+
+"]"
+"immortal channel"
+"immtalk"
+2048 0
+1
+0
+5
+0
+0
+0
+""
+
+"abilities"
+"display ability information."
+"abilities"
+0 0
+1
+0
+3
+0
+0
+0
+""
+
+"accounts"
+"show account information for given players."
+"accounts"
+16 0
+3
+0
+0
+0
+0
+0
+""
+
+"acode"
+"display/edit action code"
+"acode"
+4194304 0
+2
+0
+10
+0
+0
+0
+""
+
+"adata"
+"display/edit aciton data"
+"adata"
+4194304 0
+2
+0
+1
+0
+0
+0
+""
+
+"advance"
+"to promote a player to a different level"
+"advance"
+16 0
+3
+0
+17
+0
+0
+0
+""
+
+"aedit"
+"select/display/delete/create action"
+"aedit"
+4194304 0
+2
+0
+10
+0
+0
+0
+""
+
+"affects"
+"display the affects you feel on yourself."
+"affects"
+0 0
+3
+0
+3
+0
+0
+0
+""
+
+"aflag"
+"toggle/display flags on actions."
+"aflag"
+4194304 0
+2
+0
+10
+0
+0
+0
+""
+
+"alias"
+"set/delete/display your aliases."
+"alias"
+0 0
+3
+0
+3
+0
+0
+0
+""
+
+"allegiance"
+"swear allegiance to the target character"
+"allegiance"
+0 0
+3
+8
+12
+0
+0
+0
+""
+
+"appearance"
+"change your character's appearance."
+"appearance"
+0 0
+4
+0
+3
+0
+0
+0
+""
+
+"appraise"
+"give an approx. value of an item."
+"appraise"
+0 0
+2
+6
+16
+0
+0
+1
+""
+
+"approve"
+"approve someone's appearance/keywords/description."
+"approve"
+8 0
+5
+0
+17
+0
+0
+0
+""
+
+"areas"
+"displays a list of areas with existing help files."
+"areas"
+0 0
+3
+0
+13
+0
+0
+0
+""
+
+"aset"
+"set various prarameters for action code"
+"aset"
+4194304 0
+3
+0
+10
+0
+0
+0
+""
+
+"ask"
+"ask someone a question."
+"ask"
+0 0
+2
+6
+5
+0
+0
+0
+""
+
+"assist"
+"assists another player in battle."
+"assist"
+0 0
+3
+7
+12
+0
+0
+1
+""
+
+"astat"
+"display the parameters, code, and data for actions"
+"astat"
+16 0
+3
+0
+10
+0
+0
+0
+""
+
+"at"
+"Execute a command at a given location."
+"at"
+512 0
+2
+0
+0
+0
+0
+0
+""
+
+"atalk"
+"Allows you to turn the auction talk channel on/off."
+"atalk"
+0 0
+3
+0
+5
+0
+0
+0
+""
+
+"auction"
+"to auction off things."
+"auction"
+0 0
+2
+0
+5
+0
+0
+0
+""
+
+"backstab"
+"stabs a foe in the back."
+"backstab"
+0 0
+3
+8
+2
+0
+0
+1
+""
+
+"balance"
+"display money/items in the bank."
+"balance"
+0 0
+2
+6
+11
+0
+0
+0
+""
+
+"bamfin"
+"the line that appears when an immortal uses goto to find you"
+"bamfin"
+512 0
+2
+0
+0
+0
+0
+0
+""
+
+"bamfout"
+"line seen when immortal leaves the room with goto"
+"bamfout"
+512 0
+2
+0
+0
+0
+0
+0
+""
+
+"ban"
+"bans a site from creating new players."
+"ban"
+262144 0
+3
+0
+17
+0
+0
+0
+""
+
+"bandage"
+"keep mortally wounded friend from dying."
+"bandage"
+0 0
+4
+8
+12
+0
+0
+1
+""
+
+"bash"
+"attempt to knock your opponent off their feet."
+"bash"
+0 0
+1
+7
+16
+0
+0
+1
+""
+
+"beep"
+"to cause an immortals computer to beep at them"
+"beep"
+16777216 0
+4
+0
+0
+0
+0
+0
+""
+
+"befriend"
+"allow someone to take or loot your corpse."
+"befriend"
+0 0
+3
+0
+3
+0
+0
+0
+""
+
+"berserk"
+"incite yourself into a furious battle rage."
+"berserk"
+0 0
+3
+7
+2
+0
+0
+1
+""
+
+"bid"
+"used in buying things from the auction channel."
+"bid"
+0 0
+3
+0
+7
+0
+0
+0
+""
+
+"bite"
+"attempt to bite your foe (lizardman/troll only)"
+"bite"
+0 0
+3
+7
+2
+0
+0
+1
+""
+
+"bugs"
+"display compile and other bugs."
+"bugs"
+16 0
+3
+0
+0
+0
+0
+0
+""
+
+"build"
+""
+"build"
+536870912 0
+3
+0
+0
+0
+0
+0
+""
+
+"bury"
+"dispose of the evidence"
+"bury"
+0 0
+2
+8
+6
+0
+1
+1
+""
+
+"butcher"
+"butcher a corpse for food"
+"butcher"
+0 0
+3
+0
+16
+0
+0
+1
+""
+
+"buy"
+"buys items."
+"buy"
+0 0
+2
+8
+7
+0
+0
+0
+""
+
+"calculate"
+"basic arithmetic calculator."
+"calculate"
+0 0
+4
+0
+6
+0
+0
+0
+""
+
+"camouflage"
+"allows a high-level thief or ranger to camouflage themselves."
+"camouflage"
+0 0
+3
+8
+16
+0
+0
+1
+""
+
+"camp"
+"set up a campsite."
+"camp"
+0 0
+4
+8
+16
+0
+1
+1
+""
+
+"cast"
+"cast a spell."
+"cast"
+0 0
+1
+7
+8
+0
+0
+1
+""
+
+"cedit"
+"edit clan titles"
+"cedit"
+0 0
+3
+0
+0
+0
+0
+0
+""
+
+"cflag"
+"toggle/display cflags."
+"cflag"
+16 0
+2
+0
+10
+0
+0
+0
+""
+
+"changes"
+"lists recently-changed objects and mobs"
+"changes"
+16 0
+3
+0
+0
+0
+0
+0
+""
+
+"channel"
+"channels your health to mana."
+""
+64 0
+4
+6
+16
+0
+0
+1
+""
+
+"chant"
+"the channel for talking to those of the same religion."
+"chant"
+0 0
+4
+0
+5
+0
+0
+0
+""
+
+"charge"
+"charges against an enemy."
+"charge"
+0 0
+3
+8
+2
+0
+0
+1
+""
+
+"chat"
+"the general channel for mud-related babbling."
+"chat"
+0 0
+3
+0
+5
+0
+0
+0
+""
+
+"clans"
+""
+"clans"
+0 0
+2
+0
+0
+0
+0
+0
+""
+
+"climb"
+"use climb skill to climb something."
+"climb"
+0 0
+3
+8
+4
+0
+0
+1
+""
+
+"close"
+"closes an object."
+"close"
+0 0
+2
+6
+9
+0
+0
+1
+""
+
+"color"
+"change/display your color settings."
+"color"
+0 0
+3
+0
+3
+0
+0
+0
+""
+
+"commands"
+"display brief overviews of command groups."
+"commands"
+0 0
+2
+0
+13
+0
+0
+0
+""
+
+"compare"
+"roughly compare items."
+"compare"
+0 0
+2
+6
+6
+0
+0
+1
+""
+
+"compile"
+"test-compile oprogs, mprogs, and acodes"
+"compile"
+7 0
+5
+0
+10
+0
+0
+0
+""
+
+"concoct"
+"mix an elixir."
+""
+0 0
+4
+6
+16
+1
+1
+1
+"oprog( 4801, 1 );
+"
+
+"consent"
+"allows other players to cast spells on you."
+"consent"
+0 0
+4
+0
+3
+0
+0
+0
+""
+
+"consider"
+"check how hard a battle might be."
+"consider"
+0 0
+2
+6
+2
+0
+0
+1
+""
+
+"constants"
+"list the values of the various constant types"
+"constants"
+16 0
+5
+0
+10
+0
+0
+0
+""
+
+"cook"
+"cook food (requires a fire)"
+"cook"
+0 0
+3
+6
+6
+0
+0
+0
+""
+
+"cover"
+"cover your group's tracks as you move"
+"cover"
+0 0
+3
+6
+16
+0
+0
+0
+""
+
+"ctell"
+"a channel seen only by members of your clan."
+"ctell"
+0 0
+2
+0
+5
+0
+0
+0
+""
+
+"custom"
+"lists and buys items the shopkeeper can make."
+"custom"
+0 0
+2
+8
+7
+0
+0
+0
+""
+
+"cwhere"
+"locate cflag usage in softcode"
+"cwhere"
+16 0
+3
+0
+0
+0
+0
+0
+""
+
+"deal"
+"deals cards from a deck"
+"deal"
+0 0
+4
+6
+6
+0
+0
+0
+""
+
+"dedit"
+"edit a door"
+"dedit"
+4194304 0
+2
+0
+1
+0
+0
+0
+""
+
+"define"
+""
+"define"
+0 0
+3
+0
+13
+0
+0
+0
+""
+
+"delete"
+"delete your character."
+"delete"
+0 0
+6
+0
+14
+0
+0
+0
+""
+
+"deny"
+"deny player privileges"
+"deny"
+262144 0
+4
+0
+17
+0
+0
+0
+""
+
+"deposit"
+"store money/items in the bank."
+"deposit"
+0 0
+2
+6
+11
+0
+0
+1
+""
+
+"description"
+"set your description."
+"description"
+0 0
+3
+0
+3
+0
+0
+0
+""
+
+"dflag"
+"set flags on a door"
+"dflag"
+4194304 0
+2
+0
+1
+0
+0
+0
+""
+
+"dictionary"
+"manipulate custom dictionary"
+"dictionary"
+0 0
+3
+0
+6
+0
+0
+0
+""
+
+"dig"
+"dig up something that has been buried"
+"dig"
+0 0
+3
+8
+6
+0
+1
+1
+""
+
+"dip"
+"dip an object into a liquid container or fountain."
+"dip"
+0 0
+3
+7
+6
+0
+0
+0
+""
+
+"disarm"
+"attempt to pull your foe's weapon from their grasp."
+"disarm"
+0 0
+4
+7
+2
+0
+1
+1
+""
+
+"disconnect"
+"disconnect a socket"
+"disconnect"
+16777216 0
+4
+0
+17
+0
+0
+0
+""
+
+"disguise"
+"conceal your true appearance."
+"disguise"
+0 0
+4
+8
+16
+0
+0
+1
+""
+
+"dismount"
+"get off whatever you are riding."
+"dismount"
+0 0
+2
+6
+15
+0
+0
+1
+""
+
+"dock"
+"dock gossip points"
+"dock"
+8 0
+4
+0
+17
+0
+0
+0
+""
+
+"down"
+"move or climb down."
+"down"
+0 0
+1
+7
+4
+0
+0
+1
+""
+
+"drink"
+"drinks a liquid."
+"drink"
+0 0
+2
+6
+9
+0
+0
+1
+""
+
+"drop"
+"drops an object."
+"drop"
+0 0
+3
+6
+9
+0
+0
+1
+""
+
+"dset"
+"set values for an exit."
+"dset"
+4194304 0
+1
+0
+1
+0
+0
+0
+""
+
+"dstat"
+"view current values for a given exit."
+"dstat"
+4194304 0
+1
+0
+1
+0
+0
+0
+""
+
+"east"
+"go east."
+"east"
+0 0
+1
+7
+4
+0
+0
+1
+""
+
+"eat"
+"eats food."
+"eat"
+0 0
+3
+6
+9
+0
+0
+1
+""
+
+"echo"
+"display arbitrary text to a room."
+"echo"
+128 0
+4
+0
+0
+0
+0
+0
+""
+
+"edit"
+"display your current edits"
+"edit"
+16 0
+2
+0
+0
+0
+0
+0
+""
+
+"emote"
+"echo text to a room prefixed by your name."
+"emote"
+0 0
+1
+6
+5
+0
+0
+0
+""
+
+"empty"
+"removes the liquid from a container."
+"empty"
+0 0
+1
+6
+9
+0
+0
+1
+""
+
+"energize"
+"transfers energy to someone."
+"energize"
+0 0
+3
+0
+16
+0
+0
+1
+""
+
+"enter"
+"go into some portal."
+"enter"
+0 0
+2
+8
+4
+0
+0
+1
+""
+
+"equipment"
+"shows all the equipment you are wearing/holding."
+"equipment"
+0 0
+1
+6
+3
+0
+0
+0
+""
+
+"exits"
+"shows you the exits out of the current room."
+"exits"
+0 0
+2
+6
+4
+0
+0
+0
+""
+
+"exp"
+"shows a mobs experience calculation table."
+"exp"
+16 0
+3
+0
+0
+0
+0
+0
+""
+
+"extract"
+""
+"extract"
+0 0
+3
+0
+6
+0
+0
+0
+""
+
+"fill"
+"fills a container with a liquid."
+"fill"
+0 0
+2
+6
+9
+0
+0
+0
+""
+
+"filter"
+""
+"filter"
+0 0
+4
+0
+5
+0
+0
+0
+""
+
+"finger"
+"same as whois."
+"whois"
+0 0
+3
+0
+13
+0
+0
+0
+""
+
+"flee"
+"attempt to run from battle."
+"flee"
+0 0
+1
+7
+2
+1
+0
+0
+""
+
+"focus"
+"concentrate solely in fighting your opponent."
+"focus"
+64 0
+3
+7
+2
+1
+0
+1
+""
+
+"follow"
+"begin/stop following a player."
+"follow"
+0 0
+1
+6
+12
+0
+0
+0
+""
+
+"forage"
+"search the area for food."
+"forage"
+0 0
+3
+8
+16
+0
+0
+1
+""
+
+"force"
+"cause player(s) to do something."
+"force"
+16 0
+5
+0
+0
+0
+0
+0
+""
+
+"freeze"
+"render a player immobile/silent."
+"freeze"
+16 0
+6
+0
+17
+0
+0
+0
+""
+
+"functions"
+"display list of functions for use in code"
+"functions"
+16 0
+4
+0
+10
+0
+0
+0
+""
+
+"fwhere"
+"locate function calls in softcode"
+"fwhere"
+16 0
+3
+0
+0
+0
+0
+0
+""
+
+"garrote"
+"allows a thief to strangle their opponent."
+"garrote"
+0 0
+3
+8
+16
+0
+0
+1
+""
+
+"get"
+"gets an item."
+"get"
+0 0
+2
+6
+9
+0
+0
+1
+""
+
+"give"
+"gives an item to someone else."
+"give"
+0 0
+1
+6
+9
+0
+0
+1
+""
+
+"glance"
+"display the health of someone."
+"glance"
+0 0
+2
+6
+9
+0
+0
+0
+""
+
+"god"
+"speak on the god channel (MAX_LEVEL)."
+"god"
+256 0
+3
+0
+5
+0
+0
+0
+""
+
+"godlock"
+""
+"godlock"
+256 0
+4
+0
+17
+0
+0
+0
+""
+
+"gossip"
+"the general global communication channel."
+"gossip"
+0 0
+3
+0
+5
+0
+0
+0
+""
+
+"goto"
+"move directly to a player, mob, object, or room."
+"goto"
+512 0
+1
+0
+4
+0
+0
+0
+""
+
+"group"
+"display/add/drop members of your group."
+"group"
+0 0
+1
+0
+12
+0
+0
+0
+""
+
+"gtell"
+"tells the members of your group a message."
+"gtell"
+0 0
+1
+0
+12
+0
+0
+0
+""
+
+"hands"
+"lay hands on someone."
+"hands"
+0 0
+1
+8
+16
+0
+0
+1
+""
+
+"hbug"
+"add immortal-only notes to help files"
+"hbug"
+1024 0
+2
+0
+0
+0
+0
+0
+""
+
+"hdesc"
+"set description for help files"
+"hdesc"
+1024 0
+1
+0
+1
+0
+0
+0
+""
+
+"hedit"
+"list/select subject to edit"
+"hedit"
+1024 0
+1
+0
+1
+0
+0
+0
+""
+
+"help"
+"display help on various things."
+"help"
+0 0
+1
+0
+9
+0
+0
+0
+""
+
+"hfind"
+"find matching help files"
+"hfind"
+16 0
+2
+0
+0
+0
+0
+0
+""
+
+"hide"
+"make yourself difficult to find."
+"hide"
+0 0
+1
+8
+16
+0
+0
+0
+""
+
+"high"
+"list the top 20 players."
+"high"
+0 0
+3
+0
+13
+0
+0
+0
+""
+
+"hold"
+"allows you to hold a specific item."
+"hold"
+0 0
+1
+6
+9
+0
+0
+1
+""
+
+"holylight"
+"permanent light source for immortals."
+"holylight"
+16 0
+1
+0
+0
+0
+0
+0
+""
+
+"homepage"
+"sets your homepage field on whois"
+"homepage"
+0 0
+5
+0
+3
+0
+0
+0
+""
+
+"hset"
+"set level and name of help file"
+"hset"
+1024 0
+1
+0
+1
+0
+0
+0
+""
+
+"hstat"
+"shows help file status"
+"hstat"
+16 0
+3
+0
+0
+0
+0
+0
+""
+
+"identify"
+"identify an object like with the spell."
+"identify"
+16 0
+4
+0
+0
+0
+0
+0
+""
+
+"identity"
+"display information about yourself."
+"identity"
+0 0
+2
+0
+3
+0
+0
+0
+""
+
+"iflag"
+"set what types of information you see."
+"iflag"
+0 0
+2
+0
+13
+0
+0
+0
+""
+
+"ignite"
+"set something on fire."
+"ignite"
+0 0
+3
+6
+6
+0
+0
+0
+""
+
+"immtalk"
+"communicate via immortal channel (LEVEL_IMMORTAL)."
+"immtalk"
+2048 0
+2
+0
+5
+0
+0
+0
+""
+
+"imprison"
+"imprison a player for their evil deeds"
+"imprison"
+262144 0
+8
+0
+17
+0
+0
+0
+""
+
+"index"
+"display a list of all help files."
+"index"
+0 0
+3
+0
+13
+0
+0
+0
+""
+
+"info"
+"toggle the info channel on/off."
+"info"
+0 0
+3
+0
+5
+0
+0
+0
+""
+
+"inscribe"
+"writes a spell on a scroll"
+""
+67108864 0
+4
+6
+16
+1
+0
+1
+"oprog( 4823, 1 );
+"
+
+"inspect"
+"checks to see if a container is trapped."
+"inspect"
+0 0
+3
+6
+16
+0
+0
+1
+""
+
+"introduce"
+"let another person know your name."
+"introduce"
+0 0
+3
+6
+9
+0
+0
+1
+""
+
+"inventory"
+"lists all the items you are carrying."
+"inventory"
+0 0
+1
+6
+13
+0
+0
+0
+""
+
+"invis"
+"make yourself invisible to all those of lower level"
+"invis"
+16 0
+1
+0
+0
+0
+0
+0
+""
+
+"journal"
+"keep personal notes"
+"journal"
+0 0
+2
+0
+6
+0
+0
+0
+""
+
+"junk"
+"gets rid of an unwanted item."
+"junk"
+0 0
+4
+6
+6
+0
+0
+1
+""
+
+"keywords"
+"set what people may call you by."
+"keywords"
+0 0
+4
+0
+3
+0
+0
+0
+""
+
+"kick"
+"attempt to kick your foe."
+"kick"
+0 0
+2
+7
+2
+0
+0
+1
+""
+
+"kill"
+"attack someone."
+"kill"
+0 0
+1
+7
+2
+0
+0
+1
+""
+
+"knock"
+"Knock on a door.  Who's there?"
+"knock"
+0 0
+3
+7
+6
+0
+0
+1
+""
+
+"label"
+"label a container with given text (see help label)"
+"label"
+0 0
+3
+6
+6
+0
+0
+0
+""
+
+"lag"
+"display the amount of lag commands make."
+"lag"
+16 0
+2
+0
+13
+0
+0
+0
+""
+
+"language"
+"allows you to change the language you speak in."
+"language"
+0 0
+2
+0
+5
+0
+0
+0
+""
+
+"last"
+"show when people were last on."
+"last"
+0 0
+2
+0
+13
+0
+0
+0
+""
+
+"ledit"
+"Select a list to edit."
+"ledit"
+16 0
+3
+0
+0
+0
+0
+0
+""
+
+"leech"
+"displays spells that are leeching off of you."
+"leech"
+0 0
+3
+0
+8
+0
+0
+0
+""
+
+"level"
+"display xp and quest points needed for next level"
+"level"
+0 0
+2
+0
+13
+0
+0
+0
+""
+
+"lie"
+"lie down and sleep"
+"sleep"
+0 0
+3
+0
+9
+0
+0
+1
+""
+
+"list"
+"lists"
+"list"
+0 0
+2
+8
+7
+0
+0
+0
+""
+
+"lock"
+"locks a door."
+"lock"
+0 0
+3
+6
+9
+0
+0
+1
+""
+
+"look"
+"look at the room you are in or many other things."
+"look"
+0 0
+1
+6
+9
+0
+0
+0
+""
+
+"lost"
+"look in a player's lost+found file"
+"lost"
+262144 0
+3
+0
+0
+0
+0
+0
+""
+
+"lset"
+"sets the value of a list entry"
+"lset"
+4096 0
+3
+0
+0
+0
+0
+0
+""
+
+"lstat"
+"Show contents of list."
+"lstat"
+16 0
+3
+0
+0
+0
+0
+0
+""
+
+"mail"
+"use the mail system. (Read help mail.)"
+"mail"
+0 0
+3
+0
+5
+0
+0
+0
+""
+
+"map"
+"display a map of the surrounding area"
+"map"
+0 0
+3
+0
+6
+0
+0
+0
+""
+
+"marmor"
+"set armor values for mobs"
+"marmor"
+32768 0
+3
+0
+1
+0
+0
+0
+""
+
+"mbug"
+"attach comments to mob species"
+"mbug"
+32768 0
+2
+0
+1
+0
+0
+0
+""
+
+"mdesc"
+"set description for mob( like rdesc )"
+"mdesc"
+32768 0
+2
+0
+1
+0
+0
+0
+""
+
+"medit"
+"select mob to edit"
+"medit"
+294912 0
+2
+0
+1
+0
+0
+0
+""
+
+"meditate"
+"move to position where you regenerate faster"
+"meditate"
+0 0
+1
+6
+16
+0
+0
+1
+""
+
+"melee"
+"allows a fighter to attack several foes simultaneously."
+"melee"
+0 0
+3
+7
+16
+0
+0
+1
+""
+
+"melt"
+"melt down an item into rings for new armor"
+"melt"
+0 0
+4
+7
+7
+0
+0
+0
+""
+
+"memory"
+"display memory usage tables."
+"memory"
+16 0
+3
+0
+13
+0
+0
+0
+""
+
+"message"
+"displays/toggles the messages you will receive."
+"message"
+0 0
+0
+0
+3
+0
+0
+0
+""
+
+"mextra"
+"help create/change name of mob extras"
+"mextra"
+32768 0
+3
+0
+1
+0
+0
+0
+""
+
+"mfind"
+"find a mobs vnum"
+"mfind"
+32768 0
+2
+0
+0
+0
+0
+0
+""
+
+"mflag"
+"set the flags on mob"
+"mflag"
+32768 0
+2
+0
+1
+0
+0
+0
+""
+
+"mload"
+"load mob with certain vnum"
+"mload"
+32768 0
+2
+0
+1
+0
+0
+0
+""
+
+"mlog"
+"displays a mob's log of changes."
+"mlog"
+32769 0
+4
+0
+0
+0
+0
+0
+""
+
+"motd"
+"repeats the message of the day motd."
+"motd"
+0 0
+3
+0
+13
+0
+0
+0
+""
+
+"mount"
+"get onto a rideable mob."
+"mount"
+0 0
+2
+8
+15
+0
+0
+1
+""
+
+"move"
+"attempt to move something."
+"move"
+0 0
+3
+8
+9
+0
+0
+1
+""
+
+"movement"
+"set the verbs seen when you move."
+"movement"
+0 0
+5
+0
+4
+0
+0
+0
+""
+
+"mpcode"
+"display/edit mprog code"
+"mpcode"
+32784 0
+1
+0
+10
+0
+0
+0
+""
+
+"mpdata"
+"display/edit mprog data"
+"mpdata"
+32768 0
+1
+0
+10
+0
+0
+0
+""
+
+"mpedit"
+"create/edit/delete a mprog"
+"mpedit"
+32768 0
+1
+0
+10
+0
+0
+0
+""
+
+"mpflag"
+""
+"mpflag"
+32768 0
+0
+0
+0
+0
+0
+0
+""
+
+"mpset"
+"set parameters for the current mprog"
+"mpset"
+16 0
+3
+0
+10
+0
+0
+0
+""
+
+"mpstat"
+"display all info about the current mprog"
+"mpstat"
+32768 0
+4
+0
+10
+0
+0
+0
+""
+
+"mreset"
+"sets resets for objects *on* mob(like reset)"
+"mreset"
+32768 0
+2
+0
+1
+0
+0
+0
+""
+
+"mset"
+"sets different values for the mobs statistics"
+"mset"
+32769 0
+2
+0
+1
+0
+0
+0
+""
+
+"mskill"
+"set mob skill levels"
+"mskill"
+32768 0
+3
+0
+1
+0
+0
+0
+""
+
+"mstat"
+"display the mobs statistics"
+"mstat"
+32785 0
+2
+0
+1
+0
+0
+0
+""
+
+"mwhere"
+"display where all mobs of certain type are at this time"
+"mwhere"
+16 0
+2
+0
+0
+0
+0
+0
+""
+
+"name"
+"gives a selected name to your pet or familiar."
+"name"
+0 0
+4
+0
+15
+0
+0
+0
+""
+
+"newbie"
+"newbie communication channel"
+"newbie"
+0 0
+2
+0
+5
+0
+0
+0
+""
+
+"north"
+"go north."
+"north"
+0 0
+1
+7
+4
+0
+0
+1
+""
+
+"notes"
+"use the noteboard system. (See help note.)"
+"notes"
+0 0
+1
+0
+5
+0
+0
+0
+""
+
+"obug"
+"attach comments to object classes"
+"obug"
+131072 0
+2
+0
+1
+0
+0
+0
+""
+
+"odesc"
+"sets description for current extra."
+"odesc"
+131072 0
+2
+0
+1
+0
+0
+0
+""
+
+"oedit"
+"select object to edit"
+"oedit"
+131072 0
+2
+0
+1
+0
+0
+0
+""
+
+"oextra"
+"create/change name of object extras"
+"oextra"
+131072 0
+3
+0
+1
+0
+0
+0
+""
+
+"ofind"
+"find the vnum of an object"
+"ofind"
+131072 0
+2
+0
+0
+0
+0
+0
+""
+
+"oflag"
+"set the flags on an object"
+"oflag"
+131072 0
+2
+0
+1
+0
+0
+0
+""
+
+"oiflag"
+"Manipulate flags on a single object instance."
+"oiflag"
+0 32
+3
+0
+0
+0
+0
+0
+""
+
+"oiset"
+"Change statistics on a single object instance."
+"oiset"
+0 32
+4
+0
+0
+0
+0
+0
+""
+
+"oistat"
+"Show statistics on a single object instance."
+"oistat"
+131072 0
+4
+0
+0
+0
+0
+0
+""
+
+"oload"
+"load a certain object"
+"oload"
+8192 0
+2
+0
+0
+0
+0
+0
+""
+
+"olog"
+"displays the log of changes to an object."
+"olog"
+2 0
+2
+0
+0
+0
+0
+0
+""
+
+"ooc"
+"uses the out of character (ooc) channel."
+"ooc"
+0 0
+2
+0
+5
+0
+0
+0
+""
+
+"opcode"
+"display/edit oprog code"
+"opcode"
+131072 0
+3
+0
+10
+0
+0
+0
+""
+
+"opdata"
+"display/edit oprog data"
+"opdata"
+131072 0
+3
+0
+10
+0
+0
+0
+""
+
+"opedit"
+"select/create/delete oprog"
+"opedit"
+16 0
+4
+0
+10
+0
+0
+0
+""
+
+"open"
+"opens something which was closed."
+"open"
+0 0
+2
+6
+9
+0
+0
+1
+""
+
+"opflag"
+"set oprog flags."
+"opflag"
+16 0
+3
+0
+10
+0
+0
+0
+""
+
+"opset"
+"set the parameters for an oprog"
+"opset"
+16 0
+3
+0
+10
+0
+0
+0
+""
+
+"opstat"
+"display everything about a certain oprog"
+"opstat"
+131072 0
+4
+0
+10
+0
+0
+0
+""
+
+"options"
+"set your options."
+"options"
+0 0
+3
+0
+3
+0
+0
+0
+""
+
+"order"
+"make a pet/familiar/tamed mob do something."
+"order"
+0 0
+1
+6
+15
+0
+0
+0
+""
+
+"oset"
+"set the stats on an object"
+"oset"
+131072 0
+2
+0
+1
+0
+0
+0
+""
+
+"ostat"
+"display an objects stats"
+"ostat"
+131088 0
+2
+0
+1
+0
+0
+0
+""
+
+"owhere"
+"find out where an object is right now"
+"owhere"
+16 0
+2
+0
+0
+0
+0
+0
+""
+
+"pardon"
+"pardon a player from all wrong doings"
+"pardon"
+8 0
+3
+0
+17
+0
+0
+0
+""
+
+"password"
+"change your password."
+"password"
+0 0
+3
+0
+14
+0
+0
+0
+""
+
+"path"
+"force a mob to follow a path."
+"path"
+1 0
+4
+6
+0
+0
+0
+0
+""
+
+"pbug"
+""
+"pbug"
+16 0
+2
+0
+0
+0
+0
+0
+""
+
+"peace"
+"causes all combat in the room to cease"
+"peace"
+16 0
+3
+0
+0
+1
+0
+0
+""
+
+"peek"
+"allows you to peek into someone's inventory."
+"peek"
+0 0
+3
+6
+16
+0
+0
+1
+""
+
+"perform"
+"perform a bard song"
+"perform"
+0 0
+3
+8
+16
+1
+1
+1
+""
+
+"pets"
+"display/disband your pets."
+"pets"
+0 0
+3
+0
+15
+0
+0
+0
+""
+
+"pfind"
+"search for players matching specified criteria"
+"pfind"
+262144 0
+2
+0
+0
+0
+0
+0
+""
+
+"pick"
+"picks fruit etc. from trees/bushes."
+"pick"
+0 0
+2
+8
+9
+0
+0
+0
+""
+
+"play"
+"play a musical instrument"
+"play"
+0 0
+2
+6
+6
+0
+1
+1
+""
+
+"polymorph"
+""
+"polymorph"
+536870912 0
+10
+0
+0
+0
+0
+0
+""
+
+"practice"
+"to practice abilities at trainers."
+"practice"
+0 0
+4
+8
+9
+0
+0
+0
+""
+
+"pray"
+"ask your diety for assistance."
+"pray"
+0 0
+1
+0
+9
+1
+0
+0
+""
+
+"prepare"
+"get certain spells ready before casting."
+"prepare"
+0 0
+3
+4
+8
+0
+0
+1
+""
+
+"privileges"
+"eliminate certain imm privileges for testing"
+"privileges"
+16 0
+0
+0
+0
+0
+0
+0
+""
+
+"prompt"
+"used to change your prompt."
+"prompt"
+0 0
+3
+0
+3
+0
+0
+0
+""
+
+"ps"
+"list programs currently in wait() calls."
+"ps"
+16 0
+2
+0
+0
+0
+0
+0
+""
+
+"pull"
+"attempt to pull something."
+"pull"
+0 0
+3
+8
+9
+0
+0
+1
+""
+
+"punch"
+"attempt to use your fist to hit someone."
+"punch"
+0 0
+2
+7
+2
+0
+0
+1
+""
+
+"purchase"
+""
+"purchase"
+0 8
+0
+0
+0
+0
+0
+0
+""
+
+"purge"
+"causes all objects and mobs in the room to be erased"
+"purge"
+16 0
+3
+0
+0
+0
+0
+0
+""
+
+"push"
+"attempt to push something."
+"push"
+0 0
+3
+8
+9
+0
+0
+1
+""
+
+"put"
+"puts something on/in where you state."
+"put"
+0 0
+3
+6
+9
+0
+0
+1
+""
+
+"qbug"
+"add comments to a quest"
+"qbug"
+524288 0
+2
+0
+1
+0
+0
+0
+""
+
+"qedit"
+"add, edit, display the list of quests"
+"qedit"
+524288 0
+2
+0
+1
+0
+0
+0
+""
+
+"qflag"
+"display or modify quest flags"
+"qflag"
+524288 0
+2
+0
+0
+0
+0
+0
+""
+
+"qlook"
+"look only at someone's description."
+"qlook"
+0 0
+2
+6
+9
+0
+0
+0
+""
+
+"qremove"
+"removes any quest flags from yourself"
+"qremove"
+524304 0
+2
+0
+0
+0
+0
+0
+""
+
+"qset"
+"display or change the settings of one quest"
+"qset"
+524288 0
+2
+0
+1
+0
+0
+0
+""
+
+"qstat"
+"display quest settings"
+"qstat"
+16 0
+0
+0
+0
+0
+0
+0
+""
+
+"quaff"
+"allows you to drink a potion."
+"quaff"
+0 0
+1
+6
+9
+0
+0
+1
+""
+
+"quests"
+"display the quests you are on."
+"quests"
+0 0
+1
+0
+3
+0
+0
+0
+""
+
+"queue"
+"put a command into the queue"
+"queue"
+0 0
+3
+0
+6
+0
+0
+1
+""
+
+"quit"
+"leave the game."
+"quit"
+0 0
+4
+0
+14
+0
+0
+0
+""
+
+"qwhere"
+"display where components of quests are."
+"qwhere"
+524288 0
+4
+0
+0
+0
+0
+0
+""
+
+"qwho"
+"shows an abbreviated who list"
+"qwho"
+0 0
+1
+0
+13
+0
+0
+0
+""
+
+"rbug"
+"leave comments for other immortals to read"
+"rbug"
+16 0
+2
+0
+0
+0
+0
+0
+""
+
+"rdesc"
+"edit the description of a room"
+"rdesc"
+4194304 0
+2
+0
+1
+0
+0
+0
+""
+
+"read"
+"attempt to read something."
+"read"
+8 0
+3
+0
+9
+0
+0
+0
+""
+
+"reboot"
+""
+"reboot"
+8388608 0
+6
+0
+0
+0
+0
+0
+""
+
+"recho"
+"causes a message to be displayed in the room"
+"recho"
+128 0
+4
+0
+0
+0
+0
+0
+""
+
+"recite"
+"invoke a scroll."
+"recite"
+0 0
+3
+7
+8
+0
+0
+1
+""
+
+"recognize"
+"manipulate player recognize data"
+"recognize"
+262144 0
+4
+0
+0
+0
+0
+0
+""
+
+"redit"
+"create extras/delete rooms"
+"redit"
+4194304 0
+3
+0
+1
+0
+0
+0
+""
+
+"reimburse"
+"to give a player back their equipment when lost in a crash"
+"reimburse"
+540016640 0
+5
+0
+17
+0
+0
+0
+""
+
+"relations"
+"display the relations between clans"
+"relations"
+0 0
+3
+0
+13
+0
+0
+0
+""
+
+"religion"
+"lists the followers of a diety"
+"religion"
+0 0
+4
+0
+13
+0
+0
+0
+""
+
+"remove"
+"removes a piece of equipment or armor from your body."
+"remove"
+0 0
+3
+6
+9
+0
+0
+1
+""
+
+"rename"
+"change a players name"
+"rename"
+24 0
+5
+0
+17
+0
+0
+0
+""
+
+"repair"
+"have a damaged item repaired."
+"repair"
+0 0
+3
+8
+7
+0
+0
+0
+""
+
+"reply"
+"respond to last person to tell to you."
+"reply"
+0 0
+4
+0
+5
+0
+0
+0
+""
+
+"reputation"
+"show your reputation with the clans."
+"reputation"
+0 0
+3
+0
+3
+0
+0
+0
+""
+
+"request"
+""
+"request"
+0 0
+3
+0
+0
+0
+0
+0
+""
+
+"rescue"
+"jump in front of someone to take their foe's blows."
+"rescue"
+0 0
+4
+7
+2
+0
+0
+1
+""
+
+"reset"
+"set the resets for mobs and objects"
+"reset"
+4194304 0
+5
+0
+1
+0
+0
+0
+""
+
+"rest"
+"relax. helps regenerate lost stats more quickly."
+"rest"
+0 0
+1
+0
+9
+0
+0
+1
+""
+
+"restore"
+"provides target with full mana, hp, and movement"
+"restore"
+8192 0
+1
+0
+0
+0
+0
+0
+""
+
+"return"
+"return to your original body."
+"return"
+0 0
+1
+0
+15
+0
+0
+0
+""
+
+"review"
+""
+"review"
+33554432 0
+0
+0
+0
+0
+0
+0
+""
+
+"rfind"
+"search for matching rooms"
+"rfind"
+4194304 0
+3
+0
+0
+0
+0
+0
+""
+
+"rflag"
+"displays flags in current room, and used to change flags"
+"rflag"
+4194304 0
+1
+0
+1
+0
+0
+0
+""
+
+"rlog"
+""
+"rlog"
+16 0
+4
+0
+0
+0
+0
+0
+""
+
+"rmwhere"
+"display where all mobs of certain type reset"
+"rmwhere"
+32768 0
+2
+0
+0
+0
+0
+0
+""
+
+"roomlist"
+""
+"roomlist"
+4194320 0
+3
+0
+0
+0
+0
+0
+""
+
+"rowhere"
+"shows all rooms where an object resets"
+"rowhere"
+131072 0
+1
+0
+0
+0
+0
+0
+""
+
+"rset"
+"change the terrain, creator(of area), size of a room"
+"rset"
+4194304 0
+1
+0
+1
+0
+0
+0
+""
+
+"rstat"
+"give the statistics of a certain room"
+"rstat"
+4194320 0
+2
+0
+1
+0
+0
+0
+""
+
+"rtable"
+"list or modify reset tables"
+"rtable"
+16 0
+4
+0
+1
+0
+0
+0
+""
+
+"rtwhere"
+"Find resets using specified rtable."
+"rtwhere"
+16 0
+3
+0
+0
+0
+0
+0
+""
+
+"sacrifice"
+"performs a sacrifice to the gods."
+"sacrifice"
+0 0
+3
+8
+6
+0
+0
+1
+""
+
+"save"
+"save your player."
+"save"
+0 0
+3
+0
+14
+0
+0
+0
+""
+
+"say"
+"shows people in the same room your message."
+"say"
+0 0
+2
+0
+5
+0
+0
+0
+""
+
+"scan"
+"looks for mobs and players in adjacent rooms."
+"scan"
+0 0
+3
+8
+4
+0
+0
+1
+""
+
+"score"
+"display a bunch of information about yourself."
+"score"
+0 0
+2
+0
+3
+0
+0
+0
+""
+
+"search"
+"to actively search for traps/secret doors."
+"search"
+0 0
+2
+8
+16
+0
+0
+1
+""
+
+"sell"
+"sells an item from your inventory."
+"sell"
+0 0
+3
+8
+7
+0
+0
+1
+""
+
+"shcustom"
+"edit the custom items a shop makes"
+"shcustom"
+4194308 0
+2
+0
+1
+0
+0
+0
+""
+
+"shedit"
+"for creating and editing shopkeepers"
+"shedit"
+4 0
+2
+0
+1
+0
+0
+0
+""
+
+"shflag"
+"displays/toggles the flag settings for shops."
+"shflag"
+4 0
+2
+0
+1
+0
+0
+0
+""
+
+"shoot"
+"shoot a ranged weapon. (Not Implemented yet)"
+"shoot"
+16 0
+4
+0
+0
+0
+1
+1
+""
+
+"shout"
+"broadcast message to all players."
+"shout"
+0 0
+5
+0
+5
+0
+0
+0
+""
+
+"shutdown"
+""
+"shutdown"
+8388608 0
+8
+0
+17
+0
+0
+0
+""
+
+"sit"
+"same as rest."
+"sit"
+0 0
+3
+0
+9
+0
+0
+1
+""
+
+"skill"
+"find information on a skill"
+"skill"
+0 0
+4
+0
+16
+0
+0
+0
+""
+
+"skin"
+"attempt to salvage usable parts from a corpse."
+"skin"
+0 0
+3
+8
+9
+0
+0
+1
+""
+
+"slay"
+"renders a player dead"
+"slay"
+16 0
+4
+0
+0
+0
+0
+0
+""
+
+"sleep"
+"for even faster regeneration than rest."
+"sleep"
+0 0
+2
+0
+9
+0
+0
+1
+""
+
+"smoke"
+"used to smoke a pipe or cigar."
+"smoke"
+0 0
+3
+8
+6
+0
+0
+0
+""
+
+"sneak"
+"attempt to move stealthily."
+"sneak"
+0 0
+2
+7
+16
+0
+0
+0
+""
+
+"snoop"
+""
+"snoop"
+33554432 0
+2
+0
+0
+0
+0
+0
+""
+
+"socials"
+"list all the socials."
+"socials"
+0 0
+2
+0
+6
+0
+0
+0
+""
+
+"source"
+""
+"source"
+-1610612736 0
+5
+0
+0
+0
+0
+0
+""
+
+"south"
+"go south."
+"south"
+0 0
+1
+7
+4
+0
+0
+1
+""
+
+"speed"
+"speed-walking"
+"speed"
+0 0
+4
+8
+4
+0
+0
+1
+""
+
+"spell"
+"find information on a spell"
+"spell"
+0 0
+1
+0
+8
+0
+0
+0
+""
+
+"spin"
+"spin kicks someone."
+"spin"
+0 0
+2
+7
+16
+0
+0
+1
+""
+
+"split"
+"share money among your group."
+"split"
+0 0
+0
+6
+6
+0
+0
+1
+""
+
+"sset"
+"change player's skill level."
+"sset"
+16 0
+1
+0
+0
+0
+0
+0
+""
+
+"stand"
+"used for standing if resting."
+"stand"
+0 0
+2
+0
+9
+0
+0
+1
+""
+
+"statistics"
+"shows the statistics of your character."
+"statistics"
+0 0
+3
+0
+0
+0
+0
+0
+""
+
+"status"
+"Display status of mud internals."
+"status"
+0 32
+6
+0
+0
+0
+0
+0
+""
+
+"steal"
+"steals things from mobs/players."
+"steal"
+0 0
+5
+8
+16
+0
+0
+1
+""
+
+"switch"
+"change into the body of your familiar."
+"switch"
+0 0
+1
+0
+15
+0
+0
+0
+""
+
+"system"
+"lists system resources and mud status."
+"system"
+16 0
+1
+0
+13
+0
+0
+0
+""
+
+"take"
+"allows you to take one or all of an item."
+"get"
+0 0
+2
+6
+9
+0
+0
+1
+""
+
+"tcode"
+"edit table code"
+"tcode"
+67125312 0
+2
+0
+0
+0
+0
+0
+""
+
+"tdata"
+"edit table code extras"
+"tdata"
+67125312 0
+2
+0
+0
+0
+0
+0
+""
+
+"tedit"
+"table editor"
+"tedit"
+134234112 0
+3
+0
+0
+0
+0
+0
+""
+
+"tell"
+"communicate \"out of character\" with another player"
+"tell"
+0 0
+1
+0
+5
+0
+0
+0
+""
+
+"testing"
+""
+"testing"
+256 0
+0
+0
+0
+0
+0
+0
+""
+
+"tfind"
+"find trainers/trainers who teach certain skills/spells"
+"tfind"
+16 0
+2
+0
+0
+0
+0
+0
+""
+
+"throw"
+"throws an object."
+"throw"
+0 0
+3
+7
+6
+0
+0
+1
+""
+
+"time"
+"display the mud time."
+"time"
+0 0
+1
+0
+13
+0
+0
+0
+""
+
+"title"
+"change your title."
+"title"
+0 0
+1
+0
+3
+0
+0
+0
+""
+
+"to"
+"communicate with non-player characters"
+"to"
+0 0
+2
+0
+5
+0
+0
+0
+""
+
+"track"
+"search for tracks left on the ground."
+"track"
+0 0
+1
+8
+16
+0
+0
+0
+""
+
+"train"
+"set a mob to be a trainer and teach them skills to teach"
+"train"
+1 0
+3
+0
+1
+0
+0
+0
+""
+
+"transfer"
+"move a mob/player to another room"
+"transfer"
+805306368 0
+1
+6
+0
+0
+0
+0
+""
+
+"trust"
+"set player's trust level"
+"trust"
+2048 0
+1
+0
+17
+0
+0
+0
+""
+
+"tset"
+"set a table field"
+"tset"
+134234112 0
+3
+0
+1
+0
+0
+0
+""
+
+"tstat"
+"shows the current values of the table"
+"tstat"
+134234112 0
+3
+0
+1
+0
+0
+0
+""
+
+"typo"
+"records a typo found in a specific room."
+"typo"
+0 0
+0
+0
+6
+0
+0
+0
+""
+
+"unlock"
+"unlocks a locked door."
+"unlock"
+0 0
+2
+6
+9
+0
+0
+1
+""
+
+"untrap"
+"try to remove a trap."
+"untrap"
+0 0
+2
+8
+16
+0
+0
+1
+""
+
+"up"
+"move or climb up."
+"up"
+0 0
+1
+7
+4
+0
+0
+1
+""
+
+"users"
+"display users, levels, trust, sites, and where they are"
+"users"
+536872960 0
+2
+0
+0
+0
+0
+0
+""
+
+"value"
+"asks the shopkeeper what he will pay for an item."
+"value"
+0 0
+1
+8
+7
+0
+0
+0
+""
+
+"vote"
+"participate in voting."
+"vote"
+0 0
+0
+0
+6
+0
+0
+0
+""
+
+"wait"
+"wait for the specified number of seconds"
+"wait"
+0 0
+4
+0
+6
+0
+0
+1
+""
+
+"wake"
+"used for waking up when sleeping."
+"wake"
+0 0
+2
+0
+9
+0
+0
+1
+""
+
+"wanted"
+"displays a listed of people wanted by that clan."
+"wanted"
+16 0
+2
+0
+13
+0
+0
+0
+""
+
+"wear"
+"allows you to wear one or more items of clothing."
+"wear"
+0 0
+2
+6
+9
+0
+0
+1
+""
+
+"weather"
+""
+"weather"
+64 0
+4
+0
+0
+0
+0
+0
+""
+
+"west"
+"go west."
+"west"
+0 0
+1
+7
+4
+0
+0
+1
+""
+
+"where"
+"list players in the area."
+"where"
+16 0
+3
+0
+0
+0
+0
+0
+""
+
+"whisper"
+"allows you to whisper to someone in the same room as you."
+"whisper"
+0 0
+3
+0
+5
+0
+0
+0
+""
+
+"whistle"
+"whistle for your pets or familiar to come to you."
+"whistle"
+0 0
+3
+6
+15
+0
+0
+0
+""
+
+"who"
+"display the people logged in."
+"who"
+0 0
+1
+0
+13
+0
+0
+0
+""
+
+"whois"
+"display more information about specific players."
+"whois"
+0 0
+2
+0
+13
+0
+0
+0
+""
+
+"wield"
+"allows you to wield a weapon."
+"wield"
+0 0
+1
+6
+9
+0
+0
+1
+""
+
+"wimpy"
+"set so that you try to flee automatically."
+"wimpy"
+0 0
+1
+0
+3
+0
+0
+0
+""
+
+"withdraw"
+"remove money/items from your bank account."
+"withdraw"
+0 0
+1
+6
+11
+0
+0
+0
+""
+
+"wizlock"
+""
+"wizlock"
+0 32
+3
+0
+17
+0
+0
+0
+""
+
+"write"
+"saves various files to disk"
+"write"
+134218768 0
+1
+0
+0
+0
+0
+0
+""
+
+"yell"
+"broadcast message to players in your immediate area."
+"yell"
+0 0
+3
+0
+5
+0
+0
+0
+""
+
+"zap"
+"use a wand."
+"zap"
+0 0
+3
+7
+8
+0
+0
+1
+""
+
+"|"
+"put a command into the queue"
+"queue"
+0 0
+0
+0
+6
+0
+0
+1
+""
+
+

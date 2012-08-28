@@ -1,0 +1,29 @@
+#TABLE
+
+4
+
+"burning"
+"$r catches fire and starts to burn."
+"$r flickers momentarily and is extinguished."
+27
+""
+
+"flaming"
+"$p bursts into flame!"
+"The flames around $p flicker and die."
+9
+""
+
+"poison"
+""
+""
+33
+""
+
+"delay"
+""
+""
+-1
+""
+
+
