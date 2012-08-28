@@ -1,0 +1,112 @@
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title>Help Topic: Editor</title>
+</head>
+<body style="color: ivory; background-color: #305a7a;"
+  link="#33ccff" vlink="#66cccc" alink="#33ccff">
+<table style="width: 100%; text-align: left;" border="0" cellspacing="0"  cellpadding="0">  <tbody>    <tr>      <td style="background-color: rgb(163, 191, 147);"> <img src="../../scary_forest.jpg" title="" alt="" style="width: 224px; height: 150px;" width="224" height="150"><br>      </td>      <td style="background-color: rgb(163, 191, 147); text-align: center; vertical-align: middle;"><big style="color: ivory;"><big><big><big><span style="font-style: italic;">The Forest's Edge</span></big></big></big></big><br>      </td>      <td style="background-color: rgb(163, 191, 147);"><img src="../../path.jpg" title="" alt="" style="width: 200px; height: 150px;" align="right"> </td>    </tr>  </tbody></table><br><br><table cellpadding="0" cellspacing="0" border="0" style="text-align: left; width: 100%;"><tbody>
+    <tr><td><br></td></tr>
+    <tr><td style="vertical-align: top; width: 150px;">
+      <a href="../../index.html">Home</a><br><br>
+      <a href="telnet://tfe.genesismuds.com:2000">Connect</a><br><br>
+      <a href="../../players.html">Player Directory</a><br><br>
+      <a href="../../who.cgi">Who's Online</a><br><br>
+      <a href="../../help/index.html">Help Pages</a><br><br>
+      <a href="../../clans/index.html">Player Clans</a><br><br>
+      <a href="../../resources.html"> Resources</a><br><br>
+      <a href="../../credits.html">Credits</a><br>
+      </td>
+ <td style="vertical-align: top;">      <div align="left"><big><big>Help Topic: Editor</big></big><br>      </div>      <br>
+<hr>
+<pre>
+<span style="font-weight:bold; color:cyan;">SYNTAX</span>
+
+&lt;subj&gt;                          : displays subject being edited
+&lt;subj&gt; &lt;text&gt;                   : append text at bottom of whatever
+                                  you are currently editing
+&lt;subj&gt; &lt;odd #&gt;                  : deletes the specified line number
+&lt;subj&gt; &lt;odd #&gt; &lt;text&gt;           : replaces the specified line with
+                                  new text
+&lt;subj&gt; &lt;odd #&gt;? &lt;word&gt;          : removes all occurences of word on
+                                  the specified line
+&lt;subj&gt; &lt;odd #&gt;? '&lt;phr&gt;'         : same as above, but allows spaces
+&lt;subj&gt; &lt;odd #&gt;? &quot;&lt;phr1&gt;&quot;        : same as above, but allows single quotes
+&lt;subj&gt; &lt;odd #&gt;? &lt;word&gt; &lt;phr&gt;    : replaces all occurences of word with
+                                  phr on the specified line
+&lt;subj&gt; &lt;odd #&gt;? '&lt;phr1&gt;' &lt;phr2&gt; : same as above, but allows spaces
+&lt;subj&gt; &lt;odd #&gt;? &quot;&lt;phr1&gt;&quot; &lt;phr2&gt; : same as above, but allows single quotes
+&lt;subj&gt; &lt;even #&gt;                 : inserts blank line here
+&lt;subj&gt; &lt;even #&gt; &lt;text&gt;          : inserts text between lines here
+&lt;subj&gt; #-#                      : formats lines in the specified range
+&lt;subj&gt; ? &lt;word&gt;                 : searches and removes word
+&lt;subj&gt; ? '&lt;phr&gt;'                : same as above, but allows spaces
+&lt;subj&gt; ? &lt;word&gt; &lt;phr&gt;           : searches and replaces word with phr
+&lt;subj&gt; ? '&lt;phr1&gt;' &lt;phr2&gt;        : searches and replaces phrase1 with
+                                  phrase2 (be careful with search and
+                                  replaces...editor will replace ALL
+                                  cases it finds)
+&lt;subj&gt; undo                     : copies the last edited text into the
+                                  current buffer
+&lt;subj&gt; #-# delete               : deletes all lines in the given range
+&lt;subj&gt; indent                   : applies a C-like format to entire message
+&lt;subj&gt; #-# indent               : applies a C-like format to lines in range
+&lt;subj&gt; #-# cut                  : cuts lines in given range to paste buffer
+&lt;subj&gt; #-# copy                 : copies lines in given range to paste
+                                  buffer
+&lt;subj&gt; #+                       : pastes contents of paste buffer at line
+                                  number
+&lt;subj&gt; spell                    : performs a basic spelling check
+  
+<span style="font-weight:bold; color:cyan;">DESCRIPTION</span>
+
+&lt;subj&gt; is any one of the following: note, mail, desc, or journal.  There are
+some editor functions that only work for a specific subject, so make sure to
+read the help on <span style="text-decoration:underline;">note</span>, <span style="text-decoration:underline;">mail</span>, <span style="text-decoration:underline;">desc</span>, and <span style="text-decoration:underline;">journal</span> before going much further, if
+you haven't already.
+
+It is often simplest to write your message one sentence at a time.  This is so
+that you can insert lines of text between what you have already written (use
+even line numbers for this) and format it afterwards, using &lt;subj&gt; #-#, which
+will make your sentences into organized paragraphs.
+
+If you want to insert a line of text which happens to be the same as one of
+the editor commands (e.g.  &quot;note spell&quot;), use a line number (&quot;note 5 spell&quot;).
+
+<span style="font-weight:bold; color:cyan;">ADVANCED USAGE</span>
+
+Each player has two text buffers--the undo buffer and the paste buffer--which
+can be used to make text editing easier.
+
+The undo buffer holds the last state of the message prior to the last editor
+command, even if it was just &quot;&lt;subj&gt;&quot; to list the message.  In fact &quot;&lt;subj&gt;
+undo&quot; simply copies this buffer into the current message.  This allows copying
+of an entire message from one place to another.  For example, if you have a
+mail message you want to copy into a new note:
+
+  mail edit #
+  mail
+  note new &lt;subject&gt;
+  note undo
+
+The paste buffer is used by the cut, copy, and paste (+) commands.  Cut and
+copy place portions of the current message into the paste buffer.  Paste
+(&quot;&lt;subj&gt; #+&quot;) inserts the contents of the paste buffer at the line number
+indicated.  The paste buffer is not cleared when a new message is selected, so
+it can be used to move or copy sections from one message to another.
+
+<span style="font-weight:bold; color:cyan;">EXAMPLES</span>
+
+&gt; desc 1 This is a test
+
+This adds &quot;This is a test&quot; as the first line of your description.  The line
+number isn't really necessary if you are adding the first line, or appending
+lines to your description.
+
+&gt; journal The mage in Chiiron asked me to bring him a cookie.
+
+This simply appends this information to your journal.
+</pre>
+
+<hr>
+</body>
+</html>

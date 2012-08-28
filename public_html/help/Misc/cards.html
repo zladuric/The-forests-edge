@@ -1,0 +1,73 @@
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title>Help Topic: cards</title>
+</head>
+<body style="color: ivory; background-color: #305a7a;"
+  link="#33ccff" vlink="#66cccc" alink="#33ccff">
+<table style="width: 100%; text-align: left;" border="0" cellspacing="0"  cellpadding="0">  <tbody>    <tr>      <td style="background-color: rgb(163, 191, 147);"> <img src="../../scary_forest.jpg" title="" alt="" style="width: 224px; height: 150px;" width="224" height="150"><br>      </td>      <td style="background-color: rgb(163, 191, 147); text-align: center; vertical-align: middle;"><big style="color: ivory;"><big><big><big><span style="font-style: italic;">The Forest's Edge</span></big></big></big></big><br>      </td>      <td style="background-color: rgb(163, 191, 147);"><img src="../../path.jpg" title="" alt="" style="width: 200px; height: 150px;" align="right"> </td>    </tr>  </tbody></table><br><br><table cellpadding="0" cellspacing="0" border="0" style="text-align: left; width: 100%;"><tbody>
+    <tr><td><br></td></tr>
+    <tr><td style="vertical-align: top; width: 150px;">
+      <a href="../../index.html">Home</a><br><br>
+      <a href="telnet://tfe.genesismuds.com:2000">Connect</a><br><br>
+      <a href="../../players.html">Player Directory</a><br><br>
+      <a href="../../who.cgi">Who's Online</a><br><br>
+      <a href="../../help/index.html">Help Pages</a><br><br>
+      <a href="../../clans/index.html">Player Clans</a><br><br>
+      <a href="../../resources.html"> Resources</a><br><br>
+      <a href="../../credits.html">Credits</a><br>
+      </td>
+ <td style="vertical-align: top;">      <div align="left"><big><big>Help Topic: cards</big></big><br>      </div>      <br>
+<hr>
+<pre>
+<span style="font-weight:bold;">SYNTAX</span>
+
+shuffle &lt;deck&gt;                 : return all cards to the deck
+strip &lt;deck&gt;                   : remove the jokers from the deck
+deal [-a] &lt;number&gt; &lt;player&gt;    : deal cards, see help deal
+get &lt;cards&gt; hand               : remove undesirable cards from your hand
+reveal hand                    : show everyone in the room what you have
+show hand                      : same as reveal
+discard hand                   : slough your hand without anyone seeing it
+fold hand                      : same as discard
+remove hand                    : same as discard
+
+<span style="font-weight:bold;">DESCRIPTION</span>
+
+Decks of playing cards on TFE can be used for games of chance, such as poker
+or blackjack, or other games invented by players.
+
+In order to deal from a deck of cards, hold it in your left hand and use the
+&quot;deal&quot; command.  Each player you deal to will need an empty right hand, to
+receive the cards.
+
+Shuffling the deck places all the cards back into the deck, but doesn't take
+cards away from players.  That would be impossible, since players can wander
+away, or even quit, with cards from your deck during the game.  However, when
+you start a new game and deal to a player still holding cards, you will be
+unable to since you don't use &quot;deal -a&quot; on the first hand...  you can ask them
+to discard their hand or leave the game at that time.
+
+<span style="font-weight:bold; color:red;">IMPORTANT</span>: If you join a card game, make sure you have &quot;message equipment
+3&quot;...  or else the dealer can remove the deck and hold a new one without you
+knowing.
+
+The suits, from highest to lowest, are:
+  Candles
+  Bells
+  Wands
+  Swords
+
+There are four face cards in each suit, from highest (13) to lowest (10):
+  Knight
+  Magus
+  Priest
+  Rogue
+
+The one-card (Ace) is called the Star.
+
+See also: help deal.
+</pre>
+
+<hr>
+</body>
+</html>

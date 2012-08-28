@@ -1,0 +1,56 @@
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title>Help Topic: Wimpy</title>
+</head>
+<body style="color: ivory; background-color: #305a7a;"
+  link="#33ccff" vlink="#66cccc" alink="#33ccff">
+<table style="width: 100%; text-align: left;" border="0" cellspacing="0"  cellpadding="0">  <tbody>    <tr>      <td style="background-color: rgb(163, 191, 147);"> <img src="../../scary_forest.jpg" title="" alt="" style="width: 224px; height: 150px;" width="224" height="150"><br>      </td>      <td style="background-color: rgb(163, 191, 147); text-align: center; vertical-align: middle;"><big style="color: ivory;"><big><big><big><span style="font-style: italic;">The Forest's Edge</span></big></big></big></big><br>      </td>      <td style="background-color: rgb(163, 191, 147);"><img src="../../path.jpg" title="" alt="" style="width: 200px; height: 150px;" align="right"> </td>    </tr>  </tbody></table><br><br><table cellpadding="0" cellspacing="0" border="0" style="text-align: left; width: 100%;"><tbody>
+    <tr><td><br></td></tr>
+    <tr><td style="vertical-align: top; width: 150px;">
+      <a href="../../index.html">Home</a><br><br>
+      <a href="telnet://tfe.genesismuds.com:2000">Connect</a><br><br>
+      <a href="../../players.html">Player Directory</a><br><br>
+      <a href="../../who.cgi">Who's Online</a><br><br>
+      <a href="../../help/index.html">Help Pages</a><br><br>
+      <a href="../../clans/index.html">Player Clans</a><br><br>
+      <a href="../../resources.html"> Resources</a><br><br>
+      <a href="../../credits.html">Credits</a><br>
+      </td>
+ <td style="vertical-align: top;">      <div align="left"><big><big>Help Topic: Wimpy</big></big><br>      </div>      <br>
+<hr>
+<pre>
+<span style="font-weight:bold; color:cyan;"></span><span style="color:blue;">SYNTAX</span>
+
+wimpy : list current wimpy settings
+wimpy &lt;field&gt; &lt;value&gt; : sets your wimpy to kick in at a value
+wimpy &lt;field&gt; 0 : turns off that field
+
+<span style="font-weight:bold; color:cyan;"></span><span style="color:blue;">DESCRIPTION</span>
+
+Wimpy causes you to automatically react when your hit points go below a
+certain level.  The value represents a percentage of your hit points.  To
+determine the exact number of hit points at which your wimpy will take effect,
+multiply your maximum hit points by the percentage, then discard any
+fractional part.
+
+You will attempt to flee automatically, so remember to turn it off at the
+appropriate times or it could get you into more trouble than the good it
+may do.
+
+Note that wimpy is <span style="color:blue;">NOT</span> failsafe, and comes with no ironclad
+guarantees, but it's usually better than nothing.
+
+The available fields are Flee, Blink, Pray and Recall.  When your hit points
+go below the value of a field, you will attempt to either flee, recite a
+scroll of recall if you have one, pray to your diety, or cast the spell
+'blink' if you are a mage.  Again, this is not failsafe, so be warned.
+
+Wimpy pray values above 33% provide no additional protection; you will not
+automatically pray unless you have no more than 33% of your hp when not
+fighting, or 25% when fighting, since your deity would always refuse to help
+you anyway.
+</pre>
+
+<hr>
+</body>
+</html>

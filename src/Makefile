@@ -4,7 +4,7 @@ CPP     = c++
 DEBUG   = -g
 WARN    = -Wall
 OPT     = -O2
-CFLAGS  = $(DEBUG) ${OPT} $(WARN) $(PROF)
+CFLAGS  = $(DEBUG) ${OPT} $(WARN) $(PROF) -m32
 C_FLAGS = $(CFLAGS) 
 VPATH   = ./OBJ
 
@@ -68,4 +68,8 @@ depend: $(C_FILES)
 
 .cc.o:
 	$(CPP) -c $(C_FLAGS) -I. $< -o $(DIR)/$@
+
+install: all
+	cp tfe ../bin/
+	cp daemon ../bin/
 

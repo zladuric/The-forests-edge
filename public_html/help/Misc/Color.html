@@ -1,0 +1,91 @@
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title>Help Topic: Color</title>
+</head>
+<body style="color: ivory; background-color: #305a7a;"
+  link="#33ccff" vlink="#66cccc" alink="#33ccff">
+<table style="width: 100%; text-align: left;" border="0" cellspacing="0"  cellpadding="0">  <tbody>    <tr>      <td style="background-color: rgb(163, 191, 147);"> <img src="../../scary_forest.jpg" title="" alt="" style="width: 224px; height: 150px;" width="224" height="150"><br>      </td>      <td style="background-color: rgb(163, 191, 147); text-align: center; vertical-align: middle;"><big style="color: ivory;"><big><big><big><span style="font-style: italic;">The Forest's Edge</span></big></big></big></big><br>      </td>      <td style="background-color: rgb(163, 191, 147);"><img src="../../path.jpg" title="" alt="" style="width: 200px; height: 150px;" align="right"> </td>    </tr>  </tbody></table><br><br><table cellpadding="0" cellspacing="0" border="0" style="text-align: left; width: 100%;"><tbody>
+    <tr><td><br></td></tr>
+    <tr><td style="vertical-align: top; width: 150px;">
+      <a href="../../index.html">Home</a><br><br>
+      <a href="telnet://tfe.genesismuds.com:2000">Connect</a><br><br>
+      <a href="../../players.html">Player Directory</a><br><br>
+      <a href="../../who.cgi">Who's Online</a><br><br>
+      <a href="../../help/index.html">Help Pages</a><br><br>
+      <a href="../../clans/index.html">Player Clans</a><br><br>
+      <a href="../../resources.html"> Resources</a><br><br>
+      <a href="../../credits.html">Credits</a><br>
+      </td>
+ <td style="vertical-align: top;">      <div align="left"><big><big>Help Topic: Color</big></big><br>      </div>      <br>
+<hr>
+<pre>
+<span style="font-weight:bold; color:cyan;">SYNTAX</span>
+
+color                      : display settings and options
+color &lt;term_type&gt;          : sets terminal type
+color &lt;item&gt; &lt;format&gt;      : sets color of different items
+color lines &lt;# lines&gt;      : sets size of window
+color columns &lt;# columns&gt;  : sets terminal width
+
+<span style="font-weight:bold; color:cyan;">DESCRIPTION</span>
+
+So to set your terminal to ansi type 'color ansi' then to make room names
+appear in bold type 'color room_name bold'.  To have a status bar type 'option
+status'.  Note though for any of the colors to work you need to have your
+term_type set to something other than dumb.  The possible formats for the
+various groups are listed by typing just 'color'.  The colors such as
+red/green/yellow only work in ansi mode as vt100 does not support these colors.
+   
+    
+<span style="font-weight:bold; color:cyan;">Color Options:</span>
+       
+default : the color of your default text.
+room.name : the color the room name is displayed in.
+tell : the color you will receive tells in.
+say : the color you will see what people say in.
+gossip : the color you will receive gossips in.
+weather : sunrise, clouds, the moon, etc.
+wizard : avatar channel and all immortal channels.
+  Also, used when a &quot;wizard&quot;-type action happens, like approval, docking, etc.
+skill : seen when a skill succeeds, or improves.
+chant: chant channel color.
+newbie : newbie channel, seen by avs/imms and players up to level 10.
+titles : are titles... on score, who, etc.
+ctell : clan tell color.
+chat : color you will see chat in.
+gtell : color you will see group tells in.
+auction : color you will see auction information in.
+info : color info (logins/deaths/etc, see help info) is in.
+emote : color when someone uses the <span style="font-weight:bold;">emote</span> command.
+social : color when someone uses any <span style="font-weight:bold;">social</span> command.
+input : color of your typed commands (experimental).
+to.self : color you see when mob does damage to you.
+to.group : color you see when group member takes dmg.
+by.self : color you see when doing dmg to a mob.
+by.group : color you see dmg done to mob by group members.
+mild.emphasis : for the @e setting in help color_codes
+strong.emphasis : for the @E setting in color_codes
+black : what color you will view black text as.
+red : what color you will view red text as.
+green : what color you will view green text as.
+yellow : what color you will view yellow text as.
+blue : what color you will view blue text as.
+magenta : what color you will see magenta text as.
+cyan : what color you will see cyan text as.
+white : what color you will view white text as.
+
+<span style="font-weight:bold; color:cyan;">Color Formats:</span>
+
+The &lt;format&gt; argument consists of one or more of the following:
+
+{ bold, reverse, blinking, underlined, black.text, red.text, green.text,
+yellow.text, blue.text, magenta.text, cyan.text, white.text, black.bg, red.bg,
+green.bg, yellow.bg, blue.bg, magenta.bg, cyan.bg, white.bg }
+  
+
+Several of the more common settings can be reviewed by viewing help color_code.
+</pre>
+
+<hr>
+</body>
+</html>

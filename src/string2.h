@@ -8,7 +8,7 @@ typedef std::basic_string <char> text;
 extern char *const empty_string;
 
 
-int           strcasecmp     ( const char*, const char* );
+int           strcasecmp     ( const char*, const char* ) throw();
 int           strncasecmp    ( const char*, const char*, int );
 int           strncmp        ( const char*, const char*, int );
 int           rstrcasecmp    ( const char*, const char* );

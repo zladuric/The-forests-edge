@@ -1,0 +1,114 @@
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title>Help Topic: Options</title>
+</head>
+<body style="color: ivory; background-color: #305a7a;"
+  link="#33ccff" vlink="#66cccc" alink="#33ccff">
+<table style="width: 100%; text-align: left;" border="0" cellspacing="0"  cellpadding="0">  <tbody>    <tr>      <td style="background-color: rgb(163, 191, 147);"> <img src="../../scary_forest.jpg" title="" alt="" style="width: 224px; height: 150px;" width="224" height="150"><br>      </td>      <td style="background-color: rgb(163, 191, 147); text-align: center; vertical-align: middle;"><big style="color: ivory;"><big><big><big><span style="font-style: italic;">The Forest's Edge</span></big></big></big></big><br>      </td>      <td style="background-color: rgb(163, 191, 147);"><img src="../../path.jpg" title="" alt="" style="width: 200px; height: 150px;" align="right"> </td>    </tr>  </tbody></table><br><br><table cellpadding="0" cellspacing="0" border="0" style="text-align: left; width: 100%;"><tbody>
+    <tr><td><br></td></tr>
+    <tr><td style="vertical-align: top; width: 150px;">
+      <a href="../../index.html">Home</a><br><br>
+      <a href="telnet://tfe.genesismuds.com:2000">Connect</a><br><br>
+      <a href="../../players.html">Player Directory</a><br><br>
+      <a href="../../who.cgi">Who's Online</a><br><br>
+      <a href="../../help/index.html">Help Pages</a><br><br>
+      <a href="../../clans/index.html">Player Clans</a><br><br>
+      <a href="../../resources.html"> Resources</a><br><br>
+      <a href="../../credits.html">Credits</a><br>
+      </td>
+ <td style="vertical-align: top;">      <div align="left"><big><big>Help Topic: Options</big></big><br>      </div>      <br>
+<hr>
+<pre>
+<span style="color:blue;"></span><span style="font-weight:bold; color:cyan;">SYNTAX</span>
+
+options                    : see how your various options are set.
+options &lt;option&gt;           : toggle the specified option.
+options &lt;option&gt; &lt;level #&gt; : sets option level for that option.
+
+<span style="color:blue;"></span><span style="font-weight:bold; color:cyan;">DESCRIPTION</span>
+The 'options' command will allow you to view and configure the options
+which control your interface and affect your environment.
+
+By typing 'options' with no arguments, you will see the options you
+currently have set.
+
+By typing 'options' followed by one of the available keywords, you
+will toggle the stated option.
+<span style="color:cyan;">Example:</span>
+<span style="font-weight:bold;">opt no_summon</span> will toggle no_summon on or off.
+You will see a message stating : &quot;No_summon set to TRUE&quot; (or FALSE, as
+the case may be).  If the message were, &quot;No_summon set to TRUE,&quot; then you
+cannot be summoned.
+
+Note that the '*' after the flag indicates that the option is 'on'; eg,
+no_summon (*) indicates that you cannot be summoned.
+
+Options under 'Option Levels' can be set from 0 to 3 by typing option
+&lt;option&gt; &lt;#&gt;, and the number is shown in parentheses.  Setting an option
+level at 0 will turn off the level-settable option and be indicated with
+a hyphen with the parentheses.
+
+<span style="color:blue;">OPTIONS AND MEANINGS</span>
+
+auto.assist  : Automatically assist your group members in battle.
+auto.exit    : Display the open exits in a room automatically.
+               (only works with Room.Info set to 1, see below)
+auto.skin    : Automatically skin corpses you kill.
+auto.split   : Automatically share looted coins among your group.
+brief        : Disables the showing of room <span style="font-weight:bold; color:cyan;">DESCRIPTION</span>s.
+chant        : Turns the chant channel on or off.
+chat         : Turns the chat channel on or off.
+gossip       : Turn on or off the gossip channel.
+join.fight   : Prevents you from walking out of the room when someone you
+               assist in battle is fighting.
+newbie       : Turns on or off the newbie channel.
+no.intro     : Prevents others from introducing themselves to you or
+               introducing you to someone else.
+no.summon    : Prohibits others from summoning you.
+numeric      : Displays numbers instead of worded numbers.
+reverse      : Reverses order in which notes are displayed.
+searching    : Search for secret doors on every move.
+track        : Allows you to see the tracks of others.
+parry        : If on, will fight only defensively.
+pet.assist   : Have your pet automatically assist you in battle.
+lang.id      : Display the language other people are speaking in.
+say.repeat   : Repeat what you typed in or just confirm with 'Ok.'
+status.bar   : Display a status bar with info about your character.
+no.leech     : Prevent other players from leeching spells on you.
+ctell        : Toggles clan talk channel on or off.
+portal       : Sends you to portal when mud crashes or reboots.
+atalk        : Toggles auction talk channel on or off.
+no.wake      : Prevents other players from waking you while you sleep.
+window.name  : In an XTerm-compatible window, sets the window title.
+editor.quiet : Stops the text editor from re-displaying the entire buffer
+               after simple edit operations.
+info.time    : Shows a timestamp for each item displayed by the info
+               command.
+no.copper    : Autoloot (see below) will not loot copper coins.
+
+<span style="color:blue;">Options with levels and their Meanings</span>
+
+ Autoloot  : Automatically loots things off a slain mob.
+             0 = off             | 1 = don't loot, just list the loot
+             2 = gold only       | 3 = gold and items
+NOTE: Some mobs drop items when they die.  These items will NOT be picked up
+by Autoloot.
+
+ Autoscan  : Automatically scans when entering rooms.
+             0 = off             | 1 = autoscan anywhere but towns
+             2 = (same as 1)     | 3 = autoscan anywhere
+
+ Ignore    : Limits those who can send you <span style="color:green;">tell</span>s to specific groups.
+             0 = off             | 1 = only introduced people
+             2 = only befriended | 3 = recieve no tells
+
+ Room.Info : Reveals more details to each room.
+             0 = off             | 1 = shows visible exits
+             2 = all room info   | 3 = same as 2
+
+ See also: incognito
+</pre>
+
+<hr>
+</body>
+</html>

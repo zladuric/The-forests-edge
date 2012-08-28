@@ -76,7 +76,7 @@ static bool null_strings( const char* astr, const char* bstr )
    case into accounted (compares tolower'd strings).  If one string is 
    less then the other, truncates the longer string and compares the two
    shortened strings */
-int strcasecmp( const char* astr, const char* bstr )
+int strcasecmp( const char* astr, const char* bstr ) throw()
 {
   /* If the two pointers point to the same thing, return equal */
   if( astr == bstr )
@@ -129,7 +129,7 @@ int strncmp( const char* astr, const char* bstr, int n )
 }
 
 
-char* strcat( char* dst, const char* src )
+char* strcat( char* dst, const char* src ) throw()
 {
   char *s;
 

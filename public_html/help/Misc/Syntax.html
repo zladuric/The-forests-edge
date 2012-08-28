@@ -1,0 +1,54 @@
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title>Help Topic: Syntax</title>
+</head>
+<body style="color: ivory; background-color: #305a7a;"
+  link="#33ccff" vlink="#66cccc" alink="#33ccff">
+<table style="width: 100%; text-align: left;" border="0" cellspacing="0"  cellpadding="0">  <tbody>    <tr>      <td style="background-color: rgb(163, 191, 147);"> <img src="../../scary_forest.jpg" title="" alt="" style="width: 224px; height: 150px;" width="224" height="150"><br>      </td>      <td style="background-color: rgb(163, 191, 147); text-align: center; vertical-align: middle;"><big style="color: ivory;"><big><big><big><span style="font-style: italic;">The Forest's Edge</span></big></big></big></big><br>      </td>      <td style="background-color: rgb(163, 191, 147);"><img src="../../path.jpg" title="" alt="" style="width: 200px; height: 150px;" align="right"> </td>    </tr>  </tbody></table><br><br><table cellpadding="0" cellspacing="0" border="0" style="text-align: left; width: 100%;"><tbody>
+    <tr><td><br></td></tr>
+    <tr><td style="vertical-align: top; width: 150px;">
+      <a href="../../index.html">Home</a><br><br>
+      <a href="telnet://tfe.genesismuds.com:2000">Connect</a><br><br>
+      <a href="../../players.html">Player Directory</a><br><br>
+      <a href="../../who.cgi">Who's Online</a><br><br>
+      <a href="../../help/index.html">Help Pages</a><br><br>
+      <a href="../../clans/index.html">Player Clans</a><br><br>
+      <a href="../../resources.html"> Resources</a><br><br>
+      <a href="../../credits.html">Credits</a><br>
+      </td>
+ <td style="vertical-align: top;">      <div align="left"><big><big>Help Topic: Syntax</big></big><br>      </div>      <br>
+<hr>
+<pre>
+This mud expects a syntax of input slightly different than most muds, which
+can be confusing at first.  There are special characters that must be used in
+conjunction with certain commands to either distinguish between items with
+similar names, or do an action to multiple items.
+
+There are many objects in the mud that have almost identical names.  For
+example, if you have a short sword and a long sword in your inventory, typing
+'look sword' might not look at the correct sword.  To look specifically at the
+long sword, you would put a period in between the words of the object's name.
+So, 'look long.sword' would look at the long sword.  If you wanted to <span style="text-decoration:underline;">buy</span> a
+soft leather jacket and not a hard leather jacket, you would type 'buy
+soft.leather.jacket'.
+
+Often, you will want to do something with many of the same type of item.  To
+get, give, drop, <span style="text-decoration:underline;">sell</span>, or <span style="text-decoration:underline;">buy</span> many of the same type of item, you would use the
+'*' character in front of the object's name, in the form x*&lt;object&gt;, x being
+the number of that object.  For example, to drop 10 copper pieces, you would
+type 'drop 10*copper'.  To buy 3 wooden shields, you would type 'buy
+3*wooden.shield'.
+
+The prefix 'all' is also used.  To sell all the skins in your inventory, you
+would type 'sell all.skin'.  HOWEVER, 'all' can be used in two ways.  To get
+all the objects from your bag, you would type 'get all bag'.  But, to get all
+the bags in the room, you would type 'get all.bag'.
+
+Finally, you can use a comma to group objects that don't have keywords in
+common.  For example, if you want to drop a bronze sword and 5 pebbles, you
+can use &quot;drop bronze.sword,5*pebble&quot;.
+</pre>
+
+<hr>
+</body>
+</html>

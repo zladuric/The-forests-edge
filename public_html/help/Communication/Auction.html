@@ -1,0 +1,67 @@
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title>Help Topic: Auction</title>
+</head>
+<body style="color: ivory; background-color: #305a7a;"
+  link="#33ccff" vlink="#66cccc" alink="#33ccff">
+<table style="width: 100%; text-align: left;" border="0" cellspacing="0"  cellpadding="0">  <tbody>    <tr>      <td style="background-color: rgb(163, 191, 147);"> <img src="../../scary_forest.jpg" title="" alt="" style="width: 224px; height: 150px;" width="224" height="150"><br>      </td>      <td style="background-color: rgb(163, 191, 147); text-align: center; vertical-align: middle;"><big style="color: ivory;"><big><big><big><span style="font-style: italic;">The Forest's Edge</span></big></big></big></big><br>      </td>      <td style="background-color: rgb(163, 191, 147);"><img src="../../path.jpg" title="" alt="" style="width: 200px; height: 150px;" align="right"> </td>    </tr>  </tbody></table><br><br><table cellpadding="0" cellspacing="0" border="0" style="text-align: left; width: 100%;"><tbody>
+    <tr><td><br></td></tr>
+    <tr><td style="vertical-align: top; width: 150px;">
+      <a href="../../index.html">Home</a><br><br>
+      <a href="telnet://tfe.genesismuds.com:2000">Connect</a><br><br>
+      <a href="../../players.html">Player Directory</a><br><br>
+      <a href="../../who.cgi">Who's Online</a><br><br>
+      <a href="../../help/index.html">Help Pages</a><br><br>
+      <a href="../../clans/index.html">Player Clans</a><br><br>
+      <a href="../../resources.html"> Resources</a><br><br>
+      <a href="../../credits.html">Credits</a><br>
+      </td>
+ <td style="vertical-align: top;">      <div align="left"><big><big>Help Topic: Auction</big></big><br>      </div>      <br>
+<hr>
+<pre>
+<span style="font-weight:bold;">SYNTAX</span>
+
+<span style="font-weight:bold; color:green;">auction</span>                  : lists items for sale
+<span style="font-weight:bold; color:green;">auction</span> &lt;item&gt; &lt;min_bid&gt; : places an item on the <span style="font-weight:bold; color:green;">auction</span> block
+<span style="font-weight:bold; color:green;">auction</span> undo [slot]      : removes an item placed on the auction block
+
+<span style="font-weight:bold;">DESCRIPTION</span>
+
+Auction places an item on the <span style="font-weight:bold; color:green;">auction</span> block.  At this point a timer is
+started.  Players may bid on an item using the bid command.  To place a bid
+you must have sufficent funds in your bank account.  At the end of the time
+whoever has placed the highest bid receives the item.  If noone has bid on the
+item it is returned to the seller.  If either seller or buyer has quit the
+game the transaction still occurs with the player file being modified as
+appropriate.  Gold is only transfered between bank accounts so if an item is
+sold the seller's bank account will be credited with the bid price (minus the
+daemon'e fee of 5%) and the buyer's debited.  The auction undo command removes an
+item from the block assuming it is issued shortly after the item is auctioned.
+If the buyer's inventory is full, the item is dropped nearby, so be sure that
+you have available inventory space before bidding!
+
+You may set how much information you receive over the info channel about
+auction with iflag auction.  Level 1 means you only receive a message when an
+item is placed on the block.  Level 2 adds messages for the selling of items.
+Level 3 is all messages including bids on items.
+
+The abbreviations listed under condition are described below:
+
+wls = worthless
+dmg = damaged
+vwn = very worn
+wrn = worn
+vsc = very scratched
+scr = scratched
+rea = reasonable
+goo = good
+vgo = very good
+exc = excellent
+prf = perfect
+
+See also: bid, iflag, atalk
+</pre>
+
+<hr>
+</body>
+</html>
